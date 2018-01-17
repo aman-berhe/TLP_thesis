@@ -1,2 +1,2 @@
 # TLP_thesis
-Extraction and Description
+Extraction and description of the narrative structures of Tv series

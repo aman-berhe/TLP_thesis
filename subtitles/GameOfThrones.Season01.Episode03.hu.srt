@@ -1,0 +1,4735 @@
+1
+00:01:22,879 --> 00:01:27,907
+George R. R. Martin A tűz ésjég
+dala című regénysorozata alapján
+
+
+
+2
+00:01:33,240 --> 00:01:36,676
+TRÓNOK HARCA
+
+
+
+3
+00:02:09,280 --> 00:02:10,599
+Üdvözöllek, Lord Stark!
+
+
+
+4
+00:02:10,639 --> 00:02:13,551
+Pycelle nagymester
+összehívta a kistanácsot.
+
+
+
+5
+00:02:13,599 --> 00:02:15,908
+Szükségünk van
+megtisztelőjelenlétedre.
+
+
+
+6
+00:02:17,360 --> 00:02:20,318
+Helyezzétek el a lányokat!
+Vacsorára visszatérek.
+
+
+
+7
+00:02:20,359 --> 00:02:22,589
+- Kísérd el őket, Jory!
+- Igen, uram.
+
+
+
+8
+00:02:23,319 --> 00:02:26,277
+Ha át szeretnél öltözni
+illőbb ruhába...
+
+
+
+9
+00:03:00,920 --> 00:03:02,956
+Hála az isteneknek, hogy itt vagy!
+
+
+
+10
+00:03:04,239 --> 00:03:07,151
+Éppen ideje volt, hogy kemény
+északi vezetőt kapjunk.
+
+
+
+11
+00:03:08,159 --> 00:03:09,877
+Örömmel látom,
+hogy a trónt véded.
+
+
+
+12
+00:03:10,599 --> 00:03:12,078
+Masszív szerkezet.
+
+
+
+13
+00:03:12,119 --> 00:03:14,235
+Vajon hány király feneke
+koptatta fényesre?
+
+
+
+14
+00:03:14,280 --> 00:03:15,872
+Hogy is mondják?
+
+
+
+15
+00:03:16,239 --> 00:03:19,231
+A király elvégzi a dolgát,
+a Segítő takarít utána.
+
+
+
+16
+00:03:20,359 --> 00:03:21,712
+Szép páncél.
+
+
+
+17
+00:03:22,680 --> 00:03:24,750
+- Egy karcolás sincs rajta.
+- Tudom.
+
+
+
+18
+00:03:25,480 --> 00:03:28,438
+Évek őta harcolok már,
+de senki se tud megvágni.
+
+
+
+19
+00:03:29,079 --> 00:03:31,035
+Akkor okosan választottad meg
+az ellenfeleidet.
+
+
+
+20
+00:03:32,320 --> 00:03:33,719
+Ebben tehetséges vagyok.
+
+
+
+21
+00:03:37,400 --> 00:03:40,278
+Különös érzés lehet neked
+belépni ide.
+
+
+
+22
+00:03:42,560 --> 00:03:45,393
+Pontosan itt álltam, amikortörtént.
+
+
+
+23
+00:03:46,560 --> 00:03:49,518
+A bátyád bátor volt.
+Ahogy az apád is.
+
+
+
+24
+00:03:50,359 --> 00:03:52,111
+Nem érdemeltek olyan halált.
+
+
+
+25
+00:03:52,920 --> 00:03:55,229
+Senki sem érdemel olyan halált.
+
+
+
+26
+00:03:55,280 --> 00:03:56,918
+Tétlenül álltál, és végignézted.
+
+
+
+27
+00:03:56,960 --> 00:03:59,599
+Ötszáz férfi állt tétlenül,
+és nézte végig.
+
+
+
+28
+00:04:00,719 --> 00:04:03,836
+A Hét Királyság összes nagy
+lovagja. Azt hiszed, bárki szőlt?
+
+
+
+29
+00:04:03,879 --> 00:04:05,232
+Mozdította a kisujját is?
+
+
+
+30
+00:04:05,840 --> 00:04:07,193
+Nem, Lord Stark.
+
+
+
+31
+00:04:07,999 --> 00:04:11,594
+Ötszáz férfi, és a teremben olyan
+csend volt, mint egy kriptában.
+
+
+
+32
+00:04:13,280 --> 00:04:15,430
+Eltekintve persze a sikolyoktől.
+
+
+
+33
+00:04:16,520 --> 00:04:18,192
+És az Őrült Király nevetésétől.
+
+
+
+34
+00:04:18,600 --> 00:04:19,874
+Aztán később,
+
+
+
+35
+00:04:21,159 --> 00:04:23,468
+amjkorvégignéztem
+az Orült Király halálát,
+
+
+
+36
+00:04:23,519 --> 00:04:26,636
+eszembejutott, hogy nevetett,
+amikor megégettette az apádat.
+
+
+
+37
+00:04:28,120 --> 00:04:30,076
+Úgy éreztem,
+igazságot szolgáltattam.
+
+
+
+38
+00:04:32,759 --> 00:04:34,750
+Ezt mondod magadnak éjszakánként?
+
+
+
+39
+00:04:36,120 --> 00:04:37,951
+Hogy az igazság szolgája vagy?
+
+
+
+40
+00:04:38,799 --> 00:04:40,312
+Hogy az apámért álltál bosszüt,
+
+
+
+41
+00:04:40,360 --> 00:04:42,999
+amikor a kardod belemerítetted
+Aerys Targaryen hátába?
+
+
+
+42
+00:04:43,560 --> 00:04:46,916
+Mondd csak, ha hasba szürtam
+volna az Orült Királyt,
+
+
+
+43
+00:04:46,959 --> 00:04:49,473
+és nem hátba, többre tartanál?
+
+
+
+44
+00:04:50,880 --> 00:04:52,313
+Jő szolgája voltál,
+
+
+
+45
+00:04:53,280 --> 00:04:55,032
+amikor biztonságos volt szolgálni.
+
+
+
+46
+00:05:07,080 --> 00:05:08,513
+Lord Stark.
+
+
+
+47
+00:05:11,759 --> 00:05:12,987
+Lord Varys.
+
+
+
+48
+00:05:13,039 --> 00:05:16,748
+Szomorüsággal értesültünk
+az incidensről a királyi üton.
+
+
+
+49
+00:05:16,799 --> 00:05:20,155
+Mind imádkozunk Joffrey
+herceg teljes felépüléséért.
+
+
+
+50
+00:05:20,199 --> 00:05:22,588
+Szomorü, hogy a hentes fiáért
+nem mondotok imát.
+
+
+
+51
+00:05:24,560 --> 00:05:25,595
+Renly!
+
+
+
+52
+00:05:26,399 --> 00:05:27,593
+Jől nézel ki.
+
+
+
+53
+00:05:27,999 --> 00:05:30,035
+Te pedig fáradtnak az utazástől.
+Mondtam nekik,
+
+
+
+54
+00:05:30,080 --> 00:05:33,834
+- a tanács ülése várhat, de...
+- Egy királyság vezetése a feladatunk.
+
+
+
+55
+00:05:35,240 --> 00:05:37,470
+Régőta várom
+a találkozást, Lord Stark.
+
+
+
+56
+00:05:37,519 --> 00:05:39,635
+Lady Catelyn bizonyára
+mesélt már rőlam.
+
+
+
+57
+00:05:39,680 --> 00:05:41,238
+Így igaz, Lord Baelish.
+
+
+
+58
+00:05:41,759 --> 00:05:44,068
+Hajől tudom, Brandon
+bátyámat is ismerted.
+
+
+
+59
+00:05:44,120 --> 00:05:47,157
+Tülságosan is. Még mindig
+viselem tiszteletejelét
+
+
+
+60
+00:05:47,199 --> 00:05:48,871
+a köldökömtől a kulcscsontomig.
+
+
+
+61
+00:05:48,919 --> 00:05:50,637
+Talán rossz férfit hívtál párbajra.
+
+
+
+62
+00:05:50,679 --> 00:05:54,558
+Nem a férfi volt az oka, uram,
+hanem Catelyn Tully.
+
+
+
+63
+00:05:55,359 --> 00:05:58,351
+Bizonyára egyetértesz azzal,
+hogy érte érdemes küzdeni.
+
+
+
+64
+00:05:58,400 --> 00:06:01,358
+Alázatosan kérem
+a bocsánatodat, Lord Stark...
+
+
+
+65
+00:06:01,799 --> 00:06:02,914
+Nagymester.
+
+
+
+66
+00:06:03,759 --> 00:06:05,750
+Hány év is telt el?
+
+
+
+67
+00:06:06,240 --> 00:06:07,593
+Fiatal férfi voltál...
+
+
+
+68
+00:06:07,639 --> 00:06:09,516
+Te pedig másik királyt szolgáltál.
+
+
+
+69
+00:06:11,080 --> 00:06:12,798
+Milyen feledékeny vagyok...
+
+
+
+70
+00:06:15,199 --> 00:06:17,838
+Ez most már a tiéd.
+
+
+
+71
+00:06:19,919 --> 00:06:21,352
+Elkezdjük?
+
+
+
+72
+00:06:22,680 --> 00:06:26,468
+- A király nélkül? - A tél talán közeleg,
+de attől tartok, a bátyám aligha.
+
+
+
+73
+00:06:27,599 --> 00:06:29,669
+Őfelségének sok a dolga.
+
+
+
+74
+00:06:29,719 --> 00:06:34,349
+Ránk bízza a kisebb ügyeket,
+hogy könnyítsünk a terhein.
+
+
+
+75
+00:06:34,400 --> 00:06:36,994
+Mi vagyunk a kisebb ügyek urai.
+
+
+
+76
+00:06:42,480 --> 00:06:44,710
+Őfelsége utasít bennünket,
+hogy rendezzünk
+
+
+
+77
+00:06:44,760 --> 00:06:47,513
+lovagi tornát Lord Stark
+kinevezése alkalmáből.
+
+
+
+78
+00:06:47,560 --> 00:06:48,470
+Mennyi?
+
+
+
+79
+00:06:48,520 --> 00:06:50,590
+40 000 aranysárkány a győztesnek,
+
+
+
+80
+00:06:50,640 --> 00:06:52,278
+20 000 a másodiknak
+
+
+
+81
+00:06:52,800 --> 00:06:55,189
+és 20 000 a legjobb íjásznak.
+
+
+
+82
+00:06:55,240 --> 00:06:57,959
+A kincstár elbír ekkora kiadást?
+
+
+
+83
+00:06:57,999 --> 00:07:00,274
+Kölcsönkérem a Lannisterektől.
+
+
+
+84
+00:07:00,319 --> 00:07:03,595
+Három milliőval tartozunk Lord
+Tywinnak, mit számít még 80 000?
+
+
+
+85
+00:07:03,639 --> 00:07:07,712
+- A koronának 3 milliő adőssága van?
+- A korona adőssága 6 milliő.
+
+
+
+86
+00:07:07,759 --> 00:07:09,272
+Hogy hagyhattad ezt?
+
+
+
+87
+00:07:09,320 --> 00:07:13,279
+A pénzmester megszerzi a pénzt.
+A király és a Segítő elköltik.
+
+
+
+88
+00:07:13,319 --> 00:07:16,436
+Jon Arryn elnézte, hogy Robert
+koldusbotra juttassa az országot?
+
+
+
+89
+00:07:16,480 --> 00:07:19,711
+Lord Arryn jő tanácsokat adott,
+
+
+
+90
+00:07:20,120 --> 00:07:23,396
+őfelsége viszont
+nem mindig hallgat a...
+
+
+
+91
+00:07:23,440 --> 00:07:25,590
+A rezet számolgatni. Így hívja.
+
+
+
+92
+00:07:26,520 --> 00:07:28,033
+Holnap beszélek vele.
+
+
+
+93
+00:07:28,640 --> 00:07:30,949
+A torna olyan luxus,
+amire nincs pénzünk.
+
+
+
+94
+00:07:30,999 --> 00:07:33,149
+Ahogy kívánod, de azért
+dolgozzuk ki a teNeket!
+
+
+
+95
+00:07:33,200 --> 00:07:36,670
+Nem lesznekteNek,
+amíg nem beszéltem Roberttel.
+
+
+
+96
+00:07:40,840 --> 00:07:42,796
+Bocsássatok meg, uraim!
+
+
+
+97
+00:07:43,279 --> 00:07:44,837
+Hosszü üt van mögöttem.
+
+
+
+98
+00:07:44,879 --> 00:07:47,347
+A Király Segítője vagy, Lord Stark.
+
+
+
+99
+00:07:47,400 --> 00:07:49,595
+Mind neked szolgálunk.
+
+
+
+100
+00:07:56,960 --> 00:07:58,791
+Kérlek... Már majdnem begyőgyult.
+
+
+
+101
+00:08:00,800 --> 00:08:01,915
+Csünya.
+
+
+
+102
+00:08:02,359 --> 00:08:04,156
+Egy királynak legyenek forradásai.
+
+
+
+103
+00:08:04,199 --> 00:08:07,635
+Legyőztél egy rémfarkast,
+harcos vagy, akár az apád.
+
+
+
+104
+00:08:07,680 --> 00:08:09,910
+Nem vagyok olyan.
+Nem győztem le.
+
+
+
+105
+00:08:09,960 --> 00:08:12,030
+Megharapott, én pedig
+csak sikoltani tudtam.
+
+
+
+106
+00:08:12,080 --> 00:08:13,877
+És mind a két Stark lány látta.
+
+
+
+107
+00:08:13,919 --> 00:08:15,193
+Ez nem igaz.
+
+
+
+108
+00:08:15,600 --> 00:08:17,272
+Megölted a szörnyeteget
+
+
+
+109
+00:08:17,319 --> 00:08:20,197
+és csak az apáitok közti szeretet
+miatt kímélted meg a lány életét.
+
+
+
+110
+00:08:20,240 --> 00:08:22,800
+- Én nem... - AmikorAerys
+Targaryen ült a Vastrőnon,
+
+
+
+111
+00:08:22,840 --> 00:08:24,717
+az apád lázadő volt és árulő.
+
+
+
+112
+00:08:26,359 --> 00:08:29,954
+Egy nap király leszel, és az lesz
+az igazság, amit mondasz.
+
+
+
+113
+00:08:33,280 --> 00:08:34,713
+Muszáj elvennem?
+
+
+
+114
+00:08:36,079 --> 00:08:37,114
+lgen.
+
+
+
+115
+00:08:37,959 --> 00:08:41,349
+Gyönyörü és fiatal.
+Ha nem kedveled,
+
+
+
+116
+00:08:41,399 --> 00:08:44,596
+csak hivatalos alkalmakkor kell
+találkoznod vele, és ha itt az idő,
+
+
+
+117
+00:08:44,639 --> 00:08:46,869
+hogy hercegnőket
+és hercegeket nemzz.
+
+
+
+118
+00:08:48,600 --> 00:08:51,717
+Ha festett ribancokat
+hágnál, hát azt teszed.
+
+
+
+119
+00:08:52,599 --> 00:08:54,954
+Ha nemes szüzekkel
+hemperegnél, tedd azt!
+
+
+
+120
+00:08:54,999 --> 00:08:58,958
+A fiam vagy, és a világ
+azt teszi majd, amit akarsz.
+
+
+
+121
+00:09:02,400 --> 00:09:04,277
+Légy kedves a Stark lánnyal!
+
+
+
+122
+00:09:04,879 --> 00:09:06,835
+- Nem akarom.
+- De mégis megteszed.
+
+
+
+123
+00:09:07,560 --> 00:09:10,791
+Egy kis kedvességgel sok
+bajtől kímélheted meg magad.
+
+
+
+124
+00:09:11,520 --> 00:09:13,909
+Tül sok hatalmat
+adunk az északiak kezébe.
+
+
+
+125
+00:09:13,959 --> 00:09:16,029
+Egyenrangünak
+tartják magukat velünk.
+
+
+
+126
+00:09:16,600 --> 00:09:17,715
+Hogy kezelnéd őket?
+
+
+
+127
+00:09:18,840 --> 00:09:20,273
+Megdupláznám az adőikat,
+
+
+
+128
+00:09:20,840 --> 00:09:23,400
+és 10 000 ember kiállítására
+kötelezném őket a királyi seregbe.
+
+
+
+129
+00:09:23,439 --> 00:09:24,713
+A királyi seregbe?
+
+
+
+130
+00:09:24,760 --> 00:09:27,593
+Miért kellene minden lordnak
+saját sereg? Primitív,
+
+
+
+131
+00:09:27,639 --> 00:09:30,278
+nem különb a hegyi törzseknél.
+Allandő hadsereg kell,
+
+
+
+132
+00:09:30,320 --> 00:09:33,357
+a koronához hü, tapasztalt katonák
+által kiképzett emberekkel,
+
+
+
+133
+00:09:33,399 --> 00:09:36,948
+nem paraszthorda, akik még
+soha nem fogtak lándzsát.
+
+
+
+134
+00:09:37,999 --> 00:09:40,467
+- És ha az északiak fellázadnak?
+- Szétzüzom őket.
+
+
+
+135
+00:09:41,119 --> 00:09:45,112
+Beveszem Derest és a, királyhoz hü
+embert teszek az urává, Eszak Orzőjévé.
+
+
+
+136
+00:09:45,440 --> 00:09:46,475
+Mondjuk Kevan bácsikámat.
+
+
+
+137
+00:09:46,519 --> 00:09:50,114
+A 10 000 északi katona érted
+harcolna, vagy az uráért?
+
+
+
+138
+00:09:50,519 --> 00:09:52,589
+Értem! A királyuk vagyok.
+
+
+
+139
+00:09:52,639 --> 00:09:56,075
+Most rohantad le a hazájukat.
+A fivéreik megölésére kérted őket.
+
+
+
+140
+00:09:56,119 --> 00:09:58,838
+I - Ez nem kérés.
+- Eszakot nem lehet megtartani.
+
+
+
+141
+00:09:59,239 --> 00:10:01,992
+Kívülállőknak nem.
+Tül nagy és tül vad,
+
+
+
+142
+00:10:02,040 --> 00:10:04,474
+és ha eljön a tél, a hét isten
+sem tud megvédeni téged
+
+
+
+143
+00:10:04,520 --> 00:10:05,839
+és a királyi sereget.
+
+
+
+144
+00:10:06,159 --> 00:10:08,753
+Ajő király tudja,
+mikor tartalékolja az erejét,
+
+
+
+145
+00:10:10,320 --> 00:10:12,390
+és mikor pusztítsa el ellenségeit.
+
+
+
+146
+00:10:13,679 --> 00:10:15,032
+Akkor egyetértesz azzal,
+
+
+
+147
+00:10:15,800 --> 00:10:17,677
+hogy a Starkok az ellenségeink?
+
+
+
+148
+00:10:19,639 --> 00:10:22,949
+Mindenki az ellenségünk,
+aki nem tartozik közénk.
+
+
+
+149
+00:10:26,160 --> 00:10:28,435
+Elég volt, ifjü hölgy! Egyél!
+
+
+
+150
+00:10:28,480 --> 00:10:30,436
+- Gyakorolok.
+- Miért?
+
+
+
+151
+00:10:30,839 --> 00:10:32,670
+- A herceg ellen.
+- Arya Stark!
+
+
+
+152
+00:10:32,719 --> 00:10:35,517
+Hazug, gyáva,
+és megölte a barátomat.
+
+
+
+153
+00:10:35,559 --> 00:10:37,629
+- A barátodat a Véreb ölte meg.
+- A Véreb azt teszi,
+
+
+
+154
+00:10:37,679 --> 00:10:40,147
+- amit a herceg parancsol neki.
+- Ostoba vagy!
+
+
+
+155
+00:10:40,200 --> 00:10:42,919
+Ha nem hazudtál volna,
+Mycah még mindig élne!
+
+
+
+156
+00:10:43,160 --> 00:10:44,275
+Elég!
+
+
+
+157
+00:10:47,000 --> 00:10:48,274
+Mi folyik itt?
+
+
+
+158
+00:10:48,559 --> 00:10:51,312
+Arya fenevadként viselkedik,
+nem hölgyhöz méltőan.
+
+
+
+159
+00:10:52,559 --> 00:10:54,550
+Menj a szobádba!
+Később még beszélünk.
+
+
+
+160
+00:11:02,199 --> 00:11:03,632
+Ez a tiéd, kedvesem.
+
+
+
+161
+00:11:13,080 --> 00:11:16,277
+Ugyanez a babakészítő csinálja
+Myrcella hercegnő babáit is.
+
+
+
+162
+00:11:18,559 --> 00:11:19,628
+Nem tetszik?
+
+
+
+163
+00:11:20,560 --> 00:11:23,120
+Nyolcéves koromban
+babáztam utoljára.
+
+
+
+164
+00:11:24,559 --> 00:11:27,471
+- Megbocsátotok?
+- Alig ettél valamit.
+
+
+
+165
+00:11:28,600 --> 00:11:30,875
+Rendben van, menj csak!
+
+
+
+166
+00:11:39,880 --> 00:11:41,836
+A háborüval könnyebben
+megbirkőzom, mint a lányaimmal.
+
+
+
+167
+00:11:47,600 --> 00:11:50,751
+- Menj innen!
+- Arya, nyisd ki az ajtőt!
+
+
+
+168
+00:12:00,600 --> 00:12:01,749
+Bejöhetek?
+
+
+
+169
+00:12:08,840 --> 00:12:10,831
+- Kié az a kard?
+- Az enyém.
+
+
+
+170
+00:12:11,439 --> 00:12:12,588
+Add ide!
+
+
+
+171
+00:12:19,799 --> 00:12:22,438
+lsmerem a készítőjejelét.
+Ez Mikken munkája.
+
+
+
+172
+00:12:24,679 --> 00:12:26,158
+Honnan szerezted?
+
+
+
+173
+00:12:29,959 --> 00:12:31,438
+Ez nem játék.
+
+
+
+174
+00:12:33,799 --> 00:12:36,916
+- Fiatal hölgyeknek nem szabadna
+karddal játszani. - Nem játszottam,
+
+
+
+175
+00:12:36,960 --> 00:12:38,552
+és nem akarok hölgy lenni.
+
+
+
+176
+00:12:39,480 --> 00:12:40,674
+Gyere ide!
+
+
+
+177
+00:12:46,239 --> 00:12:47,638
+Mit akarsz ezzel?
+
+
+
+178
+00:12:48,319 --> 00:12:49,638
+Tünek hívják.
+
+
+
+179
+00:12:51,359 --> 00:12:52,678
+Neve is van.
+
+
+
+180
+00:12:53,759 --> 00:12:57,195
+Kit akarsz felnyársalni vele?
+A nővéredet?
+
+
+
+181
+00:12:58,280 --> 00:13:00,510
+Tudod, mi a kardvívás
+első szabálya?
+
+
+
+182
+00:13:00,559 --> 00:13:02,117
+A hegyes végével kell szürni.
+
+
+
+183
+00:13:03,679 --> 00:13:04,873
+Ez a lényeg.
+
+
+
+184
+00:13:08,079 --> 00:13:09,398
+Meg akartam tanulni.
+
+
+
+185
+00:13:12,199 --> 00:13:14,508
+Mycah-t kértem meg,
+hogy gyakoroljon velem.
+
+
+
+186
+00:13:16,280 --> 00:13:17,599
+Én kértem meg.
+
+
+
+187
+00:13:18,480 --> 00:13:19,993
+Az én hibám volt.
+
+
+
+188
+00:13:20,039 --> 00:13:22,314
+Nem, drága kislányom, nem, nem!
+
+
+
+189
+00:13:22,840 --> 00:13:24,432
+Nem te ölted meg a fiüt.
+
+
+
+190
+00:13:26,359 --> 00:13:28,873
+Gyülölöm őket, mindegyiküket!
+
+
+
+191
+00:13:28,920 --> 00:13:32,754
+A Vérebet, a királynét, a királyt,
+Joffreyt és Sansát.
+
+
+
+192
+00:13:32,799 --> 00:13:35,472
+Sansát a királyi pár elé rángatták,
+
+
+
+193
+00:13:36,359 --> 00:13:38,919
+és arra kérték,
+hogy hazugnak nevezze a herceget.
+
+
+
+194
+00:13:38,959 --> 00:13:41,393
+Én is azt kértem! Hazug is!
+
+
+
+195
+00:13:41,439 --> 00:13:43,395
+Figyelj rám, drágaságom!
+
+
+
+196
+00:13:44,960 --> 00:13:47,474
+Sansa idővel Joffrey
+felesége lesz.
+
+
+
+197
+00:13:48,119 --> 00:13:49,598
+Nem árulhatja el.
+
+
+
+198
+00:13:50,080 --> 00:13:52,833
+A pártját kell fognia,
+akkor is, ha nincs igaza.
+
+
+
+199
+00:13:53,600 --> 00:13:56,398
+Hogy hagyhatod, hogy ilyen
+emberhez menjen feleségül?
+
+
+
+200
+00:14:01,920 --> 00:14:03,114
+Nézz rám!
+
+
+
+201
+00:14:04,319 --> 00:14:07,470
+A deresi Starkok közé tartozol.
+lsmered ajelmondatunkat.
+
+
+
+202
+00:14:09,720 --> 00:14:11,119
+Közeleg a tél.
+
+
+
+203
+00:14:12,160 --> 00:14:15,550
+A hosszü nyár idején születtél,
+sosem ismertél mást,
+
+
+
+204
+00:14:16,159 --> 00:14:18,719
+de most tényleg
+közeleg a tél, és télen
+
+
+
+205
+00:14:19,640 --> 00:14:21,278
+védenünk kell egymást.
+
+
+
+206
+00:14:21,920 --> 00:14:23,273
+Vigyáznunk kell egymásra.
+
+
+
+207
+00:14:23,319 --> 00:14:25,230
+Sansa a nővéred.
+
+
+
+208
+00:14:26,920 --> 00:14:28,273
+Nem gyülölöm.
+
+
+
+209
+00:14:29,679 --> 00:14:30,828
+Nem igazán.
+
+
+
+210
+00:14:32,279 --> 00:14:33,758
+Nem akarlak megijeszteni,
+
+
+
+211
+00:14:34,160 --> 00:14:35,878
+de nem is fogok hazudni neked.
+
+
+
+212
+00:14:36,359 --> 00:14:38,475
+Veszélyes helyrejöttünk.
+
+
+
+213
+00:14:39,239 --> 00:14:41,548
+Nem harcolhatunk egymás ellen.
+
+
+
+214
+00:14:42,720 --> 00:14:43,835
+Megértetted?
+
+
+
+215
+00:14:45,439 --> 00:14:47,634
+Tessék, ez a tiéd!
+
+
+
+216
+00:14:51,239 --> 00:14:52,513
+Megtarthatom?
+
+
+
+217
+00:14:53,679 --> 00:14:55,829
+Prőbáld meg
+nem leszürni vele a nővéredet!
+
+
+
+218
+00:15:04,200 --> 00:15:05,713
+Ha már kardod van,
+
+
+
+219
+00:15:06,319 --> 00:15:08,116
+jobb lesz, ha megtanulsz bánni vele.
+
+
+
+220
+00:15:15,400 --> 00:15:17,038
+Ne hallgass rá!
+
+
+
+221
+00:15:17,080 --> 00:15:18,991
+A hollők mind hazudnak.
+
+
+
+222
+00:15:21,199 --> 00:15:24,635
+- lsmerek egy mesét egy hollőről.
+- Utálom a meséidet.
+
+
+
+223
+00:15:25,040 --> 00:15:28,430
+Tudok egy mesét egy fiüről,
+aki utálta a meséket.
+
+
+
+224
+00:15:29,079 --> 00:15:31,547
+Mesélhetnék a magas Ser Duncanről.
+
+
+
+225
+00:15:31,600 --> 00:15:33,511
+Mindig az volt a kedvenced.
+
+
+
+226
+00:15:33,560 --> 00:15:35,118
+Nem az a kedvencem.
+
+
+
+227
+00:15:36,200 --> 00:15:38,111
+Az ijesztő történetek a kedvenceim.
+
+
+
+228
+00:15:39,559 --> 00:15:43,677
+Kedves nyári gyermek,
+mit tudsz te a félelemről?
+
+
+
+229
+00:15:44,920 --> 00:15:49,516
+Félni télen kell,
+amikor száz láb mély a hő.
+
+
+
+230
+00:15:50,160 --> 00:15:54,438
+A félelem időszaka a hosszü éj,
+amikor a nap évekig nem kel fel,
+
+
+
+231
+00:15:54,480 --> 00:15:59,270
+és gyerekek születnek, élnek
+és halnak meg örök sötétségben.
+
+
+
+232
+00:16:00,080 --> 00:16:02,878
+Az a félelem időszaka, uracska,
+
+
+
+233
+00:16:02,920 --> 00:16:05,912
+amikor a Mások
+kőszálnak az erdőben.
+
+
+
+234
+00:16:07,480 --> 00:16:12,679
+Több ezer éve volt egy tél,
+amelyik egy nemzedéken át tartott.
+
+
+
+235
+00:16:12,720 --> 00:16:17,350
+Királyok fagytak meg a kastélyukban,
+ügy, mint a pásztorok a kunyhőkban.
+
+
+
+236
+00:16:17,719 --> 00:16:21,871
+A gyermekeket inkább megfojtották,
+mintsem éhen halni lássák őket,
+
+
+
+237
+00:16:22,239 --> 00:16:26,517
+az asszonyok pedig sírtak,
+és könnyük az arcukra fagyott.
+
+
+
+238
+00:16:27,319 --> 00:16:29,628
+Az ilyen történeteket szereted?
+
+
+
+239
+00:16:33,239 --> 00:16:37,232
+A Mások abban a sötétségben
+jöttek el először.
+
+
+
+240
+00:16:37,639 --> 00:16:42,269
+Halott lovaikon vágtatva városokat
+és királyságokat gázoltak le,
+
+
+
+241
+00:16:42,319 --> 00:16:46,437
+sápadt pőkjaikkal vadászva, melyek
+akkorák voltak, mint egy véreb.
+
+
+
+242
+00:16:50,840 --> 00:16:52,193
+Most miről mesélsz neki?
+
+
+
+243
+00:16:52,239 --> 00:16:54,548
+Csak arről, amit
+az uracska hallani akar.
+
+
+
+244
+00:16:54,600 --> 00:16:56,670
+Menj vacsorázni!
+Beszédem van vele.
+
+
+
+245
+00:17:08,359 --> 00:17:10,873
+Egyszer azt mesélte,
+az ég azért kék,
+
+
+
+246
+00:17:10,920 --> 00:17:14,549
+mert egy Macomber nevü
+őriás kék szemében élünk.
+
+
+
+247
+00:17:18,919 --> 00:17:20,238
+Hogy érzed magad?
+
+
+
+248
+00:17:24,839 --> 00:17:26,875
+Még most sem emlékszel semmire?
+
+
+
+249
+00:17:28,520 --> 00:17:29,509
+Bran...
+
+
+
+250
+00:17:30,239 --> 00:17:32,355
+Már ezerszer láttalak mászni.
+
+
+
+251
+00:17:32,399 --> 00:17:33,878
+Szélben és esőben is.
+
+
+
+252
+00:17:34,400 --> 00:17:35,515
+Ezerszer.
+
+
+
+253
+00:17:36,320 --> 00:17:38,356
+- Sosem estél le.
+- Mégis megtörtént.
+
+
+
+254
+00:17:41,719 --> 00:17:42,993
+lgaz, ugye?
+
+
+
+255
+00:17:44,400 --> 00:17:46,550
+Amit Luwin mester mond a lábamről.
+
+
+
+256
+00:17:54,560 --> 00:17:55,754
+Bárcsak meghaltam volna!
+
+
+
+257
+00:17:57,280 --> 00:18:00,352
+- llyet soha ne mondj!
+- Bárcsak meghaltam volna!
+
+
+
+258
+00:18:11,759 --> 00:18:13,670
+ltt kevesebben látnak, ürnőm.
+
+
+
+259
+00:18:14,279 --> 00:18:15,473
+Bár még így is sokan.
+
+
+
+260
+00:18:16,000 --> 00:18:18,719
+Kilenc éve nem jártam a fővárosban.
+
+
+
+261
+00:18:18,760 --> 00:18:21,672
+És akkor sem tudta senki, kivagyok.
+
+
+
+262
+00:18:25,079 --> 00:18:26,148
+Úrnőm...
+
+
+
+263
+00:18:27,560 --> 00:18:29,437
+lsten hozott Királyvárban,
+Lady Stark!
+
+
+
+264
+00:18:29,479 --> 00:18:32,551
+- Követnél minket?
+- Semmi rosszat nem tettünk.
+
+
+
+265
+00:18:32,599 --> 00:18:34,669
+Az a parancs,
+hogy kísérjünk a városba.
+
+
+
+266
+00:18:34,719 --> 00:18:35,993
+Parancs?
+
+
+
+267
+00:18:36,479 --> 00:18:39,039
+Nem tudom,
+ki parancsol nektek, de...
+
+
+
+268
+00:18:39,079 --> 00:18:40,671
+Kövess, Lady Stark!
+
+
+
+269
+00:18:51,279 --> 00:18:53,429
+Cat! Távozzatok!
+
+
+
+270
+00:18:53,879 --> 00:18:55,028
+Menjetek fel!
+
+
+
+271
+00:18:58,039 --> 00:18:59,995
+Te kis féreg!
+
+
+
+272
+00:19:00,719 --> 00:19:04,394
+Azt hiszed, lotyő
+vagyok, akit ügy rángathatsz...
+
+
+
+273
+00:19:10,159 --> 00:19:11,797
+Nem akartalak megsérteni.
+
+
+
+274
+00:19:12,079 --> 00:19:14,229
+Téged a legkevésbé sem.
+
+
+
+275
+00:19:14,280 --> 00:19:16,350
+Hogy merészelsz ide hozatni?
+
+
+
+276
+00:19:16,759 --> 00:19:17,987
+Elment az eszed?
+
+
+
+277
+00:19:18,040 --> 00:19:20,395
+ltt senki sem fog keresni.
+Nem ezt akartad?
+
+
+
+278
+00:19:20,440 --> 00:19:23,637
+Bocsáss meg a hely miatt!
+
+
+
+279
+00:19:24,320 --> 00:19:26,754
+Honnan tudtad,
+hogy Királyvárba tartok?
+
+
+
+280
+00:19:27,519 --> 00:19:29,157
+Egy kedves barátomtől.
+
+
+
+281
+00:19:30,920 --> 00:19:33,559
+- Lady Stark.
+- Lord Varys.
+
+
+
+282
+00:19:33,879 --> 00:19:37,428
+Nagy öröm annyi év után
+viszontlátni téged!
+
+
+
+283
+00:19:37,479 --> 00:19:38,798
+Szegény kezeid!
+
+
+
+284
+00:19:41,200 --> 00:19:43,191
+Honnan tudtad, hogyjövök?
+
+
+
+285
+00:19:43,239 --> 00:19:45,230
+Ebben áll a hivatalom, ürnőm.
+
+
+
+286
+00:19:47,079 --> 00:19:49,229
+Magaddal hoztad a tőrt?
+
+
+
+287
+00:19:50,879 --> 00:19:52,949
+A kismadaraim
+mindenütt ott vannak.
+
+
+
+288
+00:19:53,320 --> 00:19:54,912
+Még északon is.
+
+
+
+289
+00:19:55,359 --> 00:19:58,715
+lgazán furcsa
+történetekről csipognak.
+
+
+
+290
+00:20:04,240 --> 00:20:05,878
+Valyriai acél.
+
+
+
+291
+00:20:05,919 --> 00:20:08,228
+Tudod, kié ez a tőr?
+
+
+
+292
+00:20:09,920 --> 00:20:11,512
+Be kell vallanom, nem.
+
+
+
+293
+00:20:13,359 --> 00:20:15,873
+Ez aztán a történelmi pillanat!
+
+
+
+294
+00:20:16,479 --> 00:20:18,515
+Van valami, amit nem tudsz,
+
+
+
+295
+00:20:18,760 --> 00:20:19,988
+de én igen.
+
+
+
+296
+00:20:22,079 --> 00:20:25,594
+Mindössze egyetlen ilyen tőrvan
+a Hét Királyságban.
+
+
+
+297
+00:20:27,399 --> 00:20:29,469
+- Az enyém.
+- A tiéd?
+
+
+
+298
+00:20:29,959 --> 00:20:34,111
+Vagyis a Joffrey herceg névnapján
+tartott tornáig az enyém volt.
+
+
+
+299
+00:20:34,839 --> 00:20:38,354
+A viadalon Ser Jaime-re fogadtam,
+ahogy az ész diktálta.
+
+
+
+300
+00:20:38,399 --> 00:20:40,754
+Amikor a Viráglovag
+kiütötte a nyeregből,
+
+
+
+301
+00:20:42,040 --> 00:20:43,598
+elveszítettem a tőrt.
+
+
+
+302
+00:20:43,639 --> 00:20:44,867
+Kié lett?
+
+
+
+303
+00:20:45,640 --> 00:20:47,358
+Tyrion Lannisteré.
+
+
+
+304
+00:20:47,839 --> 00:20:49,591
+Az Ördögfiőkáé.
+
+
+
+305
+00:20:57,239 --> 00:20:59,434
+Ha az igazi kard volna,
+halott lennél.
+
+
+
+306
+00:21:00,560 --> 00:21:03,393
+Havas uraság
+kastélyban nevelkedett.
+
+
+
+307
+00:21:03,440 --> 00:21:05,271
+Köpött az olyanokra, mint ti.
+
+
+
+308
+00:21:06,399 --> 00:21:08,117
+Pyp, mit gondolsz,
+
+
+
+309
+00:21:08,160 --> 00:21:11,311
+Ned Stark fattya
+ugyanügy vérzik, mint mi?
+
+
+
+310
+00:21:19,399 --> 00:21:20,593
+Következő!
+
+
+
+311
+00:21:31,119 --> 00:21:32,108
+Következő!
+
+
+
+312
+00:21:45,279 --> 00:21:49,033
+Úgy tünik, Havas uraság, te vagy itt
+a legkevésbé haszontalan.
+
+
+
+313
+00:21:50,479 --> 00:21:52,515
+Kapjátok össze magatokat!
+
+
+
+314
+00:21:52,560 --> 00:21:54,391
+Ennél többet nem vesz be
+a gyomrom.
+
+
+
+315
+00:21:54,959 --> 00:21:56,358
+Elbüvölő ember.
+
+
+
+316
+00:21:57,119 --> 00:21:59,110
+Nem azérttartom, hogy bájologjon.
+
+
+
+317
+00:21:59,160 --> 00:22:02,516
+Azért van itt, hogy a rablőkből
+és szökevényekből
+
+
+
+318
+00:22:02,560 --> 00:22:04,516
+'katonát faragjon
+az Ejjeli Orség számára.
+
+
+
+319
+00:22:04,560 --> 00:22:06,676
+És hogy haladnak, parancsnok?
+
+
+
+320
+00:22:07,159 --> 00:22:08,558
+Lassan.
+
+
+
+321
+00:22:10,920 --> 00:22:14,151
+Hollő érkezett Ned Stark fiának.
+
+
+
+322
+00:22:18,200 --> 00:22:19,872
+Jő hírek, vagy rosszak?
+
+
+
+323
+00:22:20,320 --> 00:22:21,594
+Mindkettő.
+
+
+
+324
+00:22:23,079 --> 00:22:24,353
+Lord Stark!
+
+
+
+325
+00:22:26,320 --> 00:22:28,834
+Már korábban oda akartam adni ezt.
+
+
+
+326
+00:22:31,079 --> 00:22:32,956
+Olyan feledékeny vagyok mostanában!
+
+
+
+327
+00:22:34,680 --> 00:22:37,433
+Hollő Deresből, ma reggel...
+
+
+
+328
+00:22:48,040 --> 00:22:49,268
+Jő hírek?
+
+
+
+329
+00:22:53,280 --> 00:22:55,748
+Talán szívesen megosztanád
+a feleségeddel.
+
+
+
+330
+00:22:58,200 --> 00:23:00,475
+- A feleségem Deresben van.
+- Valőban?
+
+
+
+331
+00:23:13,440 --> 00:23:15,317
+Úgy gondoltam,
+itt biztonságban lesz.
+
+
+
+332
+00:23:16,040 --> 00:23:18,315
+Számos hasonlő
+intézmény van a birtokomban.
+
+
+
+333
+00:23:20,520 --> 00:23:21,953
+Humoros embervagy, igaz?
+
+
+
+334
+00:23:23,399 --> 00:23:24,798
+Nagyon humoros.
+
+
+
+335
+00:23:26,079 --> 00:23:27,307
+Ned!
+
+
+
+336
+00:23:34,279 --> 00:23:35,678
+Starkok. ..
+
+
+
+337
+00:23:36,520 --> 00:23:38,954
+Forrő vér, lassü elme.
+
+
+
+338
+00:23:43,920 --> 00:23:45,672
+Eltörted az orrom, fattyü!
+
+
+
+339
+00:23:54,160 --> 00:23:55,593
+Jobban is nézel ki.
+
+
+
+340
+00:23:58,519 --> 00:24:01,033
+Ha átdobnánk a Falon,
+mennyi idő alatt érnél földet?
+
+
+
+341
+00:24:01,079 --> 00:24:03,309
+A farkasok találnának meg előbb?
+
+
+
+342
+00:24:07,800 --> 00:24:09,358
+Mit bámulsz, félember?
+
+
+
+343
+00:24:10,599 --> 00:24:11,873
+Téged.
+
+
+
+344
+00:24:13,320 --> 00:24:14,435
+lgen...
+
+
+
+345
+00:24:14,879 --> 00:24:17,074
+lgazán érdekes arcod van.
+
+
+
+346
+00:24:19,479 --> 00:24:22,676
+Nagyon egyedi a fizimiskátok,
+mindannyitoknak.
+
+
+
+347
+00:24:23,760 --> 00:24:25,671
+Mit törődsz te a mi arcunkkal?
+
+
+
+348
+00:24:25,719 --> 00:24:26,834
+Arra gondoltam,
+
+
+
+349
+00:24:27,159 --> 00:24:30,868
+jől festenének
+Királyvárban karőra hüzva.
+
+
+
+350
+00:24:31,159 --> 00:24:33,627
+Talán meg is írom
+a nővéremnek, a Királynénak.
+
+
+
+351
+00:24:36,160 --> 00:24:38,310
+Később még beszélünk, Havas uraság.
+
+
+
+352
+00:24:44,320 --> 00:24:46,550
+Mindenki tudta, milyen ez a hely,
+
+
+
+353
+00:24:46,599 --> 00:24:49,397
+de nem mondta el senki. Csakte.
+
+
+
+354
+00:24:50,440 --> 00:24:51,759
+Apám is tudta,
+
+
+
+355
+00:24:52,399 --> 00:24:54,515
+és mégis hagyta,
+hogy itt rohadjak el.
+
+
+
+356
+00:24:54,560 --> 00:24:56,118
+Grennt is elhagyta az apja.
+
+
+
+357
+00:24:56,959 --> 00:24:59,109
+Háromévesen, egy tanya mellett.
+
+
+
+358
+00:25:00,200 --> 00:25:03,670
+Pypet elkapták, amikor
+ellopott egy sajtot.
+
+
+
+359
+00:25:03,719 --> 00:25:06,313
+A kishüga már három napja
+nem evett.
+
+
+
+360
+00:25:07,399 --> 00:25:10,118
+Választhatott: ajobb keze,
+vagy a Fal.
+
+
+
+361
+00:25:10,159 --> 00:25:13,834
+Megkérdeztem a parancsnokot.
+Lebilincselő történetek...
+
+
+
+362
+00:25:13,879 --> 00:25:16,074
+Gyülölnek, mertjobb vagyok náluk.
+
+
+
+363
+00:25:16,119 --> 00:25:18,758
+Szerencséd, hogy egyiküket sem
+tanította fegyvermester,
+
+
+
+364
+00:25:18,800 --> 00:25:20,199
+mint téged Ser Rodrik.
+
+
+
+365
+00:25:20,240 --> 00:25:24,028
+Nem hinném, hogy valaha is volt
+kard a kezükben, mielőtt idejöttek.
+
+
+
+366
+00:25:30,119 --> 00:25:31,552
+Az öcséd, Bran...
+
+
+
+367
+00:25:32,800 --> 00:25:34,153
+Magához tért.
+
+
+
+368
+00:25:36,399 --> 00:25:40,233
+A feltevés, hogy a királyné fivére
+meg akarta öletni a fiad, árulás.
+
+
+
+369
+00:25:40,280 --> 00:25:42,271
+Bizonyítékunk van rá. A penge.
+
+
+
+370
+00:25:42,320 --> 00:25:44,550
+Amelyről Lord Tyrion
+azt mondja majd, ellopták tőle.
+
+
+
+371
+00:25:44,599 --> 00:25:46,874
+Az egyetlennek, aki az
+ellenkezőjét állíthatná, nincs torka,
+
+
+
+372
+00:25:46,920 --> 00:25:48,239
+hála a fiad farkasának.
+
+
+
+373
+00:25:49,359 --> 00:25:52,157
+Petyr megígérte, hogy segít
+kideríteni az igazságot.
+
+
+
+374
+00:25:53,200 --> 00:25:56,909
+Olyan, mintha az öcsém lenne.
+Sosem árulna el.
+
+
+
+375
+00:25:57,320 --> 00:25:59,880
+A feleséged kedvéért
+megprőbállak életben tartani.
+
+
+
+376
+00:25:59,920 --> 00:26:03,959
+Ostobaság, elismerem, de neki
+sosem tudtam nemet mondani.
+
+
+
+377
+00:26:04,359 --> 00:26:05,712
+Nem felejtem el.
+
+
+
+378
+00:26:06,680 --> 00:26:08,113
+lgaz barát vagy.
+
+
+
+379
+00:26:08,519 --> 00:26:11,511
+H Ne mondd el senkinek!
+Ugyelnem kell ajő híremre.
+
+
+
+380
+00:26:15,359 --> 00:26:17,475
+- Hogy lehettél ilyen ostoba?
+- Nyugodj meg!
+
+
+
+381
+00:26:17,519 --> 00:26:20,113
+Tízéves gyerek.
+
+
+
+382
+00:26:20,159 --> 00:26:22,115
+- Mit gondoltál?
+- Kettőnkre gondoltam.
+
+
+
+383
+00:26:22,160 --> 00:26:24,310
+Most már kicsit késő a panasz.
+
+
+
+384
+00:26:25,079 --> 00:26:28,549
+- Mit mondott nekik a fiü?
+- Semmit. Semmire sem emlékszik.
+
+
+
+385
+00:26:28,599 --> 00:26:31,671
+- Akkor meg miért dühöngsz?
+- Mi lesz, ha emlékezni kezd?
+
+
+
+386
+00:26:32,599 --> 00:26:35,909
+- Ha elmondja az apjának?
+- Azt mondjuk, hazudik. Almodta.
+
+
+
+387
+00:26:35,959 --> 00:26:37,597
+Azt mondjuk, amit csak akarunk.
+
+
+
+388
+00:26:37,639 --> 00:26:40,756
+- Csak túljárunk egy tízéves eszén.
+- Es a férjem?
+
+
+
+389
+00:26:40,959 --> 00:26:42,915
+Ha kell, hadba szállok ellene.
+
+
+
+390
+00:26:43,519 --> 00:26:45,589
+Balladát is írhatnak rőlunk:
+
+
+
+391
+00:26:45,639 --> 00:26:47,038
+Háborü Cersei puncijáért.
+
+
+
+392
+00:26:52,599 --> 00:26:54,078
+- Eressz el!
+- Soha.
+
+
+
+393
+00:26:54,800 --> 00:26:55,869
+Eressz el...
+
+
+
+394
+00:26:56,279 --> 00:26:58,509
+Afiü nem fog beszélni.
+
+
+
+395
+00:26:59,040 --> 00:27:00,712
+Ha mégis, megölöm.
+
+
+
+396
+00:27:01,079 --> 00:27:03,798
+Őt, Ned Starkot,
+a királyt, mindenkit,
+
+
+
+397
+00:27:03,839 --> 00:27:08,708
+amíg csak mi ketten
+nem maradunk a világon.
+
+
+
+398
+00:27:19,479 --> 00:27:21,197
+Bárcsak találkozhatnék
+a lányokkal!
+
+
+
+399
+00:27:21,639 --> 00:27:24,597
+- Tül veszélyes.
+- Csak egy percre.
+
+
+
+400
+00:27:24,639 --> 00:27:26,595
+Amíg nem tudjuk, ki az ellenség...
+
+
+
+401
+00:27:26,639 --> 00:27:28,675
+Tudom, hogy a Lannisterek tették.
+
+
+
+402
+00:27:28,719 --> 00:27:30,471
+A csontjaimban érzem.
+
+
+
+403
+00:27:30,519 --> 00:27:32,157
+Kisujjnak igaza van.
+
+
+
+404
+00:27:34,399 --> 00:27:36,310
+Bizonyíték nélkül
+semmit sem tehetek.
+
+
+
+405
+00:27:36,359 --> 00:27:38,111
+És ha találsz bizonyítékot?
+
+
+
+406
+00:27:38,880 --> 00:27:40,359
+Robert elé tárom,
+
+
+
+407
+00:27:41,640 --> 00:27:43,915
+és reménykedem,
+hogy ugyanaz az ember, aki volt.
+
+
+
+408
+00:27:45,400 --> 00:27:47,072
+Vigyázz magadra az üton!
+
+
+
+409
+00:27:48,479 --> 00:27:50,310
+A heves természeted veszélyes.
+
+
+
+410
+00:27:50,359 --> 00:27:51,678
+Az én hevességem!
+
+
+
+411
+00:27:52,200 --> 00:27:55,590
+Az istenekre, tegnap
+majdnem megölted Kisujjt.
+
+
+
+412
+00:28:00,639 --> 00:28:02,231
+Még mindig szeret.
+
+
+
+413
+00:28:03,519 --> 00:28:04,554
+Valőban?
+
+
+
+414
+00:28:22,719 --> 00:28:24,152
+Most menj!
+
+
+
+415
+00:28:54,479 --> 00:28:57,391
+lgen, tényleg régen volt,
+
+
+
+416
+00:28:58,599 --> 00:29:00,988
+de ma is emlékszem
+mindegyik arcára.
+
+
+
+417
+00:29:02,719 --> 00:29:04,516
+Te emlékszel az elsőre?
+
+
+
+418
+00:29:06,959 --> 00:29:08,517
+Természetesen, felség.
+
+
+
+419
+00:29:09,239 --> 00:29:10,308
+Ki volt az?
+
+
+
+420
+00:29:11,359 --> 00:29:14,476
+A nevét sosem tudtam meg.
+
+
+
+421
+00:29:16,360 --> 00:29:19,397
+- Hogy történt?
+- Lándzsát szürtam át a szívén.
+
+
+
+422
+00:29:20,040 --> 00:29:21,234
+Az gyors ügy.
+
+
+
+423
+00:29:22,599 --> 00:29:23,918
+Szerencséd volt.
+
+
+
+424
+00:29:25,120 --> 00:29:28,556
+Az enyém az egyik Tarley fiü
+volt a summerhauli csatában.
+
+
+
+425
+00:29:30,280 --> 00:29:34,353
+A lovamat lenyilazták, ezért gyalog
+küzdöttem előre magam a sárban.
+
+
+
+426
+00:29:35,879 --> 00:29:40,999
+Rohanva rontott rám
+az ostoba, hőrihorgas legény.
+
+
+
+427
+00:29:41,279 --> 00:29:45,113
+Azt hitte, egyetlen kardsuhintással
+véget vethet a lázadásnak.
+
+
+
+428
+00:29:46,760 --> 00:29:48,478
+Egy kalapáccsal gyürtem le.
+
+
+
+429
+00:29:48,519 --> 00:29:50,953
+lstenek, de erős voltam!
+
+
+
+430
+00:29:51,400 --> 00:29:53,550
+Bevertem a mellvértjét.
+
+
+
+431
+00:29:54,560 --> 00:29:56,835
+Valőszínüleg az összes
+bordáját eltörtem.
+
+
+
+432
+00:29:57,759 --> 00:30:00,671
+Fölé magasodtam,
+a kezemben kalapács,
+
+
+
+433
+00:30:01,359 --> 00:30:04,351
+és mielőtt lesújtottam,
+azt kiáltotta, várj!
+
+
+
+434
+00:30:04,759 --> 00:30:05,748
+Várj!
+
+
+
+435
+00:30:11,919 --> 00:30:14,991
+Arről sosem mesélnek, hogy
+mindegyik maga alá csinál.
+
+
+
+436
+00:30:17,000 --> 00:30:19,673
+Ezt nem írják bele a dalokba.
+
+
+
+437
+00:30:22,119 --> 00:30:23,916
+Ostoba kölyök.
+
+
+
+438
+00:30:25,760 --> 00:30:30,197
+A Tarleyk ma meghajolnak
+előttem, mint mindenki más.
+
+
+
+439
+00:30:31,119 --> 00:30:36,113
+Maradhatott volna a csata peremén,
+mint a többi okos fiü, és ma
+
+
+
+440
+00:30:36,440 --> 00:30:38,908
+a felesége
+keserítené meg az életét.
+
+
+
+441
+00:30:39,200 --> 00:30:41,316
+A fiai hálátlanok lennének,
+
+
+
+442
+00:30:41,799 --> 00:30:44,188
+és éjjelente háromszor kelne fel,
+
+
+
+443
+00:30:44,239 --> 00:30:47,072
+hogy belehügyozzon
+az edénybe. Bort!
+
+
+
+444
+00:30:50,119 --> 00:30:51,757
+Lancell...
+
+
+
+445
+00:30:51,800 --> 00:30:54,758
+lstenek, micsoda ostoba név!
+
+
+
+446
+00:30:55,799 --> 00:30:57,994
+Lancell Lannister?
+
+
+
+447
+00:30:59,360 --> 00:31:02,909
+Ki nevezett el?
+Valami dadogő félkegyelmü.
+
+
+
+448
+00:31:06,039 --> 00:31:07,313
+Mit müvelsz?
+
+
+
+449
+00:31:09,119 --> 00:31:11,758
+- Üres, felség.
+- Hogy érted azt, hogy üres?
+
+
+
+450
+00:31:11,800 --> 00:31:14,553
+- Nincs több bor.
+- Eztjelenti az, hogy üres?
+
+
+
+451
+00:31:16,560 --> 00:31:19,199
+Akkor hozz még!
+
+
+
+452
+00:31:22,800 --> 00:31:24,916
+Mondd meg az unokafivérednek,
+hogyjöjjön ide!
+
+
+
+453
+00:31:24,959 --> 00:31:27,632
+Királyölő, ide!
+
+
+
+454
+00:31:34,999 --> 00:31:37,433
+Körbevesznek a Lannisterek.
+
+
+
+455
+00:31:38,320 --> 00:31:42,518
+Amikor csak lehunyom
+a szemem, a szőke hajukat
+
+
+
+456
+00:31:42,559 --> 00:31:45,198
+és a sunyi,
+önelégült képüket látom.
+
+
+
+457
+00:31:45,920 --> 00:31:50,675
+Biztosan megsebzi a büszkeséged,
+hogy őrszemként kell odakint állnod.
+
+
+
+458
+00:31:52,200 --> 00:31:55,749
+Jaime Lannister,
+a nagy Tywin fia.
+
+
+
+459
+00:31:57,040 --> 00:32:00,191
+Párbajoznod kell,
+míg a királyod eszik, iszik,
+
+
+
+460
+00:32:00,239 --> 00:32:01,991
+szarik és üzekedik.
+
+
+
+461
+00:32:04,160 --> 00:32:05,115
+Rajta hát!
+
+
+
+462
+00:32:05,520 --> 00:32:07,556
+Háborüs történeteket mesélünk.
+
+
+
+463
+00:32:08,999 --> 00:32:12,275
+Te kit öltél meg először? Az öreg
+embereket most nem számoljuk.
+
+
+
+464
+00:32:13,839 --> 00:32:15,750
+Egy ütonállőt a Testvériségben.
+
+
+
+465
+00:32:16,599 --> 00:32:18,078
+Ott voltam aznap.
+
+
+
+466
+00:32:18,800 --> 00:32:20,279
+Még csak fegyvernök voltál.
+
+
+
+467
+00:32:20,320 --> 00:32:21,799
+16 éves.
+
+
+
+468
+00:32:22,079 --> 00:32:24,468
+Te pedig Simon Toymmal végeztél.
+
+
+
+469
+00:32:24,719 --> 00:32:26,437
+Sosem láttam szebb mozdulatot.
+
+
+
+470
+00:32:27,520 --> 00:32:28,999
+Toym jő harcos volt,
+
+
+
+471
+00:32:29,639 --> 00:32:30,833
+de nem volt benne kitartás.
+
+
+
+472
+00:32:31,519 --> 00:32:32,872
+Az ütonállő...
+
+
+
+473
+00:32:34,000 --> 00:32:36,912
+- Volt utolső szava?
+- Levágtam a fejét, szőval nem.
+
+
+
+474
+00:32:38,639 --> 00:32:41,073
+És Aerys Targaryen?
+
+
+
+475
+00:32:41,360 --> 00:32:44,796
+Mit mondott az Őrült Király,
+amikor hátba szürtad?
+
+
+
+476
+00:32:45,280 --> 00:32:46,633
+Sosem kérdeztem még.
+
+
+
+477
+00:32:47,479 --> 00:32:49,754
+Árulőnak nevezett?
+
+
+
+478
+00:32:50,039 --> 00:32:52,348
+Kegyelemért esdekelt?
+
+
+
+479
+00:32:54,359 --> 00:32:56,919
+Ugyanazt hajtogatta,
+amit már őrák őta.
+
+
+
+480
+00:32:58,719 --> 00:33:00,152
+Égessétek meg mindet!
+
+
+
+481
+00:33:05,399 --> 00:33:06,991
+Ez minden, felség.
+
+
+
+482
+00:33:38,359 --> 00:33:40,714
+A dothrakiak veszik a rabszolgáikat?
+
+
+
+483
+00:33:40,760 --> 00:33:42,671
+A dothrakiak nem hisznek a pénzben.
+
+
+
+484
+00:33:42,719 --> 00:33:44,914
+A legtöbb rabszolgát
+ajándékba kapják.
+
+
+
+485
+00:33:44,959 --> 00:33:45,994
+Kitől?
+
+
+
+486
+00:33:46,359 --> 00:33:48,748
+Ha egy város ura meglátja,
+hogy közeleg a horda,
+
+
+
+487
+00:33:48,800 --> 00:33:51,519
+két lehetősége van:
+fizetni vagy harcolni.
+
+
+
+488
+00:33:51,879 --> 00:33:53,835
+A többségnek egyértelmü a válasz.
+
+
+
+489
+00:33:54,719 --> 00:33:56,994
+Néha persze nem adnak eleget.
+
+
+
+490
+00:33:57,040 --> 00:34:00,237
+A khal ügy érzi, megsértették
+azzal, hogy kevés rabszolgát kap.
+
+
+
+491
+00:34:00,599 --> 00:34:03,033
+Gondolhatja, a férfiak tül gyengék,
+a nők pedig tül csünyák.
+
+
+
+492
+00:34:03,079 --> 00:34:06,310
+A khal néha ügy dönt, a lovasai
+hőnapok őta nem harcoltak egyjőt,
+
+
+
+493
+00:34:06,359 --> 00:34:07,917
+és szükségük van a gyakorlásra.
+
+
+
+494
+00:34:12,320 --> 00:34:13,594
+Állítsd meg őket!
+
+
+
+495
+00:34:14,239 --> 00:34:17,151
+Meg akarod állítani a hordát?
+Mennyi időre?
+
+
+
+496
+00:34:18,760 --> 00:34:21,069
+Amíg mást nem parancsolok.
+
+
+
+497
+00:34:21,919 --> 00:34:23,716
+Lassan királynőként beszélsz.
+
+
+
+498
+00:34:24,280 --> 00:34:25,508
+Nem királynőként.
+
+
+
+499
+00:34:26,560 --> 00:34:27,959
+Khaleesiként.
+
+
+
+500
+00:35:03,520 --> 00:35:05,033
+Hogy merészeled?
+
+
+
+501
+00:35:05,439 --> 00:35:07,157
+Te adsz parancsokat nekem?
+
+
+
+502
+00:35:07,199 --> 00:35:08,348
+Nekem?
+
+
+
+503
+00:35:10,200 --> 00:35:13,795
+Te'nem parancsolsz a sárkánynak!
+En vagyok a Hét Királyság ura.
+
+
+
+504
+00:35:13,840 --> 00:35:16,912
+Nekem nem parancsolnak
+vadak vagy a szajháik,
+
+
+
+505
+00:35:17,159 --> 00:35:18,228
+megértetted?
+
+
+
+506
+00:35:24,319 --> 00:35:26,514
+- Rakharo azt kérdezi, megölje-e.
+- Ne!
+
+
+
+507
+00:35:30,880 --> 00:35:33,440
+Rakharo azt mondja,
+le kellene vágnod a fülét.
+
+
+
+508
+00:35:33,479 --> 00:35:36,152
+Kérlek, kérlek, ne bántsd!
+
+
+
+509
+00:35:40,319 --> 00:35:44,073
+Mondd meg, hogy nem akarom,
+hogy a bátyámnak baja essék.
+
+
+
+510
+00:35:56,000 --> 00:35:59,151
+Mormont! Végezz ezekkel
+a dothraki kutyákkal!
+
+
+
+511
+00:36:04,719 --> 00:36:06,914
+A királyod vagyok!
+
+
+
+512
+00:36:08,360 --> 00:36:10,874
+Visszatérjünk
+a khalasarba, khaleesi?
+
+
+
+513
+00:36:33,039 --> 00:36:35,109
+Te gyalog mész.
+
+
+
+514
+00:38:59,520 --> 00:39:00,919
+ltt akartam lenni,
+
+
+
+515
+00:39:01,600 --> 00:39:03,556
+amikor először pillantod meg.
+
+
+
+516
+00:39:11,320 --> 00:39:12,594
+Ma délelőtt indulok.
+
+
+
+517
+00:39:13,600 --> 00:39:14,794
+Elmész?
+
+
+
+518
+00:39:15,679 --> 00:39:17,112
+Én vagyok az Első Felderítő.
+
+
+
+519
+00:39:17,800 --> 00:39:19,233
+Odakint van a helyem.
+
+
+
+520
+00:39:20,719 --> 00:39:22,277
+Nyugtalanítő híreket kaptunk.
+
+
+
+521
+00:39:22,320 --> 00:39:25,437
+- Miféle híreket?
+- Olyasmit, amit nem akarok elhinni.
+
+
+
+522
+00:39:26,560 --> 00:39:28,915
+Készen állok.
+Nem okozok csalődást.
+
+
+
+523
+00:39:29,880 --> 00:39:31,313
+Te nem mész.
+
+
+
+524
+00:39:33,919 --> 00:39:35,318
+Nem vagy felderítő, Jon.
+
+
+
+525
+00:39:35,719 --> 00:39:38,028
+- Dejobb vagyok bárkinél!
+- Senkinél sem!
+
+
+
+526
+00:39:43,240 --> 00:39:44,275
+Itt...
+
+
+
+527
+00:39:45,079 --> 00:39:47,115
+minden férfi azt kapja,
+amit kiérdemel.
+
+
+
+528
+00:39:47,639 --> 00:39:48,788
+Amikor kiérdemli.
+
+
+
+529
+00:39:53,560 --> 00:39:55,118
+Beszélünk, ha visszatértem.
+
+
+
+530
+00:40:10,080 --> 00:40:12,799
+- Medvehere.
+- Viccelsz.
+
+
+
+531
+00:40:12,840 --> 00:40:16,628
+Az agyával, a beleivel,
+a tüdejével és a szívével együtt.
+
+
+
+532
+00:40:16,880 --> 00:40:18,871
+A saját zsírjában sütve.
+
+
+
+533
+00:40:18,919 --> 00:40:21,558
+Ha száz mérföldre
+északrajársz a Faltől,
+
+
+
+534
+00:40:21,600 --> 00:40:24,910
+és utoljára egy hete ettél,
+semmit sem hagysz a farkasoknak.
+
+
+
+535
+00:40:25,600 --> 00:40:29,070
+- És milyen ízü a medve heréje?
+- Egy kicsit rágős.
+
+
+
+536
+00:40:32,479 --> 00:40:35,755
+És te, uram? Mi a legfurcsább
+dolog, amit valaha ettél?
+
+
+
+537
+00:40:36,399 --> 00:40:38,037
+A dornishi lányok számítanak?
+
+
+
+538
+00:40:41,840 --> 00:40:46,356
+Tehát, járod a Hét Királyságot,
+elfogod a zsebtolvajokat,
+
+
+
+539
+00:40:46,399 --> 00:40:48,993
+a lőtolvajokat, és idehozod
+őket lelkes üjoncként?
+
+
+
+540
+00:40:49,040 --> 00:40:53,511
+lgen, bár nem mind tett rosszat.
+
+
+
+541
+00:40:53,560 --> 00:40:56,677
+Némelyik szegény sorből jön,
+és a rendes étel vonzza ide őket.
+
+
+
+542
+00:40:56,719 --> 00:40:59,358
+Némelyik nemes származásü,
+és dicsőségre vágyik.
+
+
+
+543
+00:40:59,399 --> 00:41:02,038
+A rendes ételre nagyobb
+az esélyük, mint a dicsőségre.
+
+
+
+544
+00:41:03,959 --> 00:41:06,109
+'Viccrnlek tartod
+az Ejjeli Orséget, igaz?
+
+
+
+545
+00:41:07,199 --> 00:41:09,349
+Ennektartasz minket, Lannister?
+
+
+
+546
+00:41:09,399 --> 00:41:11,310
+Feketébe öltözött bohőcseregnek?
+
+
+
+547
+00:41:11,719 --> 00:41:13,869
+Kevesen vagytok,
+hogy seregnek számítsatok,
+
+
+
+548
+00:41:13,920 --> 00:41:16,229
+és Yorenen kívül
+senki sem szőrakoztatő.
+
+
+
+549
+00:41:17,439 --> 00:41:21,591
+Remélem, viszel magaddal tőlünk
+néhány jő történetet Királyvárba.
+
+
+
+550
+00:41:21,639 --> 00:41:24,870
+Amit felidézhetsz,
+amíg a borod iszod odalent,
+
+
+
+551
+00:41:25,280 --> 00:41:26,952
+amíg bordélyokban dorbézolsz.
+
+
+
+552
+00:41:28,120 --> 00:41:31,157
+A fiúk fele, akiket láttál,
+a Faltől északra fog meghalni.
+
+
+
+553
+00:41:32,040 --> 00:41:34,395
+Lehet, hogy a vadak
+szekercéje végez velük.
+
+
+
+554
+00:41:34,839 --> 00:41:36,158
+Lehet, hogy a betegség.
+
+
+
+555
+00:41:37,159 --> 00:41:39,115
+Lehet, hogy csak a hideg.
+
+
+
+556
+00:41:40,280 --> 00:41:41,713
+Fájdalmas haláluk lesz,
+
+
+
+557
+00:41:42,720 --> 00:41:44,153
+és az a célja,
+
+
+
+558
+00:41:44,200 --> 00:41:47,510
+hogy a hozzád hasonlő puhány
+uracskák a nyári délutánokat
+
+
+
+559
+00:41:47,560 --> 00:41:49,232
+békében és nyugalomban
+élvezhessék.
+
+
+
+560
+00:41:51,919 --> 00:41:53,477
+Puhánynak tartasz?
+
+
+
+561
+00:41:57,200 --> 00:42:00,192
+- Benjen! Szőlíthatnak Benjennek?
+- Aminek csak akarsz.
+
+
+
+562
+00:42:00,240 --> 00:42:02,231
+Nem tudom, mivel sértettelek meg.
+
+
+
+563
+00:42:02,719 --> 00:42:06,598
+Nagyra tartom az Éjjeli Őrséget
+és téged is Első Felderítőként...
+
+
+
+564
+00:42:06,639 --> 00:42:08,516
+A fivérem egyszer azt mondta,
+
+
+
+565
+00:42:09,080 --> 00:42:12,709
+semmi sem számít,
+amit a másik a ,,de" előtt mond.
+
+
+
+566
+00:42:14,080 --> 00:42:15,195
+De...
+
+
+
+567
+00:42:16,440 --> 00:42:20,797
+Nem hiszem, hogy őriások vagy
+Mások őlálkodnak a Falon tül.
+
+
+
+568
+00:42:21,639 --> 00:42:24,870
+Szerintem az egyetlen különbség
+köztünk és a vadak között az,
+
+
+
+569
+00:42:24,919 --> 00:42:28,798
+hogy az őseink a Fal jő oldalán
+voltak, amikor megépült.
+
+
+
+570
+00:42:30,079 --> 00:42:31,478
+lgazad van.
+
+
+
+571
+00:42:33,639 --> 00:42:35,709
+Avadak nem különböznek tőlünk.
+
+
+
+572
+00:42:36,199 --> 00:42:37,951
+Kicsit talán faragatlanabbak,
+
+
+
+573
+00:42:38,239 --> 00:42:40,195
+de hüs-vér lények.
+
+
+
+574
+00:42:40,800 --> 00:42:43,030
+Tudom, hogy kutassam fel
+és öljem meg őket.
+
+
+
+575
+00:42:43,999 --> 00:42:46,957
+Nem a vadak miatt
+vannak álmatlan éjszakáim.
+
+
+
+576
+00:42:48,080 --> 00:42:50,036
+Sosem jártál a Faltől északra.
+
+
+
+577
+00:42:50,080 --> 00:42:52,036
+Ne mondd meg, mi van ott.
+
+
+
+578
+00:42:55,840 --> 00:42:57,239
+Lemész?
+
+
+
+579
+00:42:59,159 --> 00:43:00,956
+Vigyázz magadra, ne fagyj meg!
+
+
+
+580
+00:43:01,000 --> 00:43:03,878
+- Jő szőrakozást a fővárosban!
+- Az mindig megvan.
+
+
+
+581
+00:43:13,040 --> 00:43:15,031
+Azt hiszem, kezd megkedvelni.
+
+
+
+582
+00:43:18,600 --> 00:43:19,953
+Lemenni?
+
+
+
+583
+00:43:20,280 --> 00:43:21,156
+lgen.
+
+
+
+584
+00:43:21,600 --> 00:43:24,160
+Le az alagütba és
+át a másik oldalra.
+
+
+
+585
+00:43:25,280 --> 00:43:27,840
+Egy-két hőnapig
+északon lesz. A Faltől északra.
+
+
+
+586
+00:43:29,520 --> 00:43:33,115
+- Tehát, te is Királyvárba indulsz?
+- lgen.
+
+
+
+587
+00:43:33,759 --> 00:43:35,158
+Holnapután.
+
+
+
+588
+00:43:35,880 --> 00:43:39,031
+Az üjoncok fele az ottani
+tömlöcökből származik.
+
+
+
+589
+00:43:39,080 --> 00:43:40,672
+Utazzunk együtt!
+
+
+
+590
+00:43:40,719 --> 00:43:42,789
+Jől jönne egyjőfajta üti társ.
+
+
+
+591
+00:43:43,360 --> 00:43:47,512
+Puritán mődon
+szoktam utazni, uram.
+
+
+
+592
+00:43:47,560 --> 00:43:48,913
+De nem most.
+
+
+
+593
+00:43:48,959 --> 00:43:51,598
+A legjobb kastélyokban
+és fogadőkban szállunk meg.
+
+
+
+594
+00:43:51,639 --> 00:43:53,709
+Egy Lannisternek
+senki sem mondhat nemet.
+
+
+
+595
+00:44:09,199 --> 00:44:10,712
+lgen, khaleesi.
+
+
+
+596
+00:44:13,559 --> 00:44:14,753
+Mit csinálsz?
+
+
+
+597
+00:44:15,159 --> 00:44:17,275
+Mikorvéreztél utoljára, khaleesi?
+
+
+
+598
+00:44:19,799 --> 00:44:21,551
+Megváltoztál, khaleesi.
+
+
+
+599
+00:44:23,080 --> 00:44:25,150
+A Nagy Lovas megáldott minket.
+
+
+
+600
+00:44:29,960 --> 00:44:33,873
+A lovas számára
+a görbe pengejő dolog.
+
+
+
+601
+00:44:34,399 --> 00:44:35,673
+Könnyebb használni.
+
+
+
+602
+00:44:36,399 --> 00:44:38,754
+Jő fegyver egy dothrakinak.
+
+
+
+603
+00:44:39,919 --> 00:44:42,877
+De egy páncélos férfi ellen?
+
+
+
+604
+00:44:43,999 --> 00:44:46,069
+Az arakh nem viszi át az acélt.
+
+
+
+605
+00:44:47,239 --> 00:44:49,355
+ltt mutatkozik meg
+az egyenes kard előnye.
+
+
+
+606
+00:44:49,880 --> 00:44:52,269
+A páncél átszürására teNezték.
+
+
+
+607
+00:44:54,199 --> 00:44:56,588
+A dothrakiak nem viselnek acélruhát.
+
+
+
+608
+00:44:56,639 --> 00:44:57,674
+Páncélt.
+
+
+
+609
+00:44:59,399 --> 00:45:01,913
+A páncéltől az ember...
+
+
+
+610
+00:45:03,239 --> 00:45:07,676
+Lassü lesz, igaz,
+de életben is tartja.
+
+
+
+611
+00:45:08,960 --> 00:45:11,269
+Az apám tanított harcolni.
+
+
+
+612
+00:45:11,679 --> 00:45:14,637
+Azt tanította, hogy aki gyors,
+legyőzi azt, aki nagy.
+
+
+
+613
+00:45:14,919 --> 00:45:17,638
+Hallottam, hogy apád
+nagy harcos volt.
+
+
+
+614
+00:45:17,680 --> 00:45:19,796
+Khal Bharbo vérlovasa volt.
+
+
+
+615
+00:45:22,840 --> 00:45:24,910
+És a te apád, Jorah, az andal?
+
+
+
+616
+00:45:24,959 --> 00:45:26,233
+Ő is harcos volt?
+
+
+
+617
+00:45:26,919 --> 00:45:28,113
+Ma is az.
+
+
+
+618
+00:45:29,320 --> 00:45:30,719
+Nagy a híre,
+
+
+
+619
+00:45:31,880 --> 00:45:32,869
+és én elárultam.
+
+
+
+620
+00:45:37,960 --> 00:45:40,269
+A khaleesi ma este valami
+különlegeset kíván vacsorázni.
+
+
+
+621
+00:45:40,320 --> 00:45:41,958
+Öljetek meg néhány nyulat!
+
+
+
+622
+00:45:42,000 --> 00:45:43,479
+ltt nincsenek nyulak.
+
+
+
+623
+00:45:44,159 --> 00:45:47,310
+Akkor kacsákat. Szereti a kacsát.
+
+
+
+624
+00:45:47,720 --> 00:45:50,951
+Asszony, láttál erre kacsákat?
+Nincs se nyül, se kacsa.
+
+
+
+625
+00:45:51,000 --> 00:45:53,434
+Van egyáltalán szemed?
+
+
+
+626
+00:45:53,479 --> 00:45:55,595
+Akkor kutyát.
+Rengeteg kutyát láttam!
+
+
+
+627
+00:45:55,639 --> 00:45:57,948
+Nem hiszem,
+hogy kutyahüsra vágyna.
+
+
+
+628
+00:46:01,520 --> 00:46:03,670
+A khaleesi gyermeket vár.
+
+
+
+629
+00:46:05,320 --> 00:46:06,309
+Így igaz.
+
+
+
+630
+00:46:06,679 --> 00:46:08,635
+Már két hold őta
+nem vérzett.
+
+
+
+631
+00:46:09,199 --> 00:46:10,791
+A hasa is nőni kezdett.
+
+
+
+632
+00:46:12,560 --> 00:46:14,551
+A Nagy Lovas megáldott minket.
+
+
+
+633
+00:46:14,880 --> 00:46:16,836
+Nem akar lőhüst enni.
+
+
+
+634
+00:46:17,880 --> 00:46:20,394
+Levágattatok egy kecskét
+a vacsorához.
+
+
+
+635
+00:46:26,000 --> 00:46:27,877
+El kell lovagolnom Oohorba.
+
+
+
+636
+00:46:32,040 --> 00:46:34,713
+De Vaes Dothrakba tartunk.
+
+
+
+637
+00:46:34,760 --> 00:46:36,796
+Ne aggődj, utolérlek.
+
+
+
+638
+00:46:37,399 --> 00:46:39,390
+A hordát könnyü megtalálni.
+
+
+
+639
+00:46:50,319 --> 00:46:51,957
+Ne állj egy helyben!
+
+
+
+640
+00:46:52,360 --> 00:46:54,316
+A mozgő célpontot
+nehezebb eltalálni.
+
+
+
+641
+00:46:58,720 --> 00:46:59,675
+Kivéve téged.
+
+
+
+642
+00:47:00,040 --> 00:47:01,393
+Tül sokat mozogsz.
+
+
+
+643
+00:47:01,439 --> 00:47:04,272
+Ha csak kinyüjtom a kardom,
+elvégzed helyettem a munkát.
+
+
+
+644
+00:47:09,280 --> 00:47:11,748
+Hány telet láttál már, Lord Tyrion?
+
+
+
+645
+00:47:12,320 --> 00:47:14,834
+Nyolcat... Nem. Kilencet.
+
+
+
+646
+00:47:14,880 --> 00:47:16,279
+Mind rövid volt.
+
+
+
+647
+00:47:16,320 --> 00:47:20,359
+Azt mesélték, a születésemkor három
+évig tartott a tél, Aemon mester.
+
+
+
+648
+00:47:20,399 --> 00:47:22,833
+Ez a nyár már kilenc éve tart,
+
+
+
+649
+00:47:23,559 --> 00:47:27,347
+de ajelentések szerint
+a napok rövidülnek.
+
+
+
+650
+00:47:27,399 --> 00:47:29,435
+A Starkoknak idővel
+mindig igazuk lesz.
+
+
+
+651
+00:47:29,880 --> 00:47:31,757
+Közeleg a tél.
+
+
+
+652
+00:47:32,880 --> 00:47:34,757
+Ez a tél hosszü lesz,
+
+
+
+653
+00:47:35,600 --> 00:47:38,114
+és sötét dolgokat fog hozni.
+
+
+
+654
+00:47:38,159 --> 00:47:41,993
+Hőnapről hőnapra egyre
+több vadat fogunk el.
+
+
+
+655
+00:47:42,399 --> 00:47:45,072
+Dél felé menekülnek.
+A menekülők...
+
+
+
+656
+00:47:45,760 --> 00:47:47,716
+azt mesélik, látták a Másokat.
+
+
+
+657
+00:47:47,760 --> 00:47:50,832
+Lannisport halászai pedig
+azt mondják, látták a sellőket.
+
+
+
+658
+00:47:50,880 --> 00:47:54,759
+Az egyik felderítőnk megesküdött,
+hogy ők ölték meg a bajtársait.
+
+
+
+659
+00:47:54,799 --> 00:47:58,235
+Akkor esküdött meg rá, amikor
+Ned Stark lecsapta a fejét.
+
+
+
+660
+00:47:58,999 --> 00:48:04,631
+Az Éjjeli Őrség az egyetlen, ami
+a Királyságot az északtől védi,
+
+
+
+661
+00:48:05,320 --> 00:48:10,314
+és mára kiképzetlen fiatalok és
+fáradt öregemberek seregévé vált.
+
+
+
+662
+00:48:10,919 --> 00:48:13,274
+Ezren sem vagyunk.
+
+
+
+663
+00:48:14,360 --> 00:48:17,113
+A Fal többi kastélyába
+nem jut emberünk.
+
+
+
+664
+00:48:17,159 --> 00:48:19,992
+Nem tudunk megfelelően
+járőrözni a vadonban.
+
+
+
+665
+00:48:20,039 --> 00:48:24,191
+Alig van elég utánpőtlás a fiük
+felfegyverzésére és etetésére.
+
+
+
+666
+00:48:24,240 --> 00:48:27,949
+A nővéred a király oldalán ül.
+
+
+
+667
+00:48:29,520 --> 00:48:30,873
+Mondd meg neki,
+
+
+
+668
+00:48:30,920 --> 00:48:32,273
+hogy segítségre van szükségünk!
+
+
+
+669
+00:48:32,320 --> 00:48:36,791
+Az istenek segítsenek minket, ha nem
+állunk készen, amikor megjön a tél.
+
+
+
+670
+00:48:58,600 --> 00:48:59,828
+Fiú.
+
+
+
+671
+00:49:04,560 --> 00:49:06,471
+Honnan tudod?
+
+
+
+672
+00:49:07,199 --> 00:49:08,348
+Tudom.
+
+
+
+673
+00:49:09,120 --> 00:49:10,633
+Csak tudom.
+
+
+
+674
+00:49:41,039 --> 00:49:43,155
+Sajnálom, hogy elmész, Lannister.
+
+
+
+675
+00:49:45,279 --> 00:49:46,837
+Vagy én vagy a hideg.
+
+
+
+676
+00:49:47,239 --> 00:49:49,150
+És nem tünik ügy, mintha enyhülne.
+
+
+
+677
+00:49:50,000 --> 00:49:52,036
+Dél felé menet megállsz Deresnél?
+
+
+
+678
+00:49:52,080 --> 00:49:53,229
+Úgy hiszem.
+
+
+
+679
+00:49:53,559 --> 00:49:56,869
+Nincs tül sok vetett
+ágy a Fal és Királyvár között.
+
+
+
+680
+00:49:57,360 --> 00:49:58,952
+Ha találkozol az öcsémmel,
+
+
+
+681
+00:50:00,440 --> 00:50:01,839
+mondd el neki, hogy hiányzik!
+
+
+
+682
+00:50:02,800 --> 00:50:04,153
+Meglátogatnám, ha tudnám.
+
+
+
+683
+00:50:04,200 --> 00:50:05,315
+Így lesz.
+
+
+
+684
+00:50:06,440 --> 00:50:07,839
+Nem fog üjrajárni.
+
+
+
+685
+00:50:08,200 --> 00:50:11,636
+Ha már nyomorék, még mindig
+jobb, ha gazdagon az.
+
+
+
+686
+00:50:13,079 --> 00:50:15,593
+- Vigyázz magadra, Havas!
+- lsten veled, uram!
+
+
+
+687
+00:50:26,999 --> 00:50:29,194
+Késtél, fiú.
+
+
+
+688
+00:50:31,639 --> 00:50:33,869
+Holnap pontban délben itt leszel.
+
+
+
+689
+00:50:34,279 --> 00:50:35,553
+Ki vagy te?
+
+
+
+690
+00:50:36,839 --> 00:50:39,876
+A tánctanárod... Syrio Forel.
+
+
+
+691
+00:50:44,000 --> 00:50:45,399
+Holnap el fogod kapni.
+
+
+
+692
+00:50:45,840 --> 00:50:47,034
+Most vedd fel!
+
+
+
+693
+00:50:49,600 --> 00:50:51,511
+Nem ez a mődja, fiü.
+
+
+
+694
+00:50:52,160 --> 00:50:55,436
+Ez nem pallos, amelyet
+csak két kézzel lehet forgatni.
+
+
+
+695
+00:50:56,599 --> 00:50:57,509
+Tül nehéz.
+
+
+
+696
+00:50:57,559 --> 00:51:01,472
+Pont annyira nehéz, amennyi
+ahhoz kell, hogy megerősödj.
+
+
+
+697
+00:51:02,599 --> 00:51:03,748
+Így ni!
+
+
+
+698
+00:51:04,120 --> 00:51:06,270
+Egy kéz éppen elég.
+
+
+
+699
+00:51:08,080 --> 00:51:11,390
+Rosszul állsz.
+Fordítsd oldalra a tested!
+
+
+
+700
+00:51:12,400 --> 00:51:13,389
+Ez az!
+
+
+
+701
+00:51:14,720 --> 00:51:15,755
+Így.
+
+
+
+702
+00:51:16,720 --> 00:51:18,597
+Vékony vagy. Ezjő!
+
+
+
+703
+00:51:19,319 --> 00:51:21,116
+Így kisebb a célpont.
+
+
+
+704
+00:51:21,639 --> 00:51:23,436
+És most a fogást. Hadd lássam!
+
+
+
+705
+00:51:24,800 --> 00:51:25,949
+lgen.
+
+
+
+706
+00:51:26,640 --> 00:51:28,790
+Finoman kell fognod.
+
+
+
+707
+00:51:30,039 --> 00:51:31,358
+Mi lesz, ha elejtem?
+
+
+
+708
+00:51:31,719 --> 00:51:34,074
+A penge váljon a karod részévé!
+
+
+
+709
+00:51:34,240 --> 00:51:36,708
+El tudod ejteni a karodat? Nem.
+
+
+
+710
+00:51:36,759 --> 00:51:40,718
+Syrio Forel kilenc évig volt
+a braavosi Tengerür első kardja,
+
+
+
+711
+00:51:41,079 --> 00:51:44,196
+jől ismeri ezeket a dolgokat.
+Hallgass rám, fiü!
+
+
+
+712
+00:51:44,240 --> 00:51:46,549
+- Lány vagyok.
+- Fiü, lány...
+
+
+
+713
+00:51:46,959 --> 00:51:50,190
+Kard vagy. Ez minden.
+
+
+
+714
+00:51:52,000 --> 00:51:53,558
+Így kell fogni.
+
+
+
+715
+00:51:54,240 --> 00:51:57,118
+Nem csatabárdot tartasz,
+hanem...
+
+
+
+716
+00:51:57,159 --> 00:51:58,478
+Egy Tüt.
+
+
+
+717
+00:52:01,559 --> 00:52:02,787
+Hát így vagyunk.
+
+
+
+718
+00:52:03,479 --> 00:52:05,435
+Most elkezdjük a táncot.
+
+
+
+719
+00:52:05,959 --> 00:52:07,551
+Ne feledd, gyermek,
+
+
+
+720
+00:52:08,159 --> 00:52:10,309
+nem a westerosi
+vastáncot tanuljuk,
+
+
+
+721
+00:52:10,839 --> 00:52:12,397
+de nem is a lovagok
+
+
+
+722
+00:52:12,439 --> 00:52:14,430
+hadonászását és csapkodását.
+
+
+
+723
+00:52:14,480 --> 00:52:17,995
+Ez az ütonállő tánca...
+
+
+
+724
+00:52:19,239 --> 00:52:20,718
+Avíz tánca...
+
+
+
+725
+00:52:20,960 --> 00:52:22,279
+Gyors
+
+
+
+726
+00:52:23,399 --> 00:52:24,548
+és váratlan.
+
+
+
+727
+00:52:26,999 --> 00:52:30,116
+Minden embervízből van, tudtad ezt?
+
+
+
+728
+00:52:31,320 --> 00:52:33,038
+Ha kilyukasztod őket,
+
+
+
+729
+00:52:33,479 --> 00:52:36,710
+a víz kifolyik, és meghalnak.
+
+
+
+730
+00:52:38,039 --> 00:52:41,395
+Most pedig te prőbálj
+megütni engem!
+
+
+
+731
+00:52:57,200 --> 00:52:58,235
+Fel!
+
+
+
+732
+00:53:17,120 --> 00:53:18,553
+Halott vagy!
+
+
+
+733
+00:53:20,560 --> 00:53:21,913
+Halott vagy!
+
+
+
+734
+00:53:25,760 --> 00:53:27,079
+Végleg meghaltál!
+
+
+
+735
+00:53:35,399 --> 00:53:36,548
+Gyorsan!
+
+
+
+736
+00:53:49,239 --> 00:53:52,549
+Pétersz Tamás
+müfordításának felhasználásával
+
+
+
+737
+00:53:52,600 --> 00:53:55,433
+a magyar szöveget írta:
+Vass András
+
+
+
+738
+00:54:50,519 --> 00:54:52,510
+HUNGARIAN
+
+
+

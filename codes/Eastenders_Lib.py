@@ -22,20 +22,21 @@ threads='Desktop/TrecVid/5082189274976367100.threads.json'
 manualScen='Desktop/TrecVid/Eastender_manual_segmentation_inSeconds.json'
 
 """
-This function preprocess the shot threading format to prepare it to segmentation. It takes the .json format produced by pyannote-video by hervé
+This function preprocess the shot threading format to prepare it to segmentation. It takes the .json format produced by pyannote-video by herve
 """
-def preprocessingThreads(manualScen=manualScen, threads=threads):
-    
+def preprocessingThreads (threads=threads):
+
+    """
     with open(manualScen, 'r') as f:
         data = json.load(f)
-        
+
     manualBoundry=[]
     for i in data['Segment']:
         try:
             manualBoundry.append(i['End time'])
         except:
             continue
-        
+"""
     with open(threads, 'r') as f:
         data1 = json.load(f)
 
@@ -49,7 +50,7 @@ def preprocessingThreads(manualScen=manualScen, threads=threads):
         except:
             continue
 
-    return manualBoundry, shotSeq, shotBondry, data1
+    return  shotSeq, shotBondry, data1
 
 """
 Preprocess the manually annotated data of Estenders: or any file that have a sentence with its start time. The scene segmentation is done manually.
@@ -73,7 +74,7 @@ def preprocessAnnotationFile(fileName):
 
 	textSent=[]
 	SpeakerDF=SpeakerDF.reset_index(drop=True)
-    
+
 	for j in range(len(SpeakerDF)):
 		textSent.append(SpeakerDF.Sentence[j])
 
@@ -300,8 +301,8 @@ def draw_graph(graph,edge_weights, labels=None, graph_layout='shell',
 
 """rules to identify who is speaking to whom ased on the Papers written by:
     Extraction and Analysis of Dynamic Conversational Networks from from TV Series by Xavier Bost et al.
-    
-    Based on the rules mensioned on their paper to identify who is talking to whom, it returns a wieghted graph that shows their interaction 
+
+    Based on the rules mensioned on their paper to identify who is talking to whom, it returns a wieghted graph that shows their interaction
 """
 def verbalInreaction(speakerSequence):
     graph=[]

@@ -5,7 +5,7 @@ Created on Sat Jul 21 08:00:20 2018
 
 @author: berhe
 """
-from sklearn.metrics import recall_score,precision_score,f1_score 
+from sklearn.metrics import recall_score,precision_score,f1_score
 #from sklearn.metrics import precision_recall_fscore_support as score
 from sklearn.metrics import normalized_mutual_info_score,adjusted_rand_score,accuracy_score
 import csv
@@ -15,7 +15,7 @@ import os
 
 """
 recall, prcision and f1 measure are used  from the standard recall and precision functions of skilearn metrics
-due some encoding problems if the length of the hypothesis and references are not equal then we set the 
+due some encoding problems if the length of the hypothesis and references are not equal then we set the
 length to the minimu length of the two
 """
 def recall(ref, hyp,rType='binary'):
@@ -23,9 +23,12 @@ def recall(ref, hyp,rType='binary'):
         ref=ref[:len(hyp)]
     else:
         hyp=hyp[:len(ref)]
-    
+
     return recall_score(ref,hyp,average=rType)
 
+"""
+Recall from scratch
+"""
 def recall2(X_test, y_test):
 	tp =0
 	fp = 0
@@ -47,15 +50,18 @@ def recall2(X_test, y_test):
 
 	return (tp/(tp+fn))
 
-    
+
 def precision(ref, hyp,rType='binary'):
     if len(ref)>len(hyp):
         ref=ref[:len(hyp)]
     else:
         hyp=hyp[:len(ref)]
-    
+
     return precision_score(ref,hyp,average=rType)
 
+"""
+Precision from scratch
+"""
 def precision2( ref, hyp):
     success =0
     fail = 0
@@ -73,20 +79,22 @@ def precision2( ref, hyp):
                 fail +=1
 
     return (success/(success+fail))
-
+"""
+F-measuere : F1
+"""
 def f1(ref,hyp):
     if len(ref)>len(hyp):
         ref=ref[0:len(hyp)]
     else:
         hyp=hyp[:len(ref)]
-    
+
     return f1_score(ref,hyp)
 
-""" 
+"""
 pk value it takes the refrence and hypothesis: The lower value the best result
 """
 def pk(ref, hyp, k=None, boundary=1):
-   
+
     if k is None:
         #print(ref.count(boundary))
         k = int(round(len(ref) / (ref.count(boundary) * 2.)))
@@ -102,10 +110,10 @@ def pk(ref, hyp, k=None, boundary=1):
            err += 1
     return err / (len(ref)-k +1.)
 
-"""Evaluation technique windowsDiff: it takes the segments
+"""Evaluation technique windowsDiff: it takes the segments' values,  it takes the refrence and hypothesis: The lower value the best result
 """
 def windowdiff(ref, hyp, k=None, boundary=1):
-    
+
     if k is None:
         #print(ref.count(boundary))
         k = int(round(len(ref) / (ref.count(boundary) * 2.)))
@@ -118,7 +126,7 @@ def windowdiff(ref, hyp, k=None, boundary=1):
     return (wd/(float(len(ref)-k)))
 
 """
-Evaluations For Clustering 
+Evaluations For Clustering
 """
 
 def purity_score(y_true, y_pred):
@@ -127,11 +135,11 @@ def purity_score(y_true, y_pred):
         y_true=y_true[:len(y_pred)]
     else:
         y_pred=y_pred[:len(y_true)]
-        
+
     y_labeled_voted = np.zeros(y_true.shape)
     labels = np.unique(y_true)
-    # We set the number of bins to be n_classes+2 so that 
-    # we count the actual occurence of classes between two consecutive bin
+    # set the number of bins to be n_classes+2 so that
+    # count the actual occurence of classes between two consecutive bin
     # the bigger being excluded [bin_i, bin_i+1[
     bins = np.concatenate((labels, [np.max(labels)+1]), axis=0)
 
@@ -144,26 +152,26 @@ def purity_score(y_true, y_pred):
     return accuracy_score(y_true, y_labeled_voted)
 
 def coverage(y_true,y_pred):
-    
+
      if len(y_true)>len(y_pred):
         y_true=y_true[:len(y_pred)]
      else:
         y_pred=y_pred[:len(y_true)]
-        
-     y_labeled_voted = np.zeros(y_true.shape)
-     labels = np.unique(y_true)
-     
+
+     y_labeled_voted = np.zeros(y_pred.shape)
+     labels = np.unique(y_pred)
+
      bins = np.concatenate((labels, [np.max(labels)+1]), axis=0)
 
-    
-     for cluster in y_true:
+
+     for cluster in np.unique(y_true):
          hist,_=np.histogram(y_pred[y_true==cluster],bins=bins)
-        
+
          winner=np.argmax(hist)
          y_labeled_voted[y_true==cluster]=winner
-        
+
      return accuracy_score(y_pred, y_labeled_voted)
-        
+
 
 """
 normalized mutual information score:
@@ -173,5 +181,5 @@ def nmi(y_true,y_pred):
         y_true=y_true[:len(y_pred)]
     else:
         y_pred=y_pred[:len(y_true)]
-        
+
     return normalized_mutual_info_score(y_true,y_pred)

@@ -22,7 +22,7 @@ subtitle_dir='/home/berhe/Desktop/LIMSI/TLP_thesis/subtitles/'
 def __init():
     scenes_dir='/home/berhe/Desktop/LIMSI/TLP_thesis/Scenes/'
     subtitle_dir='/home/berhe/Desktop/LIMSI/TLP_thesis/subtitles/'
-    
+
 def to_min_sec(st_ms,end_ms):
     Ssec=st_ms/1000
     Esec=end_ms/1000
@@ -82,7 +82,7 @@ def scene_extraction(fileName):
     return start_scene,end_scene,story_id
 
 """
-split a text into sentences and clean the sentence from un necessary charchters 
+split a text into sentences and clean the sentence from un necessary charchters
 """
 
 def split_into_sentences(text):
@@ -90,7 +90,7 @@ def split_into_sentences(text):
     cleanSentences=[]
     for i in sentences:
         cleanSentences.append(clean_str(i))
-    
+
     return cleanSentences
 
 """
@@ -125,7 +125,7 @@ def get_text_time(subtitleFile):
         start_seconds.append((subs[i].start.seconds+(subs[i].start.minutes*60)))
         end_minute.append(subs[i].end.minutes)
         end_second.append((subs[i].end.seconds+(subs[i].end.minutes*60)))
-        
+
         DF['textList']=textList
         #DF['start_minute']=start_minute
         DF['start_seconds']=start_seconds
@@ -142,7 +142,7 @@ def episodTruthValueMan1(scenesegementedFile,subtitleFile):
     DF=get_text_time(subtitleFile)
     ki=0
     for j in range(len(DF['end_second'])):
-        #for i in range(len(sc_end)): 
+        #for i in range(len(sc_end)):
         if ki<len(sc_end):
             if (DF['start_seconds'][j]<sc_end[ki]):
                 ep_TV.append(0)
@@ -150,15 +150,15 @@ def episodTruthValueMan1(scenesegementedFile,subtitleFile):
                     #cl_sc=DF['textList'][i]
                     #cl_sc=sent_tokenize(cl_sc)
             else:
-                s=s+1
                 ep_TV.append(1)
                 ep_TVB.append(s)
+                s=s+1
                 ki=ki+1
         else:
-            s=s+1
             ep_TV.append(1)
             ep_TVB.append(s)
-        
+            s=s+1
+
     return ep_TV,ep_TVB,len(DF['end_second'])
 
 def episodTruthValueShot1(scene_start,scene_end, subtitleFile):
@@ -176,17 +176,17 @@ def episodTruthValueShot1(scene_start,scene_end, subtitleFile):
                 ep_TVS.append(0)
                 ep_TVSB.append(s)
             else:
-                #cl_sc=DF['textList'][i] 
+                #cl_sc=DF['textList'][i]
                 #cl_sc=sent_tokenize(cl_sc)
-                s=s+1
                 ep_TVS.append(1)
                 ep_TVSB.append(s)
+                s=s+1
                 ki=ki+1
         else:
-            s=s+1
             ep_TVS.append(1)
             ep_TVSB.append(s)
-            
+            s=s+1
+
     return ep_TVS,ep_TVSB,len(DF['end_second'])
 
 def episodTruthValueMan(scenesegementedFile,subtitleFile):
@@ -215,7 +215,7 @@ def episodTruthValueShot(scene_start,scene_end, subtitleFile):
     scene_texts=[]
     ep_TVS=[]
     ep_TVSB=[]
-    
+
     for i in range(len(start)):
         m,s,em,es=to_min_sec2(start[i],end[i])
         part_st=subs.slice(starts_after={'minutes': m, 'seconds':s}, ends_before={'minutes': em, 'seconds': es}).text.encode('utf-8')
@@ -231,6 +231,3 @@ def episodTruthValueShot(scene_start,scene_end, subtitleFile):
         ep_TVS.append(1)
         ep_TVSB.append(l)
     return ep_TVS,ep_TVSB
-
-
-    

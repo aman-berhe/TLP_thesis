@@ -1,0 +1,1596 @@
+1
+00:00:05,119 --> 00:00:06,837
+Le problème semble insoluble.
+
+2
+00:00:07,000 --> 00:00:08,991
+Faisons une simulation sur ordinateur.
+
+3
+00:00:09,159 --> 00:00:11,309
+Trop de variables.
+Ça prendra une éternité.
+
+4
+00:00:11,479 --> 00:00:13,595
+Il manque forcément un truc.
+
+5
+00:00:13,760 --> 00:00:14,954
+Bien. Reprenons.
+
+6
+00:00:15,120 --> 00:00:18,430
+Ici le film est a 19h20. la a 19h40.
+
+7
+00:00:18,599 --> 00:00:20,749
+ici a 20h10 et la a 20h45.
+
+8
+00:00:21,639 --> 00:00:23,948
+Bien. On élimine ces salles.
+
+9
+00:00:24,119 --> 00:00:27,429
+Pourquoi ? Elles sont super :
+projection numérique, son surround.
+
+10
+00:00:27,599 --> 00:00:30,159
+Oui, mais elles n‘ont pas
+de machine a lcee.
+
+11
+00:00:30,880 --> 00:00:33,917
+En dépit de mes innombrables courriers,
+dois-ie préciser.
+
+12
+00:00:34,560 --> 00:00:37,358
+Et le multiplex ?
+Les fauteuils sont géniaux.
+
+13
+00:00:37,519 --> 00:00:42,070
+Ils n‘ont pas les bons bonbons.
+Tant pis pour le soutien lombaire.
+
+14
+00:00:43,039 --> 00:00:46,588
+Il faut une heure pour manger
+et pas un restau approuvé par Sheldon
+
+15
+00:00:46,760 --> 00:00:49,069
+près d'un cinéma
+approuvé par Sheldon.
+
+16
+00:00:49,239 --> 00:00:51,628
+- On mangera après le film.
+- lnacceptable.
+
+17
+00:00:51,799 --> 00:00:55,155
+Ce délai repousserait Ia défécation
+du matin a l‘heure du boulot.
+
+18
+00:00:56,360 --> 00:00:59,318
+Un instant.
+Il y a un magasin ici.
+
+19
+00:00:59,480 --> 00:01:02,916
+On cache des Slurpee, qui sont
+comme des lcee. sous le manteau
+
+20
+00:01:03,080 --> 00:01:07,312
+après avoir mangé un bon repas
+ici, la ou la.
+
+21
+00:01:08,719 --> 00:01:10,869
+- On aurait dû voir ça avant.
+- Pardon ?
+
+22
+00:01:11,039 --> 00:01:14,475
+Dans quel monde les Slurpee
+sont comme des lcee ?
+
+23
+00:01:15,760 --> 00:01:17,591
+C‘est pour ça qu'on ne l‘a pas vu.
+
+24
+00:01:18,000 --> 00:01:20,514
+Serais-tu prêt,
+et de manière improvisée,
+
+25
+00:01:20,680 --> 00:01:23,433
+a créer un équivalent d‘urgence
+ad hoc Slurpee-lcee ?
+
+26
+00:01:23,600 --> 00:01:26,797
+Leonard, tu sais que je ne peux pas.
+
+27
+00:01:28,039 --> 00:01:30,030
+Dans ce cas,
+il n'y a qu‘une solution.
+
+28
+00:01:30,200 --> 00:01:31,758
+Oui, je n'en vois pas d'autre.
+
+29
+00:01:32,799 --> 00:01:33,868
+- Au revoir.
+- A bientôt.
+
+30
+00:01:34,039 --> 00:01:35,392
+A plus, mon vieux.
+
+31
+00:01:41,279 --> 00:01:42,951
+C‘est vrai.
+C‘était la seule solution.
+
+32
+00:02:11,520 --> 00:02:13,112
+- Ferme la porte.
+- Pourquoi ?
+
+33
+00:02:13,280 --> 00:02:14,793
+Fais—lé.
+
+34
+00:02:18,880 --> 00:02:21,713
+- Rentré et ferme la porte.
+- Tu n‘avais pas précisé.
+
+35
+00:02:25,040 --> 00:02:27,759
+- Léonard est la ?
+- Il est allé au cinéma sans moi.
+
+36
+00:02:27,920 --> 00:02:30,115
+C‘était la seule solution.
+
+37
+00:02:38,079 --> 00:02:41,276
+Pardon, je ne comprends pas
+cette situation sociale.
+
+38
+00:02:41,439 --> 00:02:43,475
+Peux-tu m‘expliquer
+ce que je dois faire ?
+
+39
+00:02:43,639 --> 00:02:46,472
+Le gérant de l'immeuble
+fait Visiter un appartement
+
+40
+00:02:46,639 --> 00:02:50,348
+- et je n'ai pas payé le loyer.
+- Ah, je vois.
+
+41
+00:02:50,680 --> 00:02:52,591
+J'hésite à accueillir une fugitive
+
+42
+00:02:52,759 --> 00:02:55,512
+de la Société North Los Robles 2311.
+
+43
+00:02:55,879 --> 00:02:58,347
+Ce n‘est rien.
+J'ai du mal a payer mes factures.
+
+44
+00:02:58,519 --> 00:03:01,272
+Je travaille moins
+et ma voiture est tombée en panne.
+
+45
+00:03:01,439 --> 00:03:02,588
+Si tu te souviens,
+
+46
+00:03:02,760 --> 00:03:06,389
+je t'avais signalé il y a quelques mois
+le voyant "Vérifier moteur”.
+
+47
+00:03:06,840 --> 00:03:11,118
+Le voyant va très bien.
+Il clignote encore.
+
+48
+00:03:11,440 --> 00:03:14,193
+C‘est ce con de moteur
+qui a cessé de tourner.
+
+49
+00:03:14,879 --> 00:03:17,029
+Ça m'a coûté 1 200 $ pour le réparer.
+
+50
+00:03:18,040 --> 00:03:22,636
+Tu sais, tu pourrais résoudre
+tes problèmes si tu avais plus d‘argent.
+
+51
+00:03:25,599 --> 00:03:28,318
+Oui, je sais.
+
+52
+00:03:29,200 --> 00:03:30,952
+Attends-moi.
+
+53
+00:03:40,240 --> 00:03:41,878
+Tiens. Prends—en.
+
+54
+00:03:42,120 --> 00:03:43,712
+Tu me rembourseras quand tu pourras.
+
+55
+00:03:43,879 --> 00:03:45,517
+C‘est beaucoup d‘argent.
+
+56
+00:03:45,680 --> 00:03:47,989
+D'où les serpents
+qui le gardent.
+
+57
+00:03:50,559 --> 00:03:52,231
+- Prends.
+- Ne sois pas idiot.
+
+58
+00:03:52,400 --> 00:03:54,072
+Je ne suis jamais idiot.
+
+59
+00:03:55,599 --> 00:03:57,555
+- Tiens.
+- Non, je ne peux pas.
+
+60
+00:03:57,720 --> 00:03:59,676
+- Tu n'as pas besoin d'argent ?
+- Si, mais...
+
+61
+00:03:59,840 --> 00:04:00,955
+Je n'en ai pas l'usage.
+
+62
+00:04:01,120 --> 00:04:02,269
+Et si tu en avais besoin ?
+
+63
+00:04:02,440 --> 00:04:06,069
+Mes dépensés montent à 46,9 %
+de mon revenu après impôt.
+
+64
+00:04:06,240 --> 00:04:08,800
+Le reste est partagé
+entre un compte d'épargne,
+
+65
+00:04:08,959 --> 00:04:11,075
+ce petit contenant
+de brisures d'arachides
+
+66
+00:04:11,240 --> 00:04:14,232
+et les fesses rebondies
+d'un super—héros
+
+67
+00:04:14,400 --> 00:04:17,358
+dont le nom doit rester secret
+pour sa propre protection.
+
+68
+00:04:19,400 --> 00:04:22,790
+Pour la protéger.
+
+69
+00:04:25,280 --> 00:04:27,840
+- Tiens.
+- Vraiment ? Tu en es sûr ?
+
+70
+00:04:28,000 --> 00:04:29,831
+Je ne prévois pas de grosse dépensé.
+
+71
+00:04:30,000 --> 00:04:32,309
+Sauf si on développe
+la technologie pour renforcer
+
+72
+00:04:32,479 --> 00:04:34,993
+mon squelette d'Adamantium
+comme Wolverine.
+
+73
+00:04:36,160 --> 00:04:38,390
+Ils travaillent Iii-dessus ?
+
+74
+00:04:38,560 --> 00:04:40,630
+Je l'espère sincèrement.
+
+75
+00:04:42,960 --> 00:04:46,111
+Alors d‘accord. Merci.
+
+76
+00:05:07,879 --> 00:05:09,107
+Non, je ne peux pas.
+
+77
+00:05:09,280 --> 00:05:12,158
+Sheldon, je ne veux pas
+que ce soit bizarre entre nous.
+
+78
+00:05:12,319 --> 00:05:15,789
+Et ce sera bizarre si je te dis
+bonjour en allant au travail
+
+79
+00:05:15,960 --> 00:05:19,669
+si tu vis dans un carton et que
+tu te laves les cheveux a l‘eau de pluie.
+
+80
+00:05:21,039 --> 00:05:22,711
+Je te rembourserai
+dés que je pourrai.
+
+81
+00:05:22,879 --> 00:05:24,312
+Bien sûr.
+
+82
+00:05:24,799 --> 00:05:27,029
+Impossible de rembourser
+avant de pouvoir.
+
+83
+00:05:28,080 --> 00:05:30,116
+A condition d‘adhérer à
+une compréhension linéaire
+
+84
+00:05:30,280 --> 00:05:32,157
+du temps et dela causalité.
+
+85
+00:05:33,359 --> 00:05:35,668
+Je le regrette déja.
+
+86
+00:05:39,199 --> 00:05:41,759
+Tu sais, j'ai bien réfléchi
+
+87
+00:05:41,919 --> 00:05:46,231
+et j'aimerais être un animal
+de compagnie pour des aliens.
+
+88
+00:05:48,319 --> 00:05:49,832
+Intéressant.
+
+89
+00:05:50,000 --> 00:05:51,831
+Demande—moi pourquoi ?
+
+90
+00:05:52,520 --> 00:05:53,999
+Il le faut ?
+
+91
+00:05:54,160 --> 00:05:56,754
+Bien sûr. C‘est comme ça
+qu'on poursuit une conversation.
+
+92
+00:05:57,679 --> 00:05:58,748
+Pourquoi ?
+
+93
+00:05:58,920 --> 00:06:01,150
+Les possibilités d'études
+seraient innombrables.
+
+94
+00:06:01,320 --> 00:06:02,389
+De plus.
+
+95
+00:06:02,560 --> 00:06:05,028
+j'aime bien qu'on me gratte le vendre.
+
+96
+00:06:07,160 --> 00:06:09,037
+- Penny. C‘était bien, le boulot ?
+- Super.
+
+97
+00:06:09,199 --> 00:06:13,033
+J‘éspère rester toute ma vie
+serveuse au Cheesecake Factory.
+
+98
+00:06:13,200 --> 00:06:14,519
+C‘est du sarcasme ?
+
+99
+00:06:15,160 --> 00:06:16,229
+Non.
+
+100
+00:06:16,399 --> 00:06:17,548
+C‘est du sarcasme ?
+
+101
+00:06:17,959 --> 00:06:19,392
+Oui.
+
+102
+00:06:19,559 --> 00:06:21,709
+- C‘est du sarcasme ?
+- Arrête.
+
+103
+00:06:23,080 --> 00:06:24,399
+Penny ?
+
+104
+00:06:24,559 --> 00:06:26,470
+- Je crois que tu as un colis.
+- Ah, merci.
+
+105
+00:06:26,639 --> 00:06:28,391
+Ça doit être le béret
+que j'ai commandé.
+
+106
+00:06:28,559 --> 00:06:31,198
+Il y a quelques mois.
+Ils étaient en rupture de stock.
+
+107
+00:06:31,759 --> 00:06:33,590
+Sais-tu que le béret est un exemple
+
+108
+00:06:33,760 --> 00:06:37,196
+d'accessoire de la mode féminine
+emprunté aux militaires ?
+
+109
+00:06:37,359 --> 00:06:41,034
+L‘épaulette
+est un autre exemple fascinant.
+
+110
+00:06:42,359 --> 00:06:45,431
+Il ne ment pas.
+Il trouve ça vraiment fascinant.
+
+111
+00:06:46,279 --> 00:06:47,428
+Peu importe.
+
+112
+00:06:47,600 --> 00:06:50,478
+Je ne passe pas ma vie
+a acheter des bérets.
+
+113
+00:06:50,639 --> 00:06:53,756
+Je l'ai acheté il y a un mois
+et il est enfin arrivé.
+
+114
+00:06:53,919 --> 00:06:55,272
+- D'accord ?
+- D‘accord.
+
+115
+00:06:55,439 --> 00:06:58,078
+Tu veux bien me laisser tranquille ?
+
+116
+00:07:00,760 --> 00:07:02,352
+- Bizarre.
+- Tant mieux.
+
+117
+00:07:02,520 --> 00:07:05,592
+C‘était une interaction étrange.
+Je n'en étais pas sûr.
+
+118
+00:07:06,839 --> 00:07:09,512
+- Vous vous êtes disputés ?
+- Non.
+
+119
+00:07:09,679 --> 00:07:12,193
+Tu as dû faire un truc pour l‘agacer.
+
+120
+00:07:12,359 --> 00:07:13,712
+Je suis perplexe.
+
+121
+00:07:13,879 --> 00:07:17,667
+Je te montrerai mon journal
+d'interactions sociales
+
+122
+00:07:17,840 --> 00:07:20,593
+et tu me diras si j'ai gaffé.
+
+123
+00:07:21,999 --> 00:07:23,034
+Et voilà.
+
+124
+00:07:23,200 --> 00:07:25,998
+Tu me dois encore 2 $.
+Le porc moo shu a augmenté.
+
+125
+00:07:27,000 --> 00:07:30,515
+C‘est de plus en plus dur
+d‘être un mauvais juif.
+
+126
+00:07:32,080 --> 00:07:34,071
+Tiens, Penny.
+Crevettes sauce au homard.
+
+127
+00:07:34,239 --> 00:07:35,513
+Merci. Je te dois combien ?
+
+128
+00:07:36,000 --> 00:07:39,117
+- Non, rien, je t'invite.
+- Non, je t'assure. Combien ?
+
+129
+00:07:39,280 --> 00:07:40,474
+Ce que tu veux, dix, 11 $.
+
+130
+00:07:40,639 --> 00:07:42,311
+Quoi ? Dix ou 11 ?
+
+131
+00:07:42,480 --> 00:07:44,391
+Quatorze cinquante.
+Mais ce n‘est rien.
+
+132
+00:07:45,000 --> 00:07:46,877
+Tu paieras la prochaine fois.
+
+133
+00:07:49,679 --> 00:07:50,714
+Quoi ?
+
+134
+00:07:51,040 --> 00:07:54,476
+Il se demandait si en portant
+un jean serré et un top bretelle
+
+135
+00:07:54,639 --> 00:07:57,517
+il aurait droit
+a des crevettes Io mein gratuites.
+
+136
+00:07:58,959 --> 00:08:02,031
+Tu penses que j‘utilise
+mon corps pour me faire inviter ?
+
+137
+00:08:02,200 --> 00:08:04,589
+Que je suis une prostituée du Chinois ?
+
+138
+00:08:07,040 --> 00:08:09,395
+Alors, qu'est-ce que tu réponds ?
+
+139
+00:08:09,559 --> 00:08:12,232
+Je me démerde toute seule
+dans la vie.
+
+140
+00:08:12,399 --> 00:08:13,673
+Je ne compte sur personne.
+
+141
+00:08:19,879 --> 00:08:22,074
+- Qu'est-ce qu'il a ?
+- Il a envie de pisser
+
+142
+00:08:22,239 --> 00:08:24,309
+quand il est stressé.
+
+143
+00:08:25,399 --> 00:08:27,515
+Un peu comme un chiot.
+
+144
+00:08:29,200 --> 00:08:32,237
+Tiens, Leonard. Dix, 11, 12... 14 $.
+
+145
+00:08:33,199 --> 00:08:35,269
+C‘est 14,50 $ mais ça ira.
+
+146
+00:08:36,480 --> 00:08:38,072
+Bien. Le dîner est arrivé.
+
+147
+00:08:38,240 --> 00:08:40,595
+Oui, le diner est arrivé
+et j'en ai pris.
+
+148
+00:08:40,759 --> 00:08:42,317
+- Bien.
+- Et comment, c‘est bien.
+
+149
+00:08:42,480 --> 00:08:46,553
+Je mange toujours des restes et j‘avais
+envie d‘autre chose. Fais—moi un procès.
+
+150
+00:08:46,719 --> 00:08:51,110
+Désolé, mais ce serait
+la définition même du procès futile.
+
+151
+00:08:51,999 --> 00:08:55,036
+Je te rembourserai dés que je pourrai.
+Donne—moi du temps.
+
+152
+00:08:55,200 --> 00:08:57,634
+- Tu lui as prêté de l'argent ?
+- Elle en avait besoin.
+
+153
+00:08:57,800 --> 00:09:00,951
+Tu as l‘air stressée.
+Je ne t'ai pas prêté assez ?
+
+154
+00:09:01,120 --> 00:09:02,235
+Je peux t'en donner plus.
+
+155
+00:09:02,400 --> 00:09:06,393
+Tu aimerais ça, hein ?
+
+156
+00:09:06,560 --> 00:09:07,675
+Oui.
+
+157
+00:09:08,080 --> 00:09:10,799
+Tu aimerais ouvrir
+ta petite boite a serpents
+
+158
+00:09:10,959 --> 00:09:14,793
+pour balancer du fric a la nana
+qui n'arrive pas a payer ses factures.
+
+159
+00:09:15,280 --> 00:09:16,759
+- Où vas-tu ?
+- Chez moi.
+
+160
+00:09:16,920 --> 00:09:19,639
+Où on ne m‘interrogera pas
+comme une criminelle.
+
+161
+00:09:24,360 --> 00:09:26,874
+J'ai oublié mon beignet chinois.
+
+162
+00:09:30,560 --> 00:09:32,790
+Au cas où vous auriez
+envisagé le vol,
+
+163
+00:09:32,959 --> 00:09:35,917
+sachez qu'il n‘y a plus d'argent
+dans la boite a serpents.
+
+164
+00:09:39,120 --> 00:09:43,159
+Mais si vous êtes serrés, il reste quelques
+50 $ dans le cul du Green Lantern.
+
+165
+00:09:53,560 --> 00:09:55,357
+- Salut.
+- Salut.
+
+166
+00:09:55,519 --> 00:09:57,475
+Un peu d‘éclairage d'ambiance ?
+
+167
+00:09:57,639 --> 00:10:00,711
+Oui. N'ayant pas payé la facture,
+la Compagnie d‘électricité
+
+168
+00:10:00,879 --> 00:10:03,518
+s‘est dit que j'apprécierais l‘ambiance.
+
+169
+00:10:04,199 --> 00:10:06,997
+Oui, ils sont trés attentionnés.
+
+170
+00:10:07,159 --> 00:10:11,152
+L'argent de Sheldon a servi à payer
+le loyer. Il restait environ 14 $.
+
+171
+00:10:12,319 --> 00:10:14,628
+Quatorze dollars ?
+
+172
+00:10:14,999 --> 00:10:18,196
+Remets-le dans ta poche
+ou je lui trouverai un autre usage.
+
+173
+00:10:19,280 --> 00:10:21,555
+Dans la poche.
+
+174
+00:10:21,959 --> 00:10:25,429
+Tu sais que Sheldon s'en fiche
+de quand tu lui rendras le fric.
+
+175
+00:10:25,600 --> 00:10:27,670
+C‘est une de ses rares particularités
+
+176
+00:10:27,839 --> 00:10:30,717
+qui fait qu'on n‘a pas envie
+de le zigouiller.
+
+177
+00:10:31,159 --> 00:10:33,468
+Eh bien, ce n‘est pas
+vraiment ça mon problème.
+
+178
+00:10:33,639 --> 00:10:36,756
+Tu peines a payer tes factures.
+C‘est le cas de tout le monde.
+
+179
+00:10:36,919 --> 00:10:38,989
+Oui, je sais...
+Mais ce n‘était pas le plan.
+
+180
+00:10:39,319 --> 00:10:40,911
+Ça ne devait pas se passer comme ça.
+
+181
+00:10:41,080 --> 00:10:43,230
+C‘était quoi, le plan ?
+
+182
+00:10:43,600 --> 00:10:46,558
+Serveuse pendant six mois,
+puis star de cinéma.
+
+183
+00:10:49,600 --> 00:10:50,715
+Tu as un plan B ?
+
+184
+00:10:50,879 --> 00:10:52,437
+Star a la télé.
+
+185
+00:10:54,280 --> 00:10:57,033
+Ce n‘est sans doute pas si grave.
+On peut regarder.
+
+186
+00:10:57,199 --> 00:10:59,554
+Il y a peut-être
+des économies a faire.
+
+187
+00:10:59,719 --> 00:11:00,993
+Tiens, par exemple.
+
+188
+00:11:01,159 --> 00:11:04,674
+Si tu n'as pas l'électricité,
+tu n'as pas besoin du câble.
+
+189
+00:11:06,879 --> 00:11:09,154
+C‘était une suggestion.
+
+190
+00:11:10,439 --> 00:11:12,748
+Cent soixante—dix dollars
+de cours d‘art dramatique ?
+
+191
+00:11:12,919 --> 00:11:17,151
+Je ne peux pas abandonner.
+Je suis une actrice professionnelle.
+
+192
+00:11:17,320 --> 00:11:19,470
+Tu as un boulot d‘actrice
+pour lequel on te paye ?
+
+193
+00:11:19,639 --> 00:11:22,631
+Ce n‘est pas ça, être professionnelle.
+
+194
+00:11:25,920 --> 00:11:27,876
+En fait, oui. Mais on va continuer.
+
+195
+00:11:31,880 --> 00:11:35,350
+Quoi, 1 800 $
+pour le Tribunal de Los Angeles ?
+
+196
+00:11:35,519 --> 00:11:37,111
+Ce n‘est rien.
+
+197
+00:11:37,280 --> 00:11:38,269
+Rien ?
+
+198
+00:11:38,439 --> 00:11:43,194
+Quoi, tu roulais a 6 000 km/h ?
+
+199
+00:11:43,720 --> 00:11:44,994
+Tu te souviens de Kurt ?
+
+200
+00:11:45,160 --> 00:11:47,196
+Ton ex ?
+
+201
+00:11:47,360 --> 00:11:50,477
+Oui, il a été arrêté
+en train de pisser sur une voiture de flic.
+
+202
+00:11:50,639 --> 00:11:51,708
+- Quoi ?
+- Il était soûl.
+
+203
+00:11:52,360 --> 00:11:54,430
+J‘espère.
+
+204
+00:11:54,600 --> 00:11:57,990
+Il avait des PV impayés
+et un mandat de saisie, alors j‘ai...
+
+205
+00:11:58,159 --> 00:11:59,672
+J'ai payé ses amendes.
+
+206
+00:11:59,839 --> 00:12:00,828
+Il t'a remboursée ?
+
+207
+00:12:00,999 --> 00:12:02,034
+Non, mais il le fera.
+
+208
+00:12:02,599 --> 00:12:05,397
+Pour dire ça, tu te basés
+sur la confiance intrinsèque
+
+209
+00:12:05,560 --> 00:12:09,109
+que t‘inspire un type qui se soûle
+et pisse sur une voiture de flic ?
+
+210
+00:12:09,280 --> 00:12:13,273
+Leonard, je ne vais pas appeler Kurt
+pour lui demander du fric.
+
+211
+00:12:14,080 --> 00:12:15,229
+Qu'est-ce que tu vas faire ?
+
+212
+00:12:15,400 --> 00:12:18,437
+Je vais peut-être chercher
+un appart moins coûteux.
+
+213
+00:12:18,600 --> 00:12:20,318
+Ah, non.
+
+214
+00:12:21,639 --> 00:12:23,675
+Non, tu ne vas pas faire ça.
+
+215
+00:12:23,839 --> 00:12:24,828
+Pourquoi ?
+
+216
+00:12:25,519 --> 00:12:27,396
+C‘est compliqué, déménager.
+
+217
+00:12:27,560 --> 00:12:31,678
+Il faut aller chercher des boîtes
+au supermarché
+
+218
+00:12:31,840 --> 00:12:35,310
+et si elles sont sales,
+tes bouquins puent le melon et...
+
+219
+00:12:36,839 --> 00:12:39,069
+Trouve—toi un colocataire et reste ici.
+
+220
+00:12:39,240 --> 00:12:40,468
+Tu connais quelqu'un ?
+
+221
+00:12:40,639 --> 00:12:44,871
+Celui qui vit avec Sheldon
+serait ravi d‘emménager chez toi.
+
+222
+00:12:46,840 --> 00:12:49,798
+Leonard, chéri.
+si on vit ensemble,
+
+223
+00:12:49,960 --> 00:12:52,838
+je passerai mon temps a te tripoter.
+
+224
+00:12:55,079 --> 00:12:56,432
+Vraiment ?
+
+225
+00:12:57,879 --> 00:13:00,837
+Et tu dis que je gaspille du fric
+avec ces cours d‘art dramatique ?
+
+226
+00:13:06,520 --> 00:13:09,637
+Ce porc moo shu creuse un trou
+dans mon duodénum.
+
+227
+00:13:11,800 --> 00:13:13,279
+Lévitique 11:3.
+
+228
+00:13:13,439 --> 00:13:18,229
+Vous mangerez de tout animal
+qui a le pied fourchu et qui rumine.
+
+229
+00:13:20,200 --> 00:13:24,637
+Je t'embête avec la Bhagavad-Gîta
+chaque fois que tu avales un Whopper ?
+
+230
+00:13:29,200 --> 00:13:32,909
+- Qu'est-ce que c‘est ?
+- Une quête dans la Vallée de Feu.
+
+231
+00:13:33,080 --> 00:13:35,719
+Tu sais où elle est, la Vallée de Feu ?
+Juste ici.
+
+232
+00:13:37,560 --> 00:13:39,471
+Vous avez envie d‘une vraie quête ?
+
+233
+00:13:39,639 --> 00:13:41,914
+A l‘extérieur ? J'ai fait du cacao.
+
+234
+00:13:43,079 --> 00:13:44,307
+Allez, on va s‘amuser.
+
+235
+00:13:44,480 --> 00:13:45,799
+C‘est quoi ?
+
+236
+00:13:45,959 --> 00:13:48,109
+Vous vous rappelez de Kurt,
+l'ex de Penny ?
+
+237
+00:13:51,400 --> 00:13:52,674
+Oui, c‘est lui.
+
+238
+00:13:52,840 --> 00:13:56,833
+Il doit beaucoup d'argent a Penny
+et je vais le lui réclamer.
+
+239
+00:13:56,999 --> 00:13:58,591
+Oui Vient avec moi ?
+
+240
+00:14:02,439 --> 00:14:03,952
+Double six.
+
+241
+00:14:04,120 --> 00:14:06,509
+Vous allez me laisser y aller seul ?
+
+242
+00:14:06,680 --> 00:14:08,989
+Cool, j'ai une épée.
+
+243
+00:14:09,160 --> 00:14:10,832
+J'ai besoin d‘aide.
+
+244
+00:14:10,999 --> 00:14:12,352
+Tiens.
+
+245
+00:14:14,080 --> 00:14:15,433
+Vous êtes incroyables.
+
+246
+00:14:15,600 --> 00:14:18,637
+Vous jouez pour simuler l'aventure
+et quand elle se présente
+
+247
+00:14:18,799 --> 00:14:20,835
+pour de vrai, vous vous défilez.
+
+248
+00:14:20,999 --> 00:14:23,957
+Tu te souviens la dernière fois
+qu'on est allés voir ce monsieur ?
+
+249
+00:14:24,120 --> 00:14:26,554
+On est rentrés sans pantalons.
+
+250
+00:14:28,159 --> 00:14:29,956
+- Je me souviens.
+- Tu en es sûr ?
+
+251
+00:14:30,120 --> 00:14:32,270
+Ta proposition suggère
+que tu as oublié.
+
+252
+00:14:32,639 --> 00:14:33,708
+Je n'ai pas peur de lui.
+
+253
+00:14:33,879 --> 00:14:36,188
+Trés bien.
+Léonard pose la question :
+
+254
+00:14:36,360 --> 00:14:38,430
+Oui veut abandonner la partie
+
+255
+00:14:38,599 --> 00:14:41,318
+pour affronter l'ex de Penny
+gonflé aux stéroi‘des
+
+256
+00:14:41,480 --> 00:14:44,756
+dans une mission suicide
+pour lui soutirer de l'argent ?
+
+257
+00:14:46,840 --> 00:14:49,149
+Tu salueras Kurt de notre part.
+
+258
+00:14:50,439 --> 00:14:51,474
+Excusez.
+
+259
+00:14:51,639 --> 00:14:54,233
+Quand Frodon a quitté le comté
+pour apporter l'anneau a Mordor
+
+260
+00:14:54,400 --> 00:14:56,277
+Sam, Pippin et Merry
+y sont allés avec lui ?
+
+261
+00:14:56,439 --> 00:14:57,554
+- Oui.
+- Alors ?
+
+262
+00:14:57,759 --> 00:15:00,114
+Ça a été affreux, Leonard.
+
+263
+00:15:01,720 --> 00:15:04,029
+Personne ne leur a piqué
+leurs pantalons.
+
+264
+00:15:05,040 --> 00:15:06,075
+Bien.
+
+265
+00:15:06,240 --> 00:15:09,471
+Amusez-vous.
+J'en fais ma quête.
+
+266
+00:15:09,639 --> 00:15:10,754
+Leonard, attends.
+
+267
+00:15:10,920 --> 00:15:13,593
+Prends un blouson.
+Ça crachouille, dehors.
+
+268
+00:15:14,519 --> 00:15:16,430
+Vous êtes nuls.
+
+269
+00:15:19,240 --> 00:15:21,310
+Allez. Il est tellement grand.
+
+270
+00:15:24,040 --> 00:15:27,669
+- Tout le monde a compris le plan ?
+- Oui. Koothrappali va se mouiller,
+
+271
+00:15:27,839 --> 00:15:31,468
+moi je vais crever, Sheldon va s'enfuir
+et toi tu vas mourir.
+
+272
+00:15:32,999 --> 00:15:35,194
+On synchronise nos montrés ?
+
+273
+00:15:35,360 --> 00:15:37,715
+Les gars, on est quatre contre un.
+
+274
+00:15:37,880 --> 00:15:40,633
+Son triomphe n'en sera
+que plus grand.
+
+275
+00:15:41,639 --> 00:15:44,153
+Des ménestrels chanteront son courage.
+
+276
+00:15:44,320 --> 00:15:47,869
+Ecoutez, je parle et vous restez
+derrière en prenant un air
+
+277
+00:15:48,040 --> 00:15:49,155
+redoutable.
+
+278
+00:15:54,759 --> 00:15:56,875
+J'aurais dû pisser avant de venir.
+
+279
+00:15:58,639 --> 00:15:59,628
+Oui ?
+
+280
+00:16:03,240 --> 00:16:05,310
+- Bonsoir, Kurt.
+- Lenny, c‘est ça ?
+
+281
+00:16:05,839 --> 00:16:08,512
+Je ne suis pas trop pour Lenny,
+mais ça ira.
+
+282
+00:16:09,120 --> 00:16:11,714
+Vous vous souvenez
+de Sheldon, Howard et Raj.
+
+283
+00:16:12,199 --> 00:16:13,632
+Non.
+
+284
+00:16:13,920 --> 00:16:16,195
+- Que voulez-vous ?
+- Il ne se souvient pas de moi ?
+
+285
+00:16:16,360 --> 00:16:18,351
+- Comment est-ce possible ?
+- Pas maintenant.
+
+286
+00:16:18,520 --> 00:16:20,272
+Moi, je me souviens de lui.
+
+287
+00:16:20,839 --> 00:16:23,512
+Voilà. Penny rencontre
+des difficultés financières
+
+288
+00:16:23,680 --> 00:16:26,911
+et l'argent que vous lui devez
+pourrait résoudre ses problèmes.
+
+289
+00:16:27,080 --> 00:16:31,232
+- Elle vous envoie le chercher ?
+- Non, elle est trop fière pour demander.
+
+290
+00:16:31,399 --> 00:16:34,118
+Mais je trouve
+que vous devriez honorer votre dette.
+
+291
+00:16:34,280 --> 00:16:35,679
+Vous trouvez ?
+
+292
+00:16:39,080 --> 00:16:41,548
+”Trouver“ est peut-être un peu fort.
+
+293
+00:16:41,719 --> 00:16:44,279
+Mais ce serait gentil de votre part.
+
+294
+00:16:44,439 --> 00:16:46,430
+Elle l'aura quand elle l‘aura.
+
+295
+00:16:50,360 --> 00:16:53,432
+Et voilà. Le problème est résolu.
+
+296
+00:16:53,920 --> 00:16:57,708
+Trés réussi, cette quête. Et maintenant
+une station service avec des WC.
+
+297
+00:16:58,280 --> 00:17:00,191
+Non, on n‘a pas résolu le problème.
+
+298
+00:17:00,360 --> 00:17:01,475
+Il Vient de nous renvoyer.
+
+299
+00:17:01,639 --> 00:17:03,391
+Je sais.
+
+300
+00:17:03,560 --> 00:17:07,553
+Il ne se souvenait pas de moi parce que
+j‘étais déguisé pour Halloween.
+
+301
+00:17:09,279 --> 00:17:12,032
+- Allez, viens, Leonard.
+- Non. Partez si vous voulez.
+
+302
+00:17:12,199 --> 00:17:15,236
+- Je vais au bout de cette affaire.
+- OK.
+
+303
+00:17:20,559 --> 00:17:23,198
+Techniquement, c‘est de ma faute.
+
+304
+00:17:28,999 --> 00:17:30,876
+Je ne partirai pas
+sans l'argent de Penny.
+
+305
+00:17:32,359 --> 00:17:34,475
+Où sont vos renforts ?
+
+306
+00:17:35,199 --> 00:17:37,030
+Je n'ai pas besoin de renforts.
+
+307
+00:17:37,200 --> 00:17:38,599
+J'ai le bien de mon côté.
+
+308
+00:17:43,400 --> 00:17:46,358
+Et je porte des caleçons longs
+sous mon pantalon.
+
+309
+00:17:48,840 --> 00:17:50,273
+Félicitations.
+
+310
+00:17:50,439 --> 00:17:52,430
+Tu n'as peut-être pas eu le fric,
+
+311
+00:17:52,600 --> 00:17:55,398
+mais tu as obtenu
+une vraie reconnaissance de dette.
+
+312
+00:17:56,199 --> 00:18:00,192
+JE DOIS À PENNY
+1 800 $
+
+313
+00:18:00,600 --> 00:18:03,797
+Il faudrait peut-être
+la faire certifier conforme.
+
+314
+00:18:06,240 --> 00:18:09,073
+Au cas où ça vous intéresse,
+j'ai toujours envie de pisser.
+
+315
+00:18:15,680 --> 00:18:17,113
+Salut.
+
+316
+00:18:18,600 --> 00:18:20,192
+- Sheldon est la ?
+- Oui, attends.
+
+317
+00:18:20,360 --> 00:18:21,395
+Sheldon.
+
+318
+00:18:21,560 --> 00:18:23,198
+- Joli bonnet.
+- Oui ?
+
+319
+00:18:23,360 --> 00:18:26,352
+C‘est a la mode en ce moment.
+
+320
+00:18:26,520 --> 00:18:29,353
+Si tu travailles sur un thonier, oui.
+
+321
+00:18:29,840 --> 00:18:32,115
+- Bonjour, Penny.
+- Sheldon, voici ton argent.
+
+322
+00:18:32,279 --> 00:18:34,110
+Merci beaucoup.
+il m'a été trés utile.
+
+323
+00:18:34,719 --> 00:18:36,471
+Sarcasme ?
+
+324
+00:18:37,199 --> 00:18:38,348
+- Non.
+- Zut.
+
+325
+00:18:38,520 --> 00:18:40,750
+Je n'arrive pas a piger.
+
+326
+00:18:41,720 --> 00:18:45,156
+Ça ne me regarde pas,
+mais d'où Vient cet argent ?
+
+327
+00:18:45,320 --> 00:18:47,470
+Eh bien, j'ai réduit mes dépensés
+comme tu as dit
+
+328
+00:18:47,640 --> 00:18:49,517
+et je fais plus d'heures au restaurant.
+
+329
+00:18:49,679 --> 00:18:52,239
+Mais surtout, Kurt s‘est pointé,
+comme ça,
+
+330
+00:18:52,400 --> 00:18:54,675
+et m'a rendu l'argent qu'il me devait.
+
+331
+00:18:54,839 --> 00:18:56,352
+Vraiment ?
+
+332
+00:18:56,520 --> 00:18:58,670
+Il a dit pourquoi ?
+
+333
+00:18:58,839 --> 00:19:02,752
+Oui. Il a dit qu'il se sentait coupable
+et qu'il voulait s'amender.
+
+334
+00:19:05,760 --> 00:19:07,398
+C‘est tout ?
+
+335
+00:19:08,680 --> 00:19:13,390
+Il t'a expliqué d'où venait
+cette révélation morale ?
+
+336
+00:19:13,880 --> 00:19:16,917
+Non. Je crois qu'il a changé.
+
+337
+00:19:19,279 --> 00:19:22,351
+On dîné ensemble, demain soir.
+Je mettrai mon nouveau béret.
+
+338
+00:19:23,159 --> 00:19:24,831
+Au revoir, les gars.
+
+339
+00:19:25,079 --> 00:19:26,512
+Au revoir.
+
+340
+00:19:30,600 --> 00:19:33,068
+Bravo, Leonard.
+
+341
+00:19:34,439 --> 00:19:36,589
+L‘authentique héros
+ne cherche pas a être adulé.
+
+342
+00:19:36,760 --> 00:19:40,275
+Il lutte pour le bien et la justice
+parce que c'est dans sa nature.
+
+343
+00:19:40,719 --> 00:19:43,074
+Penny reprend
+avec son imbécile d'ex petit ami
+
+344
+00:19:43,239 --> 00:19:46,356
+et j'ai de l‘encre indélébile
+sur le front.
+
+345
+00:19:46,520 --> 00:19:50,354
+C‘est ton insigne d'honneur,
+ta blessure de guerre, si tu veux.
+
+346
+00:19:50,520 --> 00:19:51,953
+Je me suis trompé.
+
+347
+00:19:52,119 --> 00:19:55,156
+C‘est ton courage
+que chanteront les ménestrels.
+
+348
+00:19:56,840 --> 00:19:58,353
+Génial.
+
+349
+00:19:58,520 --> 00:20:02,069
+Il était une fais un brave gars
+Appelé Leonard
+
+350
+00:20:02,279 --> 00:20:05,271
+Avec un vi—vi vin/un lun-lun
+
+351
+00:20:05,439 --> 00:20:08,158
+II allianta un effroyable géant
+
+352
+00:20:08,319 --> 00:20:11,629
+Et Rai se retint tout du lung
+
+353
+00:20:38,799 --> 00:20:40,790
+[FRENCH]
+

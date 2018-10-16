@@ -1,0 +1,1372 @@
+1
+00:00:03,439 --> 00:00:05,907
+Would you like to hear some songs
+I've rewritten...
+
+2
+00:00:06,080 --> 00:00:08,355
+...to get children interested
+in the hard sciences?
+
+3
+00:00:08,519 --> 00:00:09,747
+-Sure.
+-Really?
+
+4
+00:00:09,919 --> 00:00:14,470
+Yeah, well, I like music. I like science.
+I like making fun of Sheldon. Hit it.
+
+5
+00:00:15,720 --> 00:00:17,870
+[SINGING]
+There was a scientist who had a theory
+
+6
+00:00:18,039 --> 00:00:19,677
+And James Clerk Maxwell was his name-o
+
+7
+00:00:19,839 --> 00:00:21,477
+J-A-M-E-S
+
+8
+00:00:21,639 --> 00:00:23,357
+C-L-E-R-K
+
+9
+00:00:23,519 --> 00:00:25,475
+Space M-A-X-W-E-L-L
+
+10
+00:00:25,639 --> 00:00:27,834
+And James Clerk Maxwell was his name-o
+
+11
+00:00:28,880 --> 00:00:32,759
+There was a scientist who had a theory
+And James Clerk Maxwell was his name-o
+
+12
+00:00:32,920 --> 00:00:33,909
+A-M-E-S
+
+13
+00:00:34,080 --> 00:00:36,230
+Okay, okay. We get it.
+
+14
+00:00:36,440 --> 00:00:38,271
+Perhaps you'd prefer this one.
+
+15
+00:00:38,479 --> 00:00:42,233
+[SINGING]
+The itsy bitsy spider is not an insect at all
+
+16
+00:00:42,920 --> 00:00:47,277
+Because it has eight legs
+And two body pans
+
+17
+00:00:48,639 --> 00:00:50,470
+-That's pretty cool, Sheldon.
+-Thank you.
+
+18
+00:00:50,919 --> 00:00:54,594
+Do either of you know Beyoncé?
+I'd love her to get behind it.
+
+19
+00:00:56,040 --> 00:00:57,758
+-Hey.
+-Hey.
+
+20
+00:00:57,920 --> 00:01:00,912
+You know the new Discovery class missions
+NASA's been working on?
+
+21
+00:01:01,120 --> 00:01:03,350
+-Yeah.
+-They're looking to include a message...
+
+22
+00:01:03,519 --> 00:01:06,477
+...from Earth in case one of them
+is encountered by alien life.
+
+23
+00:01:06,680 --> 00:01:11,754
+When I encountered alien life, I discovered
+that the key thing was not to sit in its spot.
+
+24
+00:01:13,039 --> 00:01:15,394
+You can't breathe our air
+without an inhaler...
+
+25
+00:01:15,560 --> 00:01:18,233
+...he's allergic to Earth nuts,
+but I'm the alien.
+
+26
+00:01:19,439 --> 00:01:22,749
+Anyway, I'm among a handful of scientists
+that have been asked...
+
+27
+00:01:22,919 --> 00:01:26,150
+...to submit a design proposal
+for the message and its delivery system.
+
+28
+00:01:26,360 --> 00:01:28,032
+-Excellent.
+-Congratulations.
+
+29
+00:01:28,200 --> 00:01:31,909
+And I was wondering if any of you guys
+would like to help me do it.
+
+30
+00:01:32,119 --> 00:01:33,108
+Are you kidding? Yes.
+
+31
+00:01:33,279 --> 00:01:35,998
+-What did you have in mind?
+-l'll tell you what you should do.
+
+32
+00:01:36,160 --> 00:01:38,754
+Avoid the presumption
+of the Terran sensory input paradigm.
+
+33
+00:01:38,920 --> 00:01:41,718
+Absolutely. You need a device capable
+of delivering info...
+
+34
+00:01:41,879 --> 00:01:43,995
+...across a wide range
+of perceptual modalities.
+
+35
+00:01:44,160 --> 00:01:46,390
+Any intelligent organism
+would at the very least...
+
+36
+00:01:46,560 --> 00:01:49,438
+...need the ability to locate
+the position of objects in space.
+
+37
+00:01:49,599 --> 00:01:52,477
+So the ideal interstellar lingua franca
+would be haptic.
+
+38
+00:01:52,640 --> 00:01:55,996
+How about a 3D tactile communicator
+rigged for cross-sensory transposition?
+
+39
+00:01:56,160 --> 00:02:00,073
+Exactly what I expected. Two people forcing
+their ideas on me, and only one gentleman...
+
+40
+00:02:00,239 --> 00:02:03,117
+...who bothered to ask me
+what my thoughts were. You two are out.
+
+41
+00:02:03,280 --> 00:02:05,430
+Congratulations, Leonard.
+You're on the team.
+
+42
+00:02:06,399 --> 00:02:08,390
+My mommy raised a gentleman.
+
+43
+00:02:34,799 --> 00:02:37,438
+-Hey, thanks for coming by.
+-Yeah, I'm excited to help.
+
+44
+00:02:37,600 --> 00:02:40,956
+I would've included the others, but
+you know exactly what would've happened.
+
+45
+00:02:41,120 --> 00:02:43,680
+They would've taken over the project
+and bossed us around.
+
+46
+00:02:43,840 --> 00:02:47,753
+I get it. Just this morning, Sheldon wouldn't
+let me put almond milk on my Grape-Nuts...
+
+47
+00:02:47,919 --> 00:02:50,877
+...because he said
+it was a theoretical nut conflict.
+
+48
+00:02:51,840 --> 00:02:54,115
+You should've told him
+to mind his own business.
+
+49
+00:02:54,279 --> 00:02:58,192
+That's better than what I did say, which was,
+"Fine, I'll eat them with club soda."
+
+50
+00:02:58,960 --> 00:03:01,679
+What makes them think
+they're always in charge of everything?
+
+51
+00:03:01,840 --> 00:03:03,193
+-They're alpha males.
+-Huh.
+
+52
+00:03:03,360 --> 00:03:06,352
+-What does that make us?
+-We could be betas, they're second in charge.
+
+53
+00:03:06,520 --> 00:03:08,556
+-Okay, sounds good.
+-Or we could be omegas.
+
+54
+00:03:08,719 --> 00:03:11,153
+They get pushed around by the alphas
+and the betas.
+
+55
+00:03:11,319 --> 00:03:13,037
+Okay, that sounds like us.
+
+56
+00:03:13,920 --> 00:03:17,356
+Whatever. There's no alphas here,
+and this is your project.
+
+57
+00:03:17,519 --> 00:03:19,316
+You're in charge.
+How do you wanna start?
+
+58
+00:03:20,400 --> 00:03:22,072
+I don't know. How do you wanna start?
+
+59
+00:03:24,160 --> 00:03:25,149
+I don't know.
+
+60
+00:03:28,799 --> 00:03:30,869
+Should we call Sheldon and Howard?
+
+61
+00:03:31,040 --> 00:03:34,237
+-No, we can do this by ourselves.
+-Okay, great. How do you wanna start?
+
+62
+00:03:34,400 --> 00:03:36,277
+I don't know. How do you wanna start?
+
+63
+00:03:41,519 --> 00:03:45,512
+Sheldon. Sheldon. Sheldon.
+
+64
+00:03:51,840 --> 00:03:53,956
+I bet that started off as ajoke...
+
+65
+00:03:54,159 --> 00:03:59,517
+...but by the third one you realized there was
+something strangely enjoyable about it.
+
+66
+00:04:00,799 --> 00:04:03,472
+Yeah, I kind of wanna do it again.
+
+67
+00:04:03,639 --> 00:04:06,836
+I don't recommend it.
+You'll be doing it the rest of your life.
+
+68
+00:04:07,919 --> 00:04:10,479
+If you're looking for Leonard,
+he's with Koothrappali.
+
+69
+00:04:10,639 --> 00:04:13,233
+-No, I actually came to talk to you.
+-How nice.
+
+70
+00:04:15,919 --> 00:04:19,878
+Here are some topics that interest me:
+quantum mechanics, trains, flags--
+
+71
+00:04:20,040 --> 00:04:21,758
+No, no, it's about my acting career.
+
+72
+00:04:21,920 --> 00:04:23,956
+Oh, I'm sorry, that's not on the list.
+
+73
+00:04:24,119 --> 00:04:25,837
+-Well--
+-Oh, wait.
+
+74
+00:04:26,000 --> 00:04:27,638
+How about we split the difference...
+
+75
+00:04:27,840 --> 00:04:33,119
+...and discuss why Austria was
+an archduchy and notjust a regular duchy?
+
+76
+00:04:33,800 --> 00:04:36,758
+Okay, here's the thing.
+I like pharmaceutical sales, it's going great...
+
+77
+00:04:36,919 --> 00:04:40,116
+...butl have an audition for a movie,
+and ifl get it, it could screw everything up.
+
+78
+00:04:40,280 --> 00:04:43,272
+Mm. I know exactly what you should do.
+
+79
+00:04:43,440 --> 00:04:45,396
+Unfortunately, I cannot tell you.
+
+80
+00:04:47,319 --> 00:04:48,957
+Well, why?
+
+81
+00:04:49,119 --> 00:04:50,871
+I'm attempting to turn over a new leaf.
+
+82
+00:04:51,039 --> 00:04:54,827
+Earlier today, it was pointed out to me
+that I tend to force my ideas on people.
+
+83
+00:04:56,200 --> 00:04:58,236
+You're really not gonna tell me?
+
+84
+00:04:58,400 --> 00:05:01,437
+No, that train has left the station.
+
+85
+00:05:01,680 --> 00:05:03,875
+Now, we can play this one of two ways.
+
+86
+00:05:04,080 --> 00:05:06,355
+You can say, "Trains? Tell me more."
+
+87
+00:05:06,639 --> 00:05:11,076
+Or you can just look at me like that
+and I'll start.
+
+88
+00:05:15,520 --> 00:05:16,748
+What's going on in here?
+
+89
+00:05:16,919 --> 00:05:19,797
+lam making molecular cocktails.
+
+90
+00:05:19,959 --> 00:05:23,838
+This sphere is actually a cosmopolitan. Heh.
+
+91
+00:05:24,000 --> 00:05:25,513
+Oh, how do you drink it?
+
+92
+00:05:25,679 --> 00:05:28,318
+Just put it in your mouth
+and pop it like a zit.
+
+93
+00:05:29,759 --> 00:05:31,954
+I think I'll have a beer.
+
+94
+00:05:32,440 --> 00:05:34,237
+-First, take a picture with me.
+-Why?
+
+95
+00:05:34,399 --> 00:05:38,711
+Well, Raj and I always talked about learning
+how to make cocktails like this together.
+
+96
+00:05:38,879 --> 00:05:40,597
+So I taught myself...
+
+97
+00:05:40,799 --> 00:05:44,394
+...and I'm putting this on lnstagram
+so he can see it and feel like a turd.
+
+98
+00:05:44,560 --> 00:05:46,073
+Say, "Cheese."
+
+99
+00:05:46,920 --> 00:05:49,229
+Is this about the probe
+he's working on without you?
+
+100
+00:05:49,440 --> 00:05:50,555
+You betcha. The very one.
+
+101
+00:05:52,799 --> 00:05:56,109
+Howard, you're a grown man. You guys
+don't have to do everything together.
+
+102
+00:05:56,279 --> 00:05:59,794
+I know--
+That's why I'm spending tonight with you.
+
+103
+00:06:00,280 --> 00:06:01,872
+Trying to hurt Raj's feelings.
+
+104
+00:06:02,039 --> 00:06:03,757
+With my honeybunch.
+
+105
+00:06:05,080 --> 00:06:07,958
+-You're being childish.
+-No. He is.
+
+106
+00:06:08,160 --> 00:06:12,199
+So I have a dominant personality.
+We all know that.
+
+107
+00:06:13,119 --> 00:06:15,269
+I'm sorry, what do we know?
+
+108
+00:06:16,519 --> 00:06:21,593
+In social groupings,
+ljust naturally wind up in charge.
+
+109
+00:06:21,760 --> 00:06:25,548
+Don't take this wrong, but how many
+of these little booze balls have you had?
+
+110
+00:06:27,280 --> 00:06:30,670
+-You don't think I'm a leader?
+-I was kidding. Of course, you are.
+
+111
+00:06:30,839 --> 00:06:32,875
+Right. I couldn't change if I wanted to.
+
+112
+00:06:33,160 --> 00:06:35,833
+You'd better not change
+because I love who you are.
+
+113
+00:06:36,119 --> 00:06:40,158
+Will you need help cleaning all this up when
+you're done, or can you do it all by yourself?
+
+114
+00:06:40,320 --> 00:06:41,594
+All by myself.
+
+115
+00:06:41,760 --> 00:06:43,671
+There's my big boss man.
+
+116
+00:06:47,320 --> 00:06:50,517
+So often, on the front of the locomotive...
+
+117
+00:06:50,679 --> 00:06:55,389
+...is a large iron wedge
+for clearing objects off the tracks.
+
+118
+00:06:55,559 --> 00:07:01,998
+While commonly known as a cow catcher,
+I prefer the more accurate "cow exploder."
+
+119
+00:07:04,119 --> 00:07:06,030
+Okay, Sheldon, let me ask you a question.
+
+120
+00:07:06,320 --> 00:07:08,117
+If I was at a train station...
+
+121
+00:07:08,279 --> 00:07:10,713
+...and one train could take me
+to my currentjob...
+
+122
+00:07:10,880 --> 00:07:13,553
+...and the other could take me
+to an audition for a movie...
+
+123
+00:07:13,719 --> 00:07:16,187
+...which train should I get on?
+
+124
+00:07:18,799 --> 00:07:22,792
+Are you using trains
+to trick me into giving you advice?
+
+125
+00:07:23,279 --> 00:07:25,031
+
+
+126
+00:07:25,519 --> 00:07:27,271
+All right, then.
+
+127
+00:07:28,399 --> 00:07:32,312
+You should take a third train
+where you audition for the movie...
+
+128
+00:07:32,480 --> 00:07:35,995
+...but hold off on making a career decision
+until you have more information.
+
+129
+00:07:36,160 --> 00:07:40,517
+You're right. I'm worried about something
+that hasn't even happened yet.
+
+130
+00:07:40,679 --> 00:07:43,398
+Huh. You are awise man.
+
+131
+00:07:44,079 --> 00:07:49,517
+Well, Penny, who's smarter, the wise man
+or the person who comes to him for advice?
+
+132
+00:07:51,480 --> 00:07:54,916
+Oh, I guess you're right.
+Maybe it is the person who asks.
+
+133
+00:07:55,559 --> 00:07:57,117
+No, it's the wise man.
+
+134
+00:08:00,880 --> 00:08:03,633
+That's why he's called the wise man.
+
+135
+00:08:04,240 --> 00:08:05,798
+Know howl know that?
+
+136
+00:08:05,959 --> 00:08:08,189
+I'm the wise man.
+
+137
+00:08:09,200 --> 00:08:11,634
+I'm sorry. What was I thinking?
+
+138
+00:08:11,799 --> 00:08:15,587
+Just out of curiosity, why didn't you
+ask Leonard for advice about this?
+
+139
+00:08:15,760 --> 00:08:19,799
+Because I already know what he'll say,
+"wah, wah, wah, you shouldn't do it."
+
+140
+00:08:20,279 --> 00:08:21,951
+It's just like he's here.
+
+141
+00:08:24,760 --> 00:08:27,638
+So we know that previous attempts
+to send a message into space...
+
+142
+00:08:27,839 --> 00:08:30,637
+...like the Golden Record on Voyager,
+were heavily criticized.
+
+143
+00:08:30,839 --> 00:08:34,832
+Aliens could only play the Golden Record
+if they knew how to build a record player.
+
+144
+00:08:35,040 --> 00:08:39,352
+To be fair, I watched E.T. build a telephone
+out of a Speak & Spell and an umbrella.
+
+145
+00:08:40,800 --> 00:08:45,555
+-Dude was like a little brown MacGyver.
+-That would be helpful if E.T. were real.
+
+146
+00:08:45,720 --> 00:08:50,396
+Well, my feelings were real
+when he was about to die.
+
+147
+00:08:51,400 --> 00:08:54,676
+My God, when he's on the table
+and they used the paddles on him.
+
+148
+00:08:54,840 --> 00:08:55,955
+And he's all white.
+
+149
+00:08:56,159 --> 00:08:57,672
+And they zip him up in that bag.
+
+150
+00:08:57,839 --> 00:09:00,273
+And Gertie can't stop crying.
+
+151
+00:09:00,480 --> 00:09:01,959
+And the flower dies.
+
+152
+00:09:03,240 --> 00:09:05,470
+-Okay, let's talk about something else.
+-All right.
+
+153
+00:09:05,640 --> 00:09:08,950
+So it sounds like we need a way
+to communicate that's simple.
+
+154
+00:09:09,120 --> 00:09:12,271
+And doesn't require outside machinery
+to be built to access it.
+
+155
+00:09:12,480 --> 00:09:15,916
+It's also a problem because we don't know
+if the aliens who find this can see.
+
+156
+00:09:16,079 --> 00:09:18,673
+They might communicate
+in a totally different way than us.
+
+157
+00:09:18,840 --> 00:09:23,277
+Like when my dog is mad at me,
+she tells me by peeing in my slippers.
+
+158
+00:09:24,040 --> 00:09:26,315
+That's actually a valid example.
+
+159
+00:09:26,480 --> 00:09:29,278
+Animals do deliver messages through scent.
+
+160
+00:09:29,439 --> 00:09:32,112
+Bees talk to each other by dancing,
+whales have songs--
+
+161
+00:09:32,279 --> 00:09:36,716
+Penny has about 20 different ways of rolling
+her eyes that each mean something different.
+
+162
+00:09:36,879 --> 00:09:40,952
+So what it sounds like is what we want
+is a device that can deliver a message...
+
+163
+00:09:41,120 --> 00:09:43,793
+...through not only sight
+but other senses as well.
+
+164
+00:09:43,959 --> 00:09:44,948
+The most basic sense...
+
+165
+00:09:45,120 --> 00:09:48,715
+...that any space-faring civilization
+would have to possess is touch.
+
+166
+00:09:48,879 --> 00:09:52,667
+Ooh! Ooh, ooh.
+We could make a video-playing device...
+
+167
+00:09:52,840 --> 00:09:56,469
+...that simultaneously translates
+the information into a tactile medium.
+
+168
+00:09:56,639 --> 00:09:58,948
+All we have to do
+is rig a 3D communication system.
+
+169
+00:09:59,120 --> 00:10:00,633
+-We can totally do that.
+-I know.
+
+170
+00:10:00,800 --> 00:10:02,233
+-This is great.
+-Know what else it is?
+
+171
+00:10:02,400 --> 00:10:04,391
+-What?
+-Exactly what Sheldon and Howard said.
+
+172
+00:10:07,200 --> 00:10:09,111
+Well, thank you for peeing in my slippers.
+
+173
+00:10:14,639 --> 00:10:18,234
+[SINGING] It's the eye of the tiger
+It's the ear of the bat
+
+174
+00:10:18,400 --> 00:10:22,712
+It's the whiskers of the catﬁsh
+And the walrus
+
+175
+00:10:24,239 --> 00:10:27,595
+Hang on.
+Not that your song isn't terrible, it is.
+
+176
+00:10:29,279 --> 00:10:32,316
+But how do you mention bats
+and leave out sonar?
+
+177
+00:10:32,800 --> 00:10:34,074
+You didn't let me finish.
+
+178
+00:10:34,319 --> 00:10:37,994
+[SINGING]
+And also regarding the bat
+
+179
+00:10:38,199 --> 00:10:40,155
+It has sonar
+
+180
+00:10:41,999 --> 00:10:44,229
+-Hey.
+-Hello.
+
+181
+00:10:45,040 --> 00:10:46,473
+Look...
+
+182
+00:10:46,639 --> 00:10:49,517
+...I know you guys are upset.
+But we've talked about it...
+
+183
+00:10:49,680 --> 00:10:52,752
+...and we think it'd be beneficial
+for you to be part of the project.
+
+184
+00:10:53,680 --> 00:10:57,229
+Well, well, well, did you hear that, Sheldon?
+
+185
+00:10:57,400 --> 00:11:01,791
+I'm sorry. I was trying think of what rhymes
+with "nose of the aardvark."
+
+186
+00:11:03,520 --> 00:11:05,317
+We want you back on the project with us.
+
+187
+00:11:05,479 --> 00:11:10,269
+Well, well, well, did you hear that, Howard?
+
+188
+00:11:10,479 --> 00:11:13,949
+Look, we admit it, the idea that you guys
+came up with was really good.
+
+189
+00:11:14,120 --> 00:11:15,838
+And I'd love your help.
+
+190
+00:11:15,999 --> 00:11:18,274
+I suppose it couldn't have been easy
+for you to say.
+
+191
+00:11:18,439 --> 00:11:20,031
+It wasn't.
+
+192
+00:11:20,599 --> 00:11:21,588
+So are you in?
+
+193
+00:11:23,040 --> 00:11:24,029
+-Certainly.
+-Sure.
+
+194
+00:11:24,199 --> 00:11:28,112
+Great. Now that we're all on the same page,
+let's get together tonight and work on it.
+
+195
+00:11:28,319 --> 00:11:31,231
+Get together tonight?
+Leonard, stop trying to control everything...
+
+196
+00:11:31,399 --> 00:11:34,709
+...and give poor Raj a chance to come up
+with what we should do. Go ahead.
+
+197
+00:11:34,879 --> 00:11:37,791
+-I think we should do it right now.
+-Tonight works better for me.
+
+198
+00:11:37,960 --> 00:11:39,518
+Okay.
+
+199
+00:11:45,319 --> 00:11:47,833
+P E N N Y :
+Okay, it's just an audition.
+
+200
+00:11:48,039 --> 00:11:49,358
+Why am I nervous?
+
+201
+00:11:49,560 --> 00:11:52,597
+Maybe it's a good thing.
+It just means I want it.
+
+202
+00:11:52,800 --> 00:11:54,438
+And I can have it.
+
+203
+00:11:54,639 --> 00:11:57,517
+This feels right. Why did I ever give this up?
+
+204
+00:12:02,439 --> 00:12:04,509
+Yeah, I'm starting to remember.
+
+205
+00:12:06,999 --> 00:12:10,958
+So I'd like to try a technique
+where no one gets steamrolled.
+
+206
+00:12:11,680 --> 00:12:14,114
+When you talk,
+instead of bringing up a new idea...
+
+207
+00:12:14,280 --> 00:12:17,511
+...respect what was just said
+by building on it.
+
+208
+00:12:17,680 --> 00:12:21,832
+Uh, building on that,
+we should order dinner.
+
+209
+00:12:22,399 --> 00:12:24,390
+How is that building on what he just said?
+
+210
+00:12:24,560 --> 00:12:27,757
+Building on what Sheldon said,
+I could go for Chinese.
+
+211
+00:12:27,919 --> 00:12:30,911
+Hang on. Building on what Leonard said,
+no one built on what I said.
+
+212
+00:12:31,079 --> 00:12:34,788
+Building on building on that, there's a new
+build-your-own pizza place on Colorado.
+
+213
+00:12:36,120 --> 00:12:40,113
+-Building on that, I'm lactose intolerant.
+-No, I saw the menu, they have soy cheese.
+
+214
+00:12:40,280 --> 00:12:42,350
+You didn't say "building on," you're out.
+
+215
+00:12:42,519 --> 00:12:44,794
+-lt's not Simon Says.
+-You're missing the point.
+
+216
+00:12:44,960 --> 00:12:47,918
+You're out and you're out, I win.
+Who wants pizza?
+
+217
+00:12:51,680 --> 00:12:52,715
+Penny?
+
+218
+00:12:52,919 --> 00:12:55,831
+-Oh, hey.
+-Hey. I haven't seen you audition in a while.
+
+219
+00:12:55,999 --> 00:12:58,513
+Yeah, I got ajob
+as a pharmaceutical sales rep.
+
+220
+00:12:58,680 --> 00:13:00,477
+-You quit acting?
+-Kind of.
+
+221
+00:13:00,639 --> 00:13:04,837
+But now I get to act like inflamed heart
+is only "a mild side effect."
+
+222
+00:13:05,919 --> 00:13:07,796
+I heard you can make good money
+doing that.
+
+223
+00:13:07,960 --> 00:13:10,997
+Yeah, it's going okay,
+but I do miss this sometimes.
+
+224
+00:13:11,160 --> 00:13:12,149
+Really?
+
+225
+00:13:12,319 --> 00:13:15,231
+Because I gotta tell you,
+lam so sick of the humiliation...
+
+226
+00:13:15,400 --> 00:13:17,960
+-...and being treated like a piece of meat.
+-Chelsea?
+
+227
+00:13:18,560 --> 00:13:19,788
+Wish me luck.
+
+228
+00:13:22,280 --> 00:13:23,554
+They're gonna love you.
+
+229
+00:13:24,519 --> 00:13:27,636
+I heard she's pushing 40
+and everything's fake.
+
+230
+00:13:28,479 --> 00:13:31,710
+Yeah, I started that rumor.
+
+231
+00:13:33,160 --> 00:13:36,994
+Since we agree on the delivery system for
+the message, maybe we should talk about...
+
+232
+00:13:37,160 --> 00:13:38,513
+...what the message could be.
+
+233
+00:13:38,679 --> 00:13:41,147
+Well, I think we should show
+what Earthlings look like.
+
+234
+00:13:41,319 --> 00:13:44,948
+The plaque they sent on the Pioneer probe
+had a drawing of a naked man and woman.
+
+235
+00:13:45,120 --> 00:13:46,394
+Yeah, I never cared for that.
+
+236
+00:13:46,560 --> 00:13:52,635
+It's advertising to predator races
+just how soft and squishy we are.
+
+237
+00:13:52,800 --> 00:13:53,869
+Squeeze yourself.
+
+238
+00:13:54,039 --> 00:13:55,631
+Oh, don't be offended.
+
+239
+00:13:55,800 --> 00:13:59,076
+You know of the four of us,
+you have the most veal-like consistency.
+
+240
+00:14:01,160 --> 00:14:05,551
+Maybe we can appear non-aggressive,
+but also protect ourselves if necessary.
+
+241
+00:14:05,719 --> 00:14:07,949
+Like smiling and waving with one hand...
+
+242
+00:14:08,120 --> 00:14:11,157
+...but the other hand
+holding the severed head of a tiger.
+
+243
+00:14:11,720 --> 00:14:15,315
+You wanna send a passive-aggressive
+message into space? That's ridiculous.
+
+244
+00:14:15,480 --> 00:14:17,948
+Oh, you mean passive-aggressive
+like posting pictures...
+
+245
+00:14:18,120 --> 00:14:22,511
+...of you and your wife eating cosmopolitan
+balls that you know belong in my mouth?
+
+246
+00:14:24,759 --> 00:14:28,752
+Maybe Howard meant passive-aggressive
+like asking our group's help...
+
+247
+00:14:28,920 --> 00:14:30,592
+...and then only choosing Leonard.
+
+248
+00:14:31,079 --> 00:14:33,309
+Look, I'm sorry I hurt your feelings...
+
+249
+00:14:33,519 --> 00:14:37,558
+...but you two have strong personalities
+and always end up taking over.
+
+250
+00:14:37,719 --> 00:14:38,834
+It's not always.
+
+251
+00:14:38,999 --> 00:14:41,957
+What about when we went to Comic-Con
+dressed like Jabba the Hutt?
+
+252
+00:14:42,159 --> 00:14:46,277
+You got to be Jabba's head
+and I got to be his fat slug butt.
+
+253
+00:14:47,840 --> 00:14:49,910
+We looked great.
+
+254
+00:14:50,680 --> 00:14:52,511
+You let a guy sit on me.
+
+255
+00:14:52,999 --> 00:14:55,957
+He was dressed as Princess Leia.
+It made a nice picture.
+
+256
+00:14:58,200 --> 00:15:01,272
+I'm just saying,
+sometimes Raj and lfeel pushed aside.
+
+257
+00:15:01,439 --> 00:15:05,068
+Yeah, like when you took Sheldon to Texas
+and showed him all around NASA.
+
+258
+00:15:05,239 --> 00:15:07,230
+You didn't even think
+to ask me and Leonard.
+
+259
+00:15:07,879 --> 00:15:09,392
+You know what? You're right.
+
+260
+00:15:09,599 --> 00:15:10,827
+lshould've asked you.
+
+261
+00:15:10,999 --> 00:15:14,594
+And if he does ask you, go, it's amazing.
+
+262
+00:15:16,040 --> 00:15:20,477
+If we're talking about being left out, you
+guys went to Skywalker Ranch without us.
+
+263
+00:15:20,639 --> 00:15:24,029
+Oh, I recommend that too.
+That was a magical experience.
+
+264
+00:15:24,799 --> 00:15:28,838
+Wait. Sheldon spent a whole day with
+James Earl Jones and never told any of us.
+
+265
+00:15:29,159 --> 00:15:32,037
+I sure did. Oh, my goodness.
+
+266
+00:15:32,199 --> 00:15:35,157
+From Jabba's head
+to ice cream with Darth Vader.
+
+267
+00:15:35,320 --> 00:15:37,151
+I'm having a heck of a ride.
+
+268
+00:15:38,519 --> 00:15:41,272
+Clearly, good things happen
+when I'm in charge.
+
+269
+00:15:41,439 --> 00:15:45,318
+Now, why don't you boys step aside?
+Let me knock this project out.
+
+270
+00:15:45,480 --> 00:15:47,835
+Sheldon, you're not in charge.
+Raj is in charge.
+
+271
+00:15:47,999 --> 00:15:50,229
+Leonard, who's really in charge?
+
+272
+00:15:50,400 --> 00:15:54,916
+The person in charge
+or those who put him in charge?
+
+273
+00:15:55,399 --> 00:15:58,357
+He's right.
+If you think about it, we're all in charge.
+
+274
+00:15:58,520 --> 00:16:02,433
+No, the guy in charge is in cha--
+Why's everyone so bad at these?
+
+275
+00:16:03,960 --> 00:16:07,635
+I mean, the whole experience reminded me
+about how much I hated that world.
+
+276
+00:16:07,800 --> 00:16:10,439
+You know, the anxiety, the depression,
+the negativity.
+
+277
+00:16:10,600 --> 00:16:12,033
+I don't wanna feel those things.
+
+278
+00:16:12,199 --> 00:16:15,509
+I wanna sell drugs to people
+who feel those things.
+
+279
+00:16:16,519 --> 00:16:20,148
+I can't believe you got up and walked out
+of an audition for a big movie.
+
+280
+00:16:20,319 --> 00:16:23,709
+I did. I mean, I walked in, read for the part,
+then stunk up the place.
+
+281
+00:16:23,920 --> 00:16:25,353
+But then I walked right out.
+
+282
+00:16:27,159 --> 00:16:29,434
+I'm glad you have a new appreciation
+for yourjob.
+
+283
+00:16:29,600 --> 00:16:33,149
+I do. And I don't think I've ever thanked you
+properly for helping me get it.
+
+284
+00:16:33,639 --> 00:16:37,871
+"Properly," "at all,"
+it's just words I've never heard.
+
+285
+00:16:38,039 --> 00:16:40,951
+Well, thank you. You're
+a good friend and you changed my life.
+
+286
+00:16:41,120 --> 00:16:43,873
+You're welcome. Hey,
+now that you're making some real money...
+
+287
+00:16:44,079 --> 00:16:47,310
+...maybe you could take your friend out
+for a nice thank-you dinner.
+
+288
+00:16:47,639 --> 00:16:50,107
+-Sure.
+-You have to invite your other friend...
+
+289
+00:16:50,279 --> 00:16:54,033
+...because she overheard you talking
+and it would be awkward to exclude her.
+
+290
+00:16:54,999 --> 00:16:56,830
+-Okay.
+-How about now?
+
+291
+00:16:57,920 --> 00:16:58,909
+All right.
+
+292
+00:17:01,639 --> 00:17:03,197
+Don't forget your wallet.
+
+293
+00:17:12,799 --> 00:17:15,393
+Greetings from planet Earth.
+
+294
+00:17:16,559 --> 00:17:20,154
+Just turn left at Alpha Centauri,
+you can't miss it.
+
+295
+00:17:21,640 --> 00:17:24,234
+[IN ALIEN LANGUAGE]
+
+296
+00:17:57,999 --> 00:17:59,910
+[English - us - an]
+

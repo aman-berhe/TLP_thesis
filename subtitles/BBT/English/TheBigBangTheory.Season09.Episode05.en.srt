@@ -1,0 +1,1578 @@
+1
+00:00:04,800 --> 00:00:07,872
+-Leonard, I've got terrible news.
+-What's going on?
+
+2
+00:00:08,680 --> 00:00:11,319
+Before | tell you,
+perhaps I should soften the blow.
+
+3
+00:00:12,360 --> 00:00:14,715
+Your face is pleasingly symmetrical.
+
+4
+00:00:16,919 --> 00:00:17,874
+Just tell me.
+
+5
+00:00:18,200 --> 00:00:19,792
+A Swedish team of physicists
+
+6
+00:00:19,999 --> 00:00:22,752
+is trying to scoop
+our superfluid vortex experiment.
+
+7
+00:00:23,559 --> 00:00:24,708
+That kinda stinks.
+
+8
+00:00:24,920 --> 00:00:26,319
+"That kinda stinks"?
+
+9
+00:00:26,599 --> 00:00:29,591
+Why aren't you more upset?
+Did I soften the blow too much?
+
+10
+00:00:29,800 --> 00:00:32,997
+Yeah, because this, here,
+is more like a Picasso painting.
+
+11
+00:00:35,039 --> 00:00:37,473
+-What are we gonna do?
+-Perform the experiment, immediately.
+
+12
+00:00:37,679 --> 00:00:39,909
+Well, I'd love to,
+but we need liquid helium,
+
+13
+00:00:40,160 --> 00:00:41,798
+and our shipment's on back order
+for a month.
+
+14
+00:00:42,080 --> 00:00:43,957
+A month? Are you kidding me?
+
+15
+00:00:44,200 --> 00:00:46,316
+That would've been a good time for you
+to soften the blow.
+
+16
+00:00:47,559 --> 00:00:49,390
+That shirt brings out
+the blue in your eyes.
+
+17
+00:00:50,280 --> 00:00:51,759
+Thank you, aren't you sweet.
+
+18
+00:00:53,360 --> 00:00:56,272
+Let's go check to see if the university
+has any helium in reserve.
+
+19
+00:00:56,560 --> 00:00:58,710
+Did you know that
+I almost didn't wear this shirt today?
+
+20
+00:01:01,280 --> 00:01:03,271
+Hey, Barry, we're in trouble.
+We need liquid helium.
+
+21
+00:01:03,479 --> 00:01:04,992
+Does the department have any we can use?
+
+22
+00:01:05,200 --> 00:01:06,235
+Sorry, there's a shortage.
+
+23
+00:01:06,439 --> 00:01:08,953
+And what we do have,
+I need for my quantum excitation study.
+
+24
+00:01:09,440 --> 00:01:10,919
+But you won't need much for that.
+
+25
+00:01:11,439 --> 00:01:14,078
+True. But if it's successful,
+I'm having a party with balloons.
+
+26
+00:01:15,240 --> 00:01:18,232
+Come on, Barry, there's a Swedish team
+trying to run our experiment before us.
+
+27
+00:01:18,440 --> 00:01:19,555
+Can you spare any?
+
+28
+00:01:20,200 --> 00:01:21,155
+Be honest.
+
+29
+00:01:21,400 --> 00:01:24,039
+If the shoe was on the other foot,
+would you do this for me?
+
+30
+00:01:24,360 --> 00:01:25,588
+-Yes.
+-Not a chance.
+
+31
+00:01:27,480 --> 00:01:29,675
+-What are you doing?
+-He said, "Be honest," so I was honest.
+
+32
+00:01:29,960 --> 00:01:31,837
+Didn't your mother tell you?
+It's the best policy.
+
+33
+00:01:33,000 --> 00:01:34,911
+-So, what do you say?
+-Hell, no.
+
+34
+00:01:37,639 --> 00:01:38,992
+He could have softened the blow.
+
+35
+00:01:41,080 --> 00:01:43,036
+(THEME SONG PLAYING)
+
+36
+00:02:05,920 --> 00:02:06,955
+Why do you need Kripke?
+
+37
+00:02:07,159 --> 00:02:08,877
+Can't you just go to
+Party City for helium?
+
+38
+00:02:09,799 --> 00:02:11,869
+We'd have to go to every Party City
+in California.
+
+39
+00:02:12,200 --> 00:02:13,792
+Sounds like you on Cinco de Mayo.
+
+40
+00:02:16,120 --> 00:02:19,954
+Hey, people were still talking about
+that party on Siete de Mayo.
+
+41
+00:02:22,159 --> 00:02:23,672
+Leonard, if that Swedish team beats us,
+
+42
+00:02:23,880 --> 00:02:26,235
+I will never be able to enjoy anything
+from their country again.
+
+43
+00:02:27,079 --> 00:02:28,148
+Which is a shame,
+
+44
+00:02:28,359 --> 00:02:31,874
+because Swedish meatballs are my favorite
+toothpick-delivered meatball.
+
+45
+00:02:32,239 --> 00:02:33,991
+If you need liquid helium so bad,
+
+46
+00:02:34,279 --> 00:02:37,669
+I know a guy who can get you some
+if you don't ask too many questions.
+
+47
+00:02:37,960 --> 00:02:38,915
+-Who is he?
+-Where does he work?
+
+48
+00:02:39,120 --> 00:02:41,588
+-How does he get the helium?
+-How many questions is too many questions?
+
+49
+00:02:42,960 --> 00:02:45,349
+-Maybe he's not for you.
+-Four questions. The answer's four.
+
+50
+00:02:48,160 --> 00:02:50,754
+Hey, you know who went on a date
+the other night? Stuart.
+
+51
+00:02:51,079 --> 00:02:52,717
+-Oh, good for him.
+-I thought so too.
+
+52
+00:02:53,320 --> 00:02:56,073
+So is she, like, homeless
+or framing him for a crime?
+
+53
+00:02:57,920 --> 00:03:00,070
+He's using some kinda dating app
+on his phone.
+
+54
+00:03:00,359 --> 00:03:02,156
+Oh, which one?
+Maybe we can get Amy to try it.
+
+55
+00:03:02,480 --> 00:03:05,358
+I don't know.
+Stuart, can you come in here?
+
+56
+00:03:05,680 --> 00:03:07,398
+He tried to explain it to me.
+
+57
+00:03:07,600 --> 00:03:10,751
+It shows you pictures of people nearby,
+you swipe them around,
+
+58
+00:03:10,960 --> 00:03:12,188
+it looks kinda like a game.
+
+59
+00:03:12,680 --> 00:03:15,114
+Oh! And if you lose the game,
+you have to go out with Stuart.
+
+60
+00:03:15,760 --> 00:03:16,715
+(CHUCKLES)
+
+61
+00:03:18,320 --> 00:03:20,709
+-What's up?
+-Can you show us that dating app?
+
+62
+00:03:21,040 --> 00:03:22,268
+Oh, yeah, sure.
+
+63
+00:03:23,040 --> 00:03:24,871
+This thing has changed my life.
+
+64
+00:03:25,240 --> 00:03:27,151
+-Wow! So, how many girls have you met?
+-Two.
+
+65
+00:03:29,359 --> 00:03:32,556
+I probably don't need to mention there is
+an entire number between that and zero.
+
+66
+00:03:33,400 --> 00:03:34,674
+Well, so, how does it work?
+
+67
+00:03:35,000 --> 00:03:38,356
+Uh, well it shows me all the single women,
+
+68
+00:03:38,559 --> 00:03:40,868
+in afive-mile radius,
+who are using the app.
+
+69
+00:03:41,279 --> 00:03:43,190
+lfl like the way they look,
+I hit thumbs up.
+
+70
+00:03:43,440 --> 00:03:44,589
+If I don't, thumbs down.
+
+71
+00:03:45,040 --> 00:03:46,792
+Oh! What would make you give a girl
+a thumbs down?
+
+72
+00:03:47,439 --> 00:03:49,191
+First time it happens,
+lwill let you know.
+
+73
+00:03:53,639 --> 00:03:55,948
+Oh, hey, ljust heard back
+from the liquid helium guy.
+
+74
+00:03:56,279 --> 00:03:57,314
+Oh! What's he say?
+
+75
+00:03:57,520 --> 00:03:59,795
+He's got what we need,
+and can meet us tonight.
+
+76
+00:04:00,159 --> 00:04:01,387
+Really?
+
+77
+00:04:02,400 --> 00:04:04,311
+You know I don't like buying things
+at night.
+
+78
+00:04:05,800 --> 00:04:07,631
+January 7th, 2009.
+
+79
+00:04:07,840 --> 00:04:09,159
+I went to the Ralphs at 11:30 pm.
+
+80
+00:04:09,359 --> 00:04:11,315
+to pick up Cracklin' Oat Bran
+for the morning, and what did I see?
+
+81
+00:04:11,519 --> 00:04:14,238
+-The man restocking the cereal shelves.
+-That's right. And what did he do?
+
+82
+00:04:14,440 --> 00:04:16,954
+He handed you the box directly
+and called you "Stretch."
+
+83
+00:04:19,800 --> 00:04:21,552
+(SHUDDERS)
+It's like it was yesterday.
+
+84
+00:04:23,400 --> 00:04:25,709
+-Do you want liquid helium or not?
+-Of course, I do!
+
+85
+00:04:25,920 --> 00:04:27,558
+I don't want that
+Swedish team scooping us.
+
+86
+00:04:27,759 --> 00:04:29,317
+Well, then, I'm gonna tell him we're in.
+
+87
+00:04:30,000 --> 00:04:31,592
+Leonard, wait. This is highly unethical.
+
+88
+00:04:31,799 --> 00:04:33,949
+Oh! We're just bending the rules a little.
+
+89
+00:04:34,160 --> 00:04:36,469
+We have grant money to do the experiment,
+
+90
+00:04:36,680 --> 00:04:38,636
+so we're gonna spend it
+on the helium we need.
+
+91
+00:04:38,920 --> 00:04:42,310
+It's not like when Doctor Goldfarb claimed
+he bought an electron microscope,
+
+92
+00:04:42,599 --> 00:04:45,511
+but he was reallyjust keeping a
+Russian girl in an apartment in Van Nuys.
+
+93
+00:04:48,800 --> 00:04:50,552
+Was she helping him with his research?
+
+94
+00:04:53,399 --> 00:04:54,354
+Sure.
+
+95
+00:04:55,840 --> 00:04:57,068
+So, we doing this?
+
+96
+00:04:57,560 --> 00:05:00,632
+-But where does he get the helium?
+-Remember? Don't ask too many questions.
+
+97
+00:05:00,840 --> 00:05:02,831
+But this is violating university code.
+
+98
+00:05:03,199 --> 00:05:04,268
+A little, but...
+
+99
+00:05:04,600 --> 00:05:06,511
+(SIGHS) lfl may quote Einstein,
+
+100
+00:05:06,840 --> 00:05:10,992
+"The pursuit of science calls us
+to ignore the rules set by man."
+
+101
+00:05:12,160 --> 00:05:13,115
+Huh.
+
+102
+00:05:13,879 --> 00:05:15,631
+All right, do it. Tell him we're in.
+
+103
+00:05:18,239 --> 00:05:19,194
+Done.
+
+104
+00:05:20,119 --> 00:05:22,587
+I can't find that quote on the Internet.
+Did you make that up?
+
+105
+00:05:25,920 --> 00:05:28,798
+Before I answer, may I just say,
+your skin has never looked better.
+
+106
+00:05:32,479 --> 00:05:34,037
+Aren't you just made of sugar?
+
+107
+00:05:37,400 --> 00:05:38,992
+I'm not sure, how I feel about this.
+
+108
+00:05:39,320 --> 00:05:40,639
+Oh, come on.
+Just let him put the app on your phone.
+
+109
+00:05:40,840 --> 00:05:42,398
+Yeah, Stuart got two dates with it.
+
+110
+00:05:42,840 --> 00:05:45,434
+One of which would've ended in sex,
+had she not said no.
+
+111
+00:05:47,800 --> 00:05:50,189
+-Okay, all set.
+-Okay, let me see. (CLEARS THROAT)
+
+112
+00:05:50,599 --> 00:05:51,509
+Nope.
+
+113
+00:05:51,720 --> 00:05:52,709
+Nope.
+
+114
+00:05:52,920 --> 00:05:53,830
+Nope.
+
+115
+00:05:54,039 --> 00:05:55,188
+Oh! He's cute.
+
+116
+00:05:55,720 --> 00:05:58,518
+Doesn't a teardrop tattoo mean
+he murdered someone?
+
+117
+00:06:00,759 --> 00:06:02,192
+And he's sad about it.
+
+118
+00:06:03,720 --> 00:06:04,675
+-Hey.
+-Hello.
+
+119
+00:06:04,879 --> 00:06:05,789
+-Hey.
+-Hey.
+
+120
+00:06:06,000 --> 00:06:08,560
+-I thought you were gonna be out late.
+-If you wanted me to stay out later,
+
+121
+00:06:08,759 --> 00:06:10,556
+you should've given me
+more spending money.
+
+122
+00:06:11,319 --> 00:06:12,434
+What are you guys up to?
+
+123
+00:06:12,639 --> 00:06:14,789
+We put Amy on a dating app
+and we're seeing what's out there.
+
+124
+00:06:15,040 --> 00:06:16,473
+Oh, fun, let me see.
+
+125
+00:06:17,439 --> 00:06:18,758
+Uh, no.
+
+126
+00:06:19,639 --> 00:06:21,869
+No. Definitely not.
+
+127
+00:06:22,639 --> 00:06:23,594
+What was wrong with that guy?
+
+128
+00:06:23,799 --> 00:06:26,029
+Uh, he's lndian.
+We've already got one of those.
+
+129
+00:06:27,839 --> 00:06:30,751
+Ooh! We should find a nice Latino,
+really round us out.
+
+130
+00:06:32,120 --> 00:06:33,030
+I wanna try.
+
+131
+00:06:33,239 --> 00:06:34,752
+Uh, excuse me, can I have my phone back?
+
+132
+00:06:34,960 --> 00:06:37,235
+Yeah, hang on. I'm trying to find you
+the next great love of your life.
+
+133
+00:06:37,439 --> 00:06:38,838
+The man who will father your children.
+
+134
+00:06:39,040 --> 00:06:41,110
+Okay, yes or no
+on white guy with dreadlocks.
+
+135
+00:06:41,319 --> 00:06:42,354
+(ALL CLAMORING)
+
+136
+00:06:51,280 --> 00:06:52,793
+(SIGHS) That must be him.
+
+137
+00:06:53,320 --> 00:06:56,756
+Of course, a nondescript white panel van.
+
+138
+00:06:57,119 --> 00:06:58,757
+You may be familiar with it
+from the sentence,
+
+139
+00:06:58,960 --> 00:07:02,032
+"Their bodies were found
+in a nondescript white panel van."
+
+140
+00:07:05,800 --> 00:07:06,915
+(DOORS CLOSING)
+
+141
+00:07:09,200 --> 00:07:10,758
+-Hey.
+-What's up?
+
+142
+00:07:11,159 --> 00:07:14,469
+-Uh, l'm Leonard. This is my friend--
+-l'm Skippy. Skippy Cavanaugh.
+
+143
+00:07:16,839 --> 00:07:19,148
+-Great. You got the cash?
+-Uh, yeah. Right here.
+
+144
+00:07:19,360 --> 00:07:20,634
+Wait, no, hold on, hold on.
+
+145
+00:07:21,320 --> 00:07:23,914
+How do we know that you're not gonna
+take the money and drive away?
+
+146
+00:07:24,800 --> 00:07:26,074
+What are you doing, Skippy?
+
+147
+00:07:27,399 --> 00:07:30,118
+Exactly what 1970s television crime dramas
+have taught us.
+
+148
+00:07:30,880 --> 00:07:32,757
+You give us the helium first.
+
+149
+00:07:33,160 --> 00:07:35,799
+Oh, how do I know you're not gonna
+drive away without paying me?
+
+150
+00:07:37,040 --> 00:07:39,508
+Guess I'm not the only one who watched
+'70s television crime dramas.
+
+151
+00:07:40,880 --> 00:07:43,519
+Look, you can trust us,
+we're respected scientists.
+
+152
+00:07:43,880 --> 00:07:44,915
+Well, he is.
+
+153
+00:07:45,320 --> 00:07:48,392
+l'm awedding planner
+who can't find love himself.
+
+154
+00:07:50,880 --> 00:07:52,518
+lt's ironic, but the point is...
+
+155
+00:07:53,559 --> 00:07:54,787
+We can't trust you,
+
+156
+00:07:55,040 --> 00:07:57,474
+you're a sketchy character
+in a parking garage.
+
+157
+00:07:57,680 --> 00:08:00,274
+Yeah, Well, from my perspective,
+that's how you two appear to me.
+
+158
+00:08:01,439 --> 00:08:02,872
+Well, I never thought of it like that.
+
+159
+00:08:03,839 --> 00:08:06,069
+Boy, frame of reference
+will just sneak up on you, won't it?
+
+160
+00:08:07,519 --> 00:08:09,714
+My friend does make a decent point
+about the money.
+
+161
+00:08:09,920 --> 00:08:12,070
+I don't feel comfortable
+just handing it over up front.
+
+162
+00:08:12,279 --> 00:08:14,395
+Uh-uh-uh, no money, no helium.
+
+163
+00:08:15,040 --> 00:08:17,156
+Seems we're at a, uh, stalemate.
+
+164
+00:08:17,599 --> 00:08:18,827
+Not technically.
+
+165
+00:08:19,320 --> 00:08:21,470
+ln chess,
+a stalemate refers to a situation
+
+166
+00:08:21,679 --> 00:08:23,032
+in which there are no remaining moves.
+
+167
+00:08:23,319 --> 00:08:24,877
+You have plenty of moves available.
+
+168
+00:08:25,119 --> 00:08:26,996
+You could beat us up
+and steal the money...
+
+169
+00:08:28,440 --> 00:08:29,429
+You could kill us...
+
+170
+00:08:31,040 --> 00:08:33,508
+Really, you're only limited
+by your imagination.
+
+171
+00:08:35,879 --> 00:08:36,755
+Huh.
+
+172
+00:08:36,960 --> 00:08:37,870
+All these years,
+
+173
+00:08:38,080 --> 00:08:40,310
+I've been using "stalemate"
+when I really mean "impasse."
+
+174
+00:08:41,120 --> 00:08:42,235
+| feel foolish.
+
+175
+00:08:45,439 --> 00:08:46,838
+Eh, I don't think it matters
+
+176
+00:08:47,040 --> 00:08:49,474
+if this is a stalemate or an impasse
+or a Mexican standoff.
+
+177
+00:08:49,680 --> 00:08:50,954
+What are we gonna do here?
+
+178
+00:08:51,160 --> 00:08:52,798
+Whoa, whoa, whoa.
+How could it be a Mexican standoff?
+
+179
+00:08:52,999 --> 00:08:54,910
+Everybody knows
+you need three sides for that.
+
+180
+00:08:55,279 --> 00:08:56,348
+Not necessarily.
+
+181
+00:08:56,759 --> 00:08:59,990
+Uh, many argue,
+the essence of a Mexican standoff is that
+
+182
+00:09:00,199 --> 00:09:03,032
+no one can walk away from the conflict
+without incurring harm.
+
+183
+00:09:03,519 --> 00:09:04,952
+Hmm. I don't follow.
+
+184
+00:09:06,479 --> 00:09:07,434
+Let me give you an example.
+
+185
+00:09:08,400 --> 00:09:11,597
+Earlier today,
+| decoded the headers on your email,
+
+186
+00:09:11,800 --> 00:09:13,711
+and I know that your name
+is Kenneth Fitzgerald.
+
+187
+00:09:13,920 --> 00:09:16,388
+Now, from that, I figured out
+where you live and where you work.
+
+188
+00:09:16,599 --> 00:09:19,989
+Now, to make this a Mexican standoff,
+I would say something like,
+
+189
+00:09:20,320 --> 00:09:23,392
+"You give us the helium,
+or I'll turn you in to the authorities."
+
+190
+00:09:24,160 --> 00:09:26,720
+-Is that a threat?
+-Yeah, exactly. See, you're getting it.
+
+191
+00:09:28,520 --> 00:09:30,988
+Yeah, well, I know where you work,
+all right? And if you mess with me,
+
+192
+00:09:31,199 --> 00:09:33,713
+l'll report you, then,
+I'll pound your asses into the ground.
+
+193
+00:09:33,920 --> 00:09:36,195
+Perfect! Now, we really are
+in a Mexican standoff.
+
+194
+00:09:39,319 --> 00:09:42,197
+Is this one of those times where
+I've won the battle but lost the war?
+
+195
+00:09:43,960 --> 00:09:45,279
+Afraid so, Skippy.
+
+196
+00:09:46,920 --> 00:09:48,592
+I told you,
+we shouldn't go shopping at night.
+
+197
+00:09:54,480 --> 00:09:57,631
+All right, let's all just calm down.
+Nobody wants to report anybody.
+
+198
+00:09:57,839 --> 00:09:58,954
+Nah, I don't like this. I'm out.
+
+199
+00:09:59,199 --> 00:10:01,190
+No, no, no. Wait, don't go.
+Just let me explain.
+
+200
+00:10:02,160 --> 00:10:04,469
+We're physicists,
+and we're trying to prove a hypothesis
+
+201
+00:10:04,759 --> 00:10:06,431
+that we've been working on,
+for over a year.
+
+202
+00:10:06,759 --> 00:10:08,636
+Really? What's the hypothesis?
+
+203
+00:10:10,079 --> 00:10:13,754
+Space-time can be interpreted as the
+surface of an N-dimensional superfluid.
+
+204
+00:10:14,079 --> 00:10:16,115
+Hmm. Could be. Could be, go on.
+
+205
+00:10:18,999 --> 00:10:20,910
+Okay, okay.
+But now, there's this Swedish team,
+
+206
+00:10:21,120 --> 00:10:23,714
+that read our paper and they're trying to
+beat us to our own discovery.
+
+207
+00:10:24,439 --> 00:10:25,588
+We really need this helium.
+
+208
+00:10:26,040 --> 00:10:28,998
+And I'm sorry! lied about being
+a wedding planner who can't find love.
+
+209
+00:10:29,639 --> 00:10:31,595
+Although lam currently single,
+if you know anybody.
+
+210
+00:10:33,600 --> 00:10:35,192
+Here's the money. Can we do this?
+
+211
+00:10:36,479 --> 00:10:37,434
+Okay.
+
+212
+00:10:38,639 --> 00:10:40,834
+It's a shame about those scientists
+ripping you off.
+
+213
+00:10:41,279 --> 00:10:44,237
+I expected a higher ethical standard
+from our friends in Sweden.
+
+214
+00:10:46,879 --> 00:10:49,552
+It's actually pretty common in our field.
+Not much you can do about it.
+
+215
+00:10:50,360 --> 00:10:52,430
+Well, for the right amount of money,
+if you know where they live,
+
+216
+00:10:52,639 --> 00:10:54,072
+there's, uh, plenty we could do about it.
+
+217
+00:10:54,720 --> 00:10:57,314
+Do you hear that, Leonard?
+There's plenty we could do about it.
+
+218
+00:10:59,040 --> 00:11:00,314
+Do you have a card?
+
+219
+00:11:03,079 --> 00:11:06,389
+Okay, here we go, now everyone can see.
+
+220
+00:11:06,639 --> 00:11:09,028
+All right. (CLEARS THROAT)
+Where do we stand on cross-eyed Mike?
+
+221
+00:11:12,240 --> 00:11:14,151
+You know
+he won't be looking at other girls.
+
+222
+00:11:14,480 --> 00:11:15,435
+(ALL CHUCKLING)
+
+223
+00:11:17,879 --> 00:11:19,392
+Unless they are sitting on
+the end of his nose.
+
+224
+00:11:19,599 --> 00:11:20,998
+(ALL LAUGHING)
+
+225
+00:11:21,600 --> 00:11:24,034
+Okay, okay, okay, thumbs down. Next.
+
+226
+00:11:25,199 --> 00:11:28,350
+Ooh! Check out his tiny teeth,
+he looks like a man-dolphin.
+
+227
+00:11:29,759 --> 00:11:31,989
+Well, if he's good in bed,
+she can throw him a fish.
+
+228
+00:11:32,240 --> 00:11:33,434
+(LAUGHING CONTINUES)
+
+229
+00:11:34,240 --> 00:11:36,913
+(HIGH-PITCHED VOICE)
+I love you, Amy. (IMITATES DOLPHIN)
+
+230
+00:11:41,560 --> 00:11:44,711
+Okay, I'm starting to feel guilty.
+Aren't we being a little mean?
+
+231
+00:11:46,680 --> 00:11:47,829
+That's a fair point.
+
+232
+00:11:48,480 --> 00:11:50,550
+We wouldn't make fun of someone like this
+to their face.
+
+233
+00:11:52,240 --> 00:11:53,309
+Look, it's Stuart.
+
+234
+00:11:57,120 --> 00:11:58,599
+You may wanna leave the room.
+
+235
+00:12:03,520 --> 00:12:05,636
+SHELDON: Right this way, Uncle Harvey.
+
+236
+00:12:11,039 --> 00:12:14,270
+-Will you stop with that already?
+-I am trying not to attract attention.
+
+237
+00:12:15,800 --> 00:12:18,234
+And tipping his hat to the cleaning lady
+didn't do that?
+
+238
+00:12:18,799 --> 00:12:21,074
+She said buenas noches.
+What was he supposed to do?
+
+239
+00:12:22,319 --> 00:12:23,718
+Let's just start the experiment.
+
+240
+00:12:23,960 --> 00:12:26,520
+Leonard, we should probably have our
+stories straight in case we get caught.
+
+241
+00:12:26,720 --> 00:12:27,709
+We're not getting caught.
+
+242
+00:12:27,920 --> 00:12:29,399
+Well, you can't be sure of that.
+
+243
+00:12:29,600 --> 00:12:31,591
+What if the helium dealer rats us out?
+
+244
+00:12:31,839 --> 00:12:33,557
+What if Kripke asks where we got it?
+
+245
+00:12:33,759 --> 00:12:35,909
+What if the university checks
+my family tree and finds out,
+
+246
+00:12:36,120 --> 00:12:37,599
+I don't have an Uncle Harvey?
+
+247
+00:12:38,879 --> 00:12:41,632
+The dealer doesn't care,
+Kripke has no authority over us,
+
+248
+00:12:41,880 --> 00:12:44,792
+and you being related to
+a metal container, would explain a lot.
+
+249
+00:12:46,280 --> 00:12:47,395
+Help me hook this up.
+
+250
+00:12:49,240 --> 00:12:50,309
+-U h-oh.
+-What?
+
+251
+00:12:50,520 --> 00:12:52,238
+-Well, did you see this sticker?
+-What is it?
+
+252
+00:12:52,439 --> 00:12:53,667
+lt's partially torn off,
+
+253
+00:12:53,879 --> 00:12:57,076
+but the segment that remains reads,
+"Property of" and the letter "U".
+
+254
+00:12:57,279 --> 00:12:59,235
+It's probably USC or UCLA.
+
+255
+00:12:59,759 --> 00:13:01,590
+Yeah, but what if it's
+"Property of US. Government"?
+
+256
+00:13:01,839 --> 00:13:04,273
+There's a national helium reserve in
+Amarillo, Texas.
+
+257
+00:13:04,479 --> 00:13:07,551
+If this was stolen from there,
+we're accessories to a federal crime.
+
+258
+00:13:08,120 --> 00:13:10,634
+Let's not jump to conclusions.
+A lot of things start with U.
+
+259
+00:13:11,040 --> 00:13:15,875
+That's true. There's the US. Air Force,
+US. Department of Defense, US. Navy.
+
+260
+00:13:16,080 --> 00:13:17,479
+U and l are going tojail.
+
+261
+00:13:18,479 --> 00:13:20,629
+Listen, we can do the experiment
+as planned
+
+262
+00:13:20,840 --> 00:13:22,273
+and beat the Swedish team to the punch,
+
+263
+00:13:22,480 --> 00:13:26,075
+or we can kiss our dreams goodbye because
+we were too afraid to break a few rules.
+
+264
+00:13:30,519 --> 00:13:31,508
+Ma'am.
+
+265
+00:13:34,919 --> 00:13:36,398
+Okay. Does everyone remember the rules?
+
+266
+00:13:36,680 --> 00:13:40,275
+If he's shirtless, one sip.
+Posing with a pet, two sips.
+
+267
+00:13:41,079 --> 00:13:43,434
+Pet and shirtless,
+chug like it's yourjob.
+
+268
+00:13:45,079 --> 00:13:46,353
+And pull.
+
+269
+00:13:50,720 --> 00:13:52,551
+l have that same undenNear.
+
+270
+00:13:54,519 --> 00:13:55,508
+Chug.
+
+271
+00:13:56,279 --> 00:13:57,234
+(CELL PHONE CHIMES)
+
+272
+00:13:57,520 --> 00:13:59,112
+Mm. Amy, you're getting a text.
+
+273
+00:13:59,319 --> 00:14:00,513
+Oh, um, give me that.
+
+274
+00:14:00,879 --> 00:14:02,471
+(RAJ READING)
+
+275
+00:14:02,679 --> 00:14:03,907
+No, no, no. Stop reading that.
+
+276
+00:14:04,120 --> 00:14:05,189
+-Who's Dave?
+_|__
+
+277
+00:14:05,399 --> 00:14:06,957
+You went on a date last night?
+Are you seeing someone?
+
+278
+00:14:07,159 --> 00:14:08,512
+No, it-it's not like that.
+
+279
+00:14:08,719 --> 00:14:09,674
+(CELL PHONE CHIMES)
+
+280
+00:14:09,920 --> 00:14:11,831
+-"And I'd love to take you out again"?
+-(AMY SIGHS)
+
+281
+00:14:12,199 --> 00:14:14,190
+-Amy, that's crazy.
+-Oh, my God.
+
+282
+00:14:14,560 --> 00:14:16,118
+Okay, it's like that.
+
+283
+00:14:19,080 --> 00:14:20,559
+Thank you for coming back.
+
+284
+00:14:20,999 --> 00:14:22,148
+Yeah, well, normally, lwouldn't.
+
+285
+00:14:22,360 --> 00:14:23,952
+But my daughter's having a sleepover,
+
+286
+00:14:24,160 --> 00:14:26,515
+and there's only so much screaming
+and Katy Perry a man can take.
+
+287
+00:14:29,040 --> 00:14:30,758
+Anyway, if you could
+just give us our money back,
+
+288
+00:14:30,959 --> 00:14:32,915
+you can have your helium
+and we'll be on our way.
+
+289
+00:14:33,120 --> 00:14:34,678
+Yeah, well,
+is there something wrong with it?
+
+290
+00:14:34,879 --> 00:14:36,835
+No, nothing. We just changed our mind.
+
+291
+00:14:37,360 --> 00:14:40,397
+He has glasses and I'm a know-it-all,
+we are not built for prison.
+
+292
+00:14:41,560 --> 00:14:44,472
+Yeah, I hear you.
+Well, you're good guys, so I'll, uh...
+
+293
+00:14:44,759 --> 00:14:46,989
+-l'll take the helium off your hands.
+-Thank you.
+
+294
+00:14:48,040 --> 00:14:50,031
+But you ain't getting your money back.
+
+295
+00:14:50,439 --> 00:14:54,352
+You're taking advantage of us?
+We clarified nomenclature together.
+
+296
+00:14:56,439 --> 00:14:58,794
+Look, I enjoy semantic digressions
+as much as the next guy,
+
+297
+00:14:58,999 --> 00:15:00,591
+but, uh, this is business.
+
+298
+00:15:03,240 --> 00:15:06,357
+You know what? It's fine, keep the money.
+We just wanna be done with this.
+
+299
+00:15:06,560 --> 00:15:10,030
+No problem, but I am gonna have to
+charge you a small helium restocking fee.
+
+300
+00:15:11,879 --> 00:15:13,756
+-Well, I don't understand.
+-He wants more money.
+
+301
+00:15:15,120 --> 00:15:17,873
+Well it better not be more than $1,000,
+that's all I've got on me.
+
+302
+00:15:20,639 --> 00:15:22,118
+That's exactly how much it is.
+
+303
+00:15:23,759 --> 00:15:25,511
+Finally, something breaks our way.
+
+304
+00:15:30,159 --> 00:15:32,514
+I can't believe you're seeing someone
+and we don't even know about it.
+
+305
+00:15:32,839 --> 00:15:34,192
+Yeah, why wouldn't you tell us?
+
+306
+00:15:34,520 --> 00:15:37,637
+Because it's new and weird
+and I'm just trying to figure it all out.
+
+307
+00:15:38,360 --> 00:15:40,749
+And I knew if I told you guys
+I had been out with a few people,
+
+308
+00:15:41,040 --> 00:15:43,156
+-that you'd get way too excited about it--
+-A few?
+
+309
+00:15:43,360 --> 00:15:44,588
+-What?
+-Amy.
+
+310
+00:15:46,080 --> 00:15:48,753
+So, are we allowed to ask how it's going?
+
+311
+00:15:49,079 --> 00:15:51,991
+It's going fine. It's mostlyjust been
+meeting people for coffee.
+
+312
+00:15:52,240 --> 00:15:53,389
+Wha?
+
+313
+00:15:55,479 --> 00:15:57,151
+I thought we were all... Never mind.
+
+314
+00:15:59,399 --> 00:16:01,867
+l-l thought you weren't ready
+to start seeing people?
+
+315
+00:16:02,120 --> 00:16:03,951
+Well, I don't have much experience dating,
+
+316
+00:16:04,160 --> 00:16:06,993
+so I decided it would be good for me to,
+you know, get out there a little.
+
+317
+00:16:07,800 --> 00:16:08,789
+Well, good for you.
+
+318
+00:16:09,319 --> 00:16:10,593
+Thank you.
+
+319
+00:16:10,960 --> 00:16:12,439
+And how many guys have you gone outwith?
+
+320
+00:16:12,800 --> 00:16:14,233
+-Please be less than two.
+-Three.
+
+321
+00:16:14,480 --> 00:16:15,469
+Damn it.
+
+322
+00:16:18,639 --> 00:16:20,755
+Well, the Swedes might beat us,
+
+323
+00:16:21,360 --> 00:16:24,079
+but at least we won't get
+gang-noogied in prison.
+
+324
+00:16:26,759 --> 00:16:29,273
+ls Ernest Goes to Jail
+the only prison movie you've seen?
+
+325
+00:16:30,840 --> 00:16:32,398
+lt scared me straight, Leonard.
+
+326
+00:16:33,439 --> 00:16:34,394
+(KNOCK ON THE DOOR)
+
+327
+00:16:34,879 --> 00:16:39,475
+Hey, I've been thinking,
+I was being petty. You can have my helium.
+
+328
+00:16:41,039 --> 00:16:42,438
+Thank you, Barry.
+
+329
+00:16:42,640 --> 00:16:45,200
+But you have to add my name to your paper.
+
+330
+00:16:46,360 --> 00:16:47,509
+That's preposterous.
+
+331
+00:16:48,040 --> 00:16:49,951
+I don't know, seems fair,
+you can't do it without me.
+
+332
+00:16:51,480 --> 00:16:53,311
+-Can you give us a minute?
+-Take your time.
+
+333
+00:16:53,519 --> 00:16:55,908
+l'll walk out backwards
+for a dramatic effect.
+
+334
+00:17:03,440 --> 00:17:06,796
+I don't like being extorted like this.
+Especially by him of all people.
+
+335
+00:17:07,000 --> 00:17:09,116
+Me neither,
+but what other choice do we have?
+
+336
+00:17:10,400 --> 00:17:12,072
+I promise this is the last time.
+
+337
+00:17:19,919 --> 00:17:21,432
+It says right here on Wikipedia.
+
+338
+00:17:21,639 --> 00:17:24,870
+"A Mexican standoff is a confrontation
+between at least three parties."
+
+339
+00:17:25,520 --> 00:17:27,238
+(SCOFFS) How can you trust Wikipedia
+
+340
+00:17:28,320 --> 00:17:29,958
+if they use "between"
+to refer to three parties?
+
+341
+00:17:31,919 --> 00:17:33,671
+They should've used "among," right?
+
+342
+00:17:36,400 --> 00:17:39,551
+Or "amongst,"
+if they were feeling whimsically archaic.
+
+343
+00:17:40,679 --> 00:17:43,477
+Enough with the chitchat. Are we gonna
+watch Ernest Goes To Jail or not?
+
+344
+00:17:44,760 --> 00:17:45,749
+Absolutely.
+
+345
+00:17:45,960 --> 00:17:48,838
+But don't be surprised if this movie
+sets you on the straight and narrow.
+
+346
+00:17:50,200 --> 00:17:51,553
+lam open to change.
+
+347
+00:18:19,959 --> 00:18:20,948
+English - SDH
+

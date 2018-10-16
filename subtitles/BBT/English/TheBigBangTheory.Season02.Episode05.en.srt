@@ -1,0 +1,1455 @@
+1
+00:00:06,279 --> 00:00:07,428
+[GROANS]
+
+2
+00:00:08,560 --> 00:00:10,118
+[SIGHS]
+
+3
+00:00:10,680 --> 00:00:11,795
+-Good morning. Leonard.
+-Aah!
+
+4
+00:00:12,640 --> 00:00:14,039
+Uh-huh.
+
+5
+00:00:14,199 --> 00:00:15,871
+We have to stop by Pottery Earn
+an the way to work.
+
+6
+00:00:16,039 --> 00:00:18,633
+I bought these Star Wars sheets.
+
+7
+00:00:18,800 --> 00:00:20,597
+They turned out to be
+much too stimulating...
+
+8
+00:00:20,759 --> 00:00:23,227
+...to be compatible
+with a good night's sleep.
+
+9
+00:00:24,919 --> 00:00:27,479
+Idon't like the way
+Darth Vader stares at me.
+
+10
+00:00:28,839 --> 00:00:30,067
+I'm not going to work.
+
+11
+00:00:30,239 --> 00:00:32,673
+Just because your career's
+been stagnant for a few years...
+
+12
+00:00:32,839 --> 00:00:34,511
+...that's no reason to give up.
+
+13
+00:00:34,920 --> 00:00:38,151
+Sheldon. I was up all night
+using the new free-electron laser...
+
+14
+00:00:38,320 --> 00:00:40,311
+...for my x-ray-diffraction experiment.
+
+15
+00:00:40,479 --> 00:00:43,198
+Did the laser accidentally
+burn out your retinas?
+
+16
+00:00:43,600 --> 00:00:45,955
+-No.
+-Then you can drive. Let's go.
+
+17
+00:00:46,120 --> 00:00:47,473
+[LEONARD SIGHS]
+
+18
+00:00:48,319 --> 00:00:52,278
+Didn't I tell you I'd be working nights and
+you'd have to make other arrangements?
+
+19
+00:00:52,440 --> 00:00:53,634
+-You did.
+-And?
+
+20
+00:00:53,799 --> 00:00:55,517
+I didn't.
+
+21
+00:00:56,400 --> 00:00:57,628
+Let's go.
+
+22
+00:00:58,639 --> 00:00:59,628
+Good night. Sheldon.
+
+23
+00:00:59,799 --> 00:01:02,438
+-But how am I going to get to work?
+-Take the bus.
+
+24
+00:01:02,600 --> 00:01:04,909
+But I can't take the bus.
+They don't have seat belts.
+
+25
+00:01:05,079 --> 00:01:08,276
+And they won't let you lash yourself
+to the seat with bungee cords.
+
+26
+00:01:08,680 --> 00:01:11,399
+You tried to lash yourself
+to the seat with bungee cords?
+
+27
+00:01:11,560 --> 00:01:14,074
+I didn't try. I succeeded.
+
+28
+00:01:14,759 --> 00:01:18,672
+But for some reason. it alarmed the other
+passengers and l was asked to de-bus.
+
+29
+00:01:18,840 --> 00:01:21,400
+Oh. you're a big boy. You'll figure it out.
+
+30
+00:01:21,560 --> 00:01:23,312
+Don't talk to me like I'm a child.
+
+31
+00:01:23,479 --> 00:01:26,596
+Now take me
+to return my Star Wars sheets.
+
+32
+00:01:28,439 --> 00:01:29,508
+Penny?
+
+33
+00:01:29,680 --> 00:01:31,398
+Penny? Penny?
+
+34
+00:01:32,239 --> 00:01:34,673
+Sheldon. what is it?
+
+35
+00:01:34,839 --> 00:01:36,830
+Leonard's asleep.
+
+36
+00:01:38,719 --> 00:01:39,993
+Thanks for the update.
+
+37
+00:01:40,160 --> 00:01:41,957
+No. wait.
+
+38
+00:01:42,200 --> 00:01:43,713
+You have to drive me to work.
+
+39
+00:01:44,199 --> 00:01:46,759
+Yeah. I really don't think I do.
+
+40
+00:01:47,279 --> 00:01:49,634
+But I don't drive
+and I can't take the bus.
+
+41
+00:01:49,799 --> 00:01:52,359
+You'll be fine as long as
+you don't do that bungee thing.
+
+42
+00:01:52,519 --> 00:01:53,793
+Penny.
+
+43
+00:01:54,920 --> 00:01:57,718
+Didn't you recently state
+that you and l are friends?
+
+44
+00:01:58,919 --> 00:02:01,638
+Yes. Sheldon. we are friends.
+
+45
+00:02:01,799 --> 00:02:04,359
+Then I hereby invoke
+what I'm given to understand...
+
+46
+00:02:04,519 --> 00:02:07,750
+...is an integral part
+of the implied covenant of friendship.
+
+47
+00:02:11,439 --> 00:02:13,191
+The favor.
+
+48
+00:02:14,279 --> 00:02:15,792
+Oh. dear God.
+
+49
+00:02:16,559 --> 00:02:20,029
+I'm sorry. I didn't realize
+I was interrupting your morning prayers.
+
+50
+00:02:21,320 --> 00:02:23,356
+When you're done. we'll go.
+
+51
+00:02:49,079 --> 00:02:51,115
+Thank you for driving me to work.
+
+52
+00:02:51,280 --> 00:02:52,998
+You know this is my day off. Sheldon.
+
+53
+00:02:53,160 --> 00:02:55,469
+Oh. good.
+I'm not keeping you from anything.
+
+54
+00:02:58,840 --> 00:03:01,400
+-Your check-engine light is on.
+-Mm-hm.
+
+55
+00:03:02,519 --> 00:03:05,989
+Typically that's an indicator to.
+you know. check your engine.
+
+56
+00:03:06,160 --> 00:03:08,833
+It's fine. It's been on for. like. a month.
+
+57
+00:03:09,719 --> 00:03:13,792
+Well. actually. that would be all the more
+reason to. you know. check your engine.
+
+58
+00:03:14,599 --> 00:03:17,875
+-Sheldon. it's fine.
+-If it were fine. the light wouldn't be on.
+
+59
+00:03:18,040 --> 00:03:21,794
+That's why the manufacturer installed
+that light. to let you know it's not fine.
+
+60
+00:03:21,960 --> 00:03:23,598
+Maybe the light's broken.
+
+61
+00:03:24,799 --> 00:03:27,632
+Is there
+a check-the-check-engine-light light?
+
+62
+00:03:29,120 --> 00:03:30,189
+Oh.
+
+63
+00:03:30,639 --> 00:03:31,867
+What?
+
+64
+00:03:32,040 --> 00:03:35,476
+Studies have shown that performing tasks
+such as eating. talking on a phone...
+
+65
+00:03:35,639 --> 00:03:38,472
+...or drinking coffee while driving
+reduces one's reaction time...
+
+66
+00:03:38,639 --> 00:03:40,595
+...by the same factor
+as an ounce of alcohol.
+
+67
+00:03:40,759 --> 00:03:43,227
+-Do you have any alcohol?
+-Of course not.
+
+68
+00:03:43,400 --> 00:03:45,231
+Too bad.
+
+69
+00:03:47,639 --> 00:03:50,711
+-You're going up Euclid Avenue?
+-Mm-hm.
+
+70
+00:03:50,879 --> 00:03:52,471
+Leonard takes Los Robles Avenue.
+
+71
+00:03:52,639 --> 00:03:54,197
+Well. good for Leonard.
+
+72
+00:03:54,360 --> 00:03:57,716
+Euclid Avenue is shorter as the crow flies.
+but it has speed bumps...
+
+73
+00:03:57,880 --> 00:04:01,793
+...which increase point-to-point drive time.
+making it the less efficient choice.
+
+74
+00:04:03,760 --> 00:04:05,159
+But you have the con.
+
+75
+00:04:05,320 --> 00:04:06,435
+[SPEED BUMP THUMPS]
+
+76
+00:04:06,600 --> 00:04:07,953
+Oh!
+
+77
+00:04:09,040 --> 00:04:13,238
+If you're not going to slow down for the
+speed bumps. I withdraw my objection.
+
+78
+00:04:14,999 --> 00:04:16,478
+Here's a fun question.
+
+79
+00:04:16,640 --> 00:04:19,074
+Do you know
+what the most common street name is?
+
+80
+00:04:19,240 --> 00:04:21,674
+-No.
+-The answer's tricky.
+
+81
+00:04:22,680 --> 00:04:23,795
+lt's Second Street.
+
+82
+00:04:23,959 --> 00:04:25,631
+You'd think it would be First Street.
+
+83
+00:04:25,800 --> 00:04:28,997
+In most towns. First Street eventually
+gets renamed to something else.
+
+84
+00:04:29,160 --> 00:04:30,639
+Like Main Street...
+
+85
+00:04:30,799 --> 00:04:32,073
+...Broad Street...
+
+86
+00:04:32,240 --> 00:04:34,231
+...Michigan Avenue.
+
+87
+00:04:34,400 --> 00:04:36,072
+Leonard and I
+often use our commute time...
+
+88
+00:04:36,239 --> 00:04:38,753
+...to exercise our minds
+with brain teasers like that.
+
+89
+00:04:39,160 --> 00:04:41,390
+We also play games.
+
+90
+00:04:42,599 --> 00:04:43,793
+Would you like to play one?
+
+91
+00:04:44,240 --> 00:04:46,276
+-No.
+-Oh. come on. it's fun.
+
+92
+00:04:46,440 --> 00:04:47,429
+[SPEED BUMP THUMPS]
+
+93
+00:04:47,599 --> 00:04:49,157
+Whoo! Another bump.
+
+94
+00:04:50,560 --> 00:04:53,916
+Okay. Uh. I'll say an element
+and. uh. you say an element...
+
+95
+00:04:54,079 --> 00:04:57,435
+...whose name starts with the last letter
+of the one I said. okay?
+
+96
+00:04:58,560 --> 00:04:59,549
+I'll start.
+
+97
+00:05:01,080 --> 00:05:02,718
+Helium.
+
+98
+00:05:05,919 --> 00:05:07,955
+Now. you could say. "Mercury.“
+
+99
+00:05:08,120 --> 00:05:09,633
+That would give me a Y.
+
+100
+00:05:09,799 --> 00:05:12,267
+Ooh. very clever. That's a tough one.
+
+101
+00:05:12,840 --> 00:05:14,034
+So I go with ytterbium...
+
+102
+00:05:14,199 --> 00:05:15,712
+...which gets you back to M.
+
+103
+00:05:15,880 --> 00:05:17,438
+So you go. "Molybdenum.“
+
+104
+00:05:17,599 --> 00:05:19,476
+And I say magnesium.
+
+105
+00:05:19,640 --> 00:05:20,914
+And you say. "Manganese.“
+
+106
+00:05:21,079 --> 00:05:22,797
+And I say europium.
+
+107
+00:05:22,960 --> 00:05:24,518
+And you're left with “Mendelevium.“
+
+108
+00:05:24,679 --> 00:05:27,477
+And there are no more M's.
+because I believe that meitnerium...
+
+109
+00:05:27,639 --> 00:05:31,427
+...should still be called eka-iridium.
+So congratulations. you win.
+
+110
+00:05:35,959 --> 00:05:37,756
+Do you wanna go again?
+
+111
+00:05:38,440 --> 00:05:40,670
+How about we just have
+a little quiet time now?
+
+112
+00:05:41,240 --> 00:05:42,229
+All right.
+
+113
+00:05:42,399 --> 00:05:43,514
+[SPEED BUMP THUMPS]
+
+114
+00:05:43,680 --> 00:05:45,193
+[SHELDON WHIMPERS]
+
+115
+00:05:47,560 --> 00:05:49,835
+I'm sorry.
+I'm finding your reckless nonchalance...
+
+116
+00:05:50,000 --> 00:05:52,560
+...regarding the check-engine light
+to be very troubling.
+
+117
+00:05:56,520 --> 00:05:57,999
+Get out.
+
+118
+00:05:59,240 --> 00:06:02,357
+l have to tell you that while I do have
+a theoretical understanding...
+
+119
+00:06:02,520 --> 00:06:04,192
+...of an internal-combustion engine...
+
+120
+00:06:04,360 --> 00:06:06,920
+...l'm not sure
+I'm capable of performing diagnostics.
+
+121
+00:06:07,080 --> 00:06:08,832
+I said. “Get out.“
+
+122
+00:06:09,000 --> 00:06:10,672
+Okay. I'll give it a shot.
+
+123
+00:06:24,760 --> 00:06:26,671
+Oh. Leonard. there you are.
+
+124
+00:06:26,840 --> 00:06:28,114
+I'm ready to go home.
+
+125
+00:06:29,919 --> 00:06:31,034
+| just got here.
+
+126
+00:06:31,200 --> 00:06:33,031
+Good. Perfect timing.
+
+127
+00:06:33,480 --> 00:06:36,790
+Sheldon. I told you | only have access
+to the free-electron laser at night.
+
+128
+00:06:36,959 --> 00:06:38,790
+I can't drive you
+for the next few weeks.
+
+129
+00:06:38,959 --> 00:06:42,349
+No. You said you couldn't drive me
+to work. This is from work.
+
+130
+00:06:43,359 --> 00:06:44,587
+Howard. help me out here.
+
+131
+00:06:45,079 --> 00:06:48,469
+No. just for the fun of it.
+I'm gonna take his side.
+
+132
+00:06:49,599 --> 00:06:51,430
+Now. how do you propose
+| get home?
+
+133
+00:06:52,079 --> 00:06:54,798
+-How did you get here in the first place?
+-Penny.
+
+134
+00:06:54,959 --> 00:06:57,553
+But I sense that's not longer an option.
+
+135
+00:06:58,679 --> 00:07:00,078
+Look. I need to get to the laser lab.
+
+136
+00:07:00,239 --> 00:07:03,754
+You're just gonna have to find
+someone else to take you home.
+
+137
+00:07:09,480 --> 00:07:12,278
+Oh. damn. I picked the wrong side.
+
+138
+00:07:13,719 --> 00:07:15,789
+[SCREAMING]
+
+139
+00:07:17,480 --> 00:07:19,948
+Oh. God. not Euclid Avenue.
+
+140
+00:07:20,799 --> 00:07:23,233
+[SCREAMING]
+
+141
+00:07:26,840 --> 00:07:29,832
+Why did Howard leave you
+in the middle of the road. anyway?
+
+142
+00:07:31,159 --> 00:07:32,638
+We had a difference of opinion.
+
+143
+00:07:32,799 --> 00:07:34,198
+Over what?
+
+144
+00:07:34,359 --> 00:07:36,793
+Whether or not he was trying to kill me.
+
+145
+00:07:36,959 --> 00:07:39,075
+For the record. I maintain he was.
+
+146
+00:07:41,040 --> 00:07:42,917
+-Where are you going?
+-|'m taking you home.
+
+147
+00:07:43,079 --> 00:07:45,070
+But I'm not going home. It's Wednesday.
+
+148
+00:07:45,239 --> 00:07:48,948
+Wednesday is New Comic Book Day.
+We have to go to the comic-book store.
+
+149
+00:07:49,119 --> 00:07:50,757
+And then we have to stop
+at Souplantation.
+
+150
+00:07:50,919 --> 00:07:52,796
+lt's Creamy Tomato Soup Day.
+
+151
+00:07:52,959 --> 00:07:56,156
+And RadioShack.
+There's a sale on triple-A batteries.
+
+152
+00:07:56,320 --> 00:07:59,073
+We have to go to Pottery Barn
+and return my Star Wars sheets.
+
+153
+00:07:59,880 --> 00:08:01,108
+l have a better idea.
+
+154
+00:08:02,160 --> 00:08:04,549
+You wanna go to Pottery Barn first?
+
+155
+00:08:15,320 --> 00:08:17,754
+Can you drive me to Pottery Barn?
+
+156
+00:08:23,280 --> 00:08:26,670
+Maybe if I turn off the nightlight.
+I can keep the sheets.
+
+157
+00:08:38,040 --> 00:08:39,678
+Good morning.
+
+158
+00:08:40,839 --> 00:08:42,750
+ALL:
+Good morning.
+
+159
+00:08:42,960 --> 00:08:44,439
+Sheldon. sit down.
+
+160
+00:08:45,079 --> 00:08:46,034
+She's in my spot.
+
+161
+00:08:49,040 --> 00:08:51,918
+Don't look at me like that.
+Everybody knows that's my spot.
+
+162
+00:08:56,959 --> 00:08:58,278
+Sheldon...
+
+163
+00:08:58,439 --> 00:09:00,714
+...you know that we care about you.
+
+164
+00:09:00,880 --> 00:09:04,509
+And it's because we care about you
+that we've decided we have to speak up.
+
+165
+00:09:09,240 --> 00:09:11,276
+You're hurting the people
+around you. sweetie.
+
+166
+00:09:11,439 --> 00:09:14,909
+So we've made you an appointment.
+and we want you to keep it.
+
+167
+00:09:16,519 --> 00:09:19,750
+“Department of Motor Vehicles
+New Driver Handbook“?
+
+168
+00:09:23,319 --> 00:09:25,435
+But I don't have a problem.
+
+169
+00:09:26,520 --> 00:09:28,909
+Sheldon. you need to learn how to drive.
+
+170
+00:09:29,080 --> 00:09:31,310
+This madness has to stop.
+
+171
+00:09:32,839 --> 00:09:35,034
+Penny's taking you to the DMV.
+I'm going to bed.
+
+172
+00:09:35,199 --> 00:09:37,838
+-Why Penny?
+-Because rock breaks scissors.
+
+173
+00:09:37,999 --> 00:09:39,478
+Good night.
+
+174
+00:09:39,999 --> 00:09:42,559
+-All right. Come on. Sheldon.
+-Hold on.
+
+175
+00:09:42,720 --> 00:09:43,914
+l've one condition.
+
+176
+00:09:44,080 --> 00:09:46,799
+-What?
+-We have to stop at Pottery Barn.
+
+177
+00:09:47,520 --> 00:09:48,748
+Okay.
+
+178
+00:09:48,920 --> 00:09:50,638
+And RadioShack.
+
+179
+00:09:51,159 --> 00:09:52,194
+Fine.
+
+180
+00:09:53,199 --> 00:09:55,667
+-And the comic-book store.
+PENNY: All right.
+
+181
+00:09:56,120 --> 00:09:58,031
+I wanna go to the comic-book store.
+
+182
+00:10:16,879 --> 00:10:18,949
+I like comic books.
+
+183
+00:10:24,080 --> 00:10:26,753
+I still don't see
+why I need a driver's license.
+
+184
+00:10:26,920 --> 00:10:29,878
+Albert Einstein
+never had a driver's license.
+
+185
+00:10:30,439 --> 00:10:34,876
+Yeah. but Albert Einstein didn't make me
+wet myself at 40 miles an hour.
+
+186
+00:10:35,400 --> 00:10:38,233
+Yeah. and I never wanted
+to kick Albert Einstein in the nuts.
+
+187
+00:10:42,040 --> 00:10:45,749
+You know. I gotta ask: Why didn't you
+just get a license at 16 like everyone else?
+
+188
+00:10:45,919 --> 00:10:48,479
+l was otherwise engaged.
+
+189
+00:10:49,199 --> 00:10:50,473
+Doing what?
+
+190
+00:10:50,639 --> 00:10:53,790
+Examining perturbative amplitudes
+in N =4 supersymmetric theories...
+
+191
+00:10:53,959 --> 00:10:56,553
+...leading to a re-examination
+of the ultraviolet properties...
+
+192
+00:10:56,719 --> 00:11:00,917
+...of multi-loop N=8 supergravity
+using modern twistor theory.
+
+193
+00:11:03,799 --> 00:11:06,632
+Well. how about when you were 17?
+
+194
+00:11:07,600 --> 00:11:09,636
+Take this to the testing area.
+Name at the top.
+
+195
+00:11:09,799 --> 00:11:12,154
+Sign the bottom. answer
+the questions. bring it back. Next.
+
+196
+00:11:18,520 --> 00:11:19,509
+Application?
+
+197
+00:11:20,519 --> 00:11:23,158
+I'm actually more of a theorist.
+
+198
+00:11:24,639 --> 00:11:27,517
+The application in your hand.
+Give it to her.
+
+199
+00:11:27,680 --> 00:11:29,079
+Oh.
+
+200
+00:11:31,999 --> 00:11:34,069
+Take this to the testing area.
+Name at the top.
+
+201
+00:11:34,240 --> 00:11:36,800
+Sign the bottom. answer the questions.
+bring it back. Next.
+
+202
+00:11:36,959 --> 00:11:40,508
+Excuse me. but I have some concerns
+about these questions.
+
+203
+00:11:41,439 --> 00:11:43,270
+Look at the sign up there.
+
+204
+00:11:43,439 --> 00:11:46,875
+-Yes?
+-Does it say. “I give a damn“?
+
+205
+00:11:48,919 --> 00:11:51,353
+-No.
+-That's because I don't.
+
+206
+00:11:51,759 --> 00:11:54,398
+Just look.
+See. this first question makes no sense.
+
+207
+00:11:54,560 --> 00:11:58,075
+Look. “How many car lengths should you
+leave in front of you when driving?“
+
+208
+00:11:58,240 --> 00:12:00,310
+There's no possible way to answer that.
+
+209
+00:12:00,480 --> 00:12:03,950
+A car length is not
+a standardized unit of measure.
+
+210
+00:12:04,759 --> 00:12:06,511
+Look at the sign.
+
+211
+00:12:07,039 --> 00:12:10,031
+-She|don. it's C. Just put down C.
+-I don't need your help. Penny.
+
+212
+00:12:10,199 --> 00:12:12,793
+-Listen to that little girl. Put C. Next.
+SHELDON: No. no.
+
+213
+00:12:12,959 --> 00:12:15,314
+Wait. no. hang on.
+Take a look at this next question.
+
+214
+00:12:15,480 --> 00:12:18,836
+Sheldon.
+why are you arguing with the DMV?
+
+215
+00:12:18,999 --> 00:12:21,229
+How else are they going to learn?
+
+216
+00:12:22,840 --> 00:12:24,717
+Look. question two:
+
+217
+00:12:24,879 --> 00:12:27,029
+“When are roadways most slippery?“
+
+218
+00:12:27,199 --> 00:12:29,429
+There are three answers.
+none of which are correct.
+
+219
+00:12:29,599 --> 00:12:30,634
+The correct answer is:
+
+220
+00:12:30,799 --> 00:12:33,472
+“When covered by liquid
+sufficient to reduce the coefficient...
+
+221
+00:12:33,639 --> 00:12:36,312
+...to static friction between the tire
+and the road to zero.
+
+222
+00:12:36,480 --> 00:12:39,552
+But not so deep as to introduce
+a new source of friction.“
+
+223
+00:12:43,680 --> 00:12:46,069
+Here's your learner's permit. Go away.
+
+224
+00:12:47,320 --> 00:12:50,676
+But I'm not done. I have many additional
+concerns about these questions.
+
+225
+00:12:50,839 --> 00:12:54,036
+-Don't make me climb over this counter.
+-All right. come on. Let's go.
+
+226
+00:12:55,600 --> 00:12:57,158
+WOMAN:
+Next.
+
+227
+00:12:57,319 --> 00:12:58,877
+Aced it.
+
+228
+00:13:01,399 --> 00:13:02,468
+Okay.
+
+229
+00:13:02,639 --> 00:13:05,107
+That's it. Let's boot it up.
+
+230
+00:13:05,280 --> 00:13:06,429
+Booting.
+
+231
+00:13:07,199 --> 00:13:08,951
+This is a state-of-the-art simulator.
+
+232
+00:13:09,120 --> 00:13:11,634
+l adapted from something
+a friend designed for the Army.
+
+233
+00:13:11,800 --> 00:13:13,597
+Is that why I appear to be in Fallujah...
+
+234
+00:13:13,759 --> 00:13:16,319
+...behind the wheel
+of an up-armored Humvee?
+
+235
+00:13:16,720 --> 00:13:19,234
+I haven't configured it yet.
+
+236
+00:13:19,399 --> 00:13:23,950
+Let's see. Bradley tank.
+Transport truck. Batmobile.
+
+237
+00:13:24,120 --> 00:13:26,270
+-Ooh!
+-No.
+
+238
+00:13:26,719 --> 00:13:30,837
+Here we go. Red 2006 Ford Taurus
+on the streets of Pasadena.
+
+239
+00:13:30,999 --> 00:13:32,432
+Ah. mm....
+
+240
+00:13:33,040 --> 00:13:34,712
+-What?
+-Statistical|y. red cars...
+
+241
+00:13:34,880 --> 00:13:37,314
+...are stopped by police
+far more often than any other color.
+
+242
+00:13:37,480 --> 00:13:40,153
+I don't want any hassles with the fuzz.
+
+243
+00:13:40,800 --> 00:13:42,916
+Fine. what color do you want?
+
+244
+00:13:43,079 --> 00:13:46,867
+You know the pale blue
+of Luke Skywalker's lightsaber?
+
+245
+00:13:47,879 --> 00:13:50,916
+Before it was digitally remastered.
+
+246
+00:13:52,759 --> 00:13:54,033
+Black it is.
+
+247
+00:13:55,880 --> 00:13:59,714
+Okay. Now. what you wanna do first is
+turn on the ignition and shift into drive.
+
+248
+00:13:59,879 --> 00:14:01,790
+I haven't fastened my seat belt yet.
+
+249
+00:14:04,120 --> 00:14:05,758
+Okay. fasten your seat belt.
+
+250
+00:14:12,759 --> 00:14:14,112
+Click.
+
+251
+00:14:15,919 --> 00:14:17,955
+-Are there air bags?
+-You don't need air bags.
+
+252
+00:14:18,120 --> 00:14:19,792
+What if a simulated van rear-ends me?
+
+253
+00:14:19,960 --> 00:14:22,554
+l'll hit you in the face with a pillow.
+
+254
+00:14:27,919 --> 00:14:29,557
+[ENGINE S TAR TS]
+
+255
+00:14:31,039 --> 00:14:33,155
+Okay. now shift into drive.
+
+256
+00:14:33,319 --> 00:14:35,355
+And pull out slowly into traffic.
+
+257
+00:14:35,519 --> 00:14:36,634
+[TIRES S CREECI-IING]
+
+258
+00:14:36,799 --> 00:14:37,754
+Do you--?
+
+259
+00:14:37,920 --> 00:14:40,514
+Watch that--
+Watch out for the pedestrians.
+
+260
+00:14:40,680 --> 00:14:42,113
+Oh. God. wait.
+
+261
+00:14:42,280 --> 00:14:44,271
+Slow down.
+Hit the brakes. Hit the brakes.
+
+262
+00:14:44,439 --> 00:14:45,588
+[TIRES S CREECl-IINGI
+
+263
+00:14:45,759 --> 00:14:47,636
+[CAR CRA Sl-IES]
+
+264
+00:14:55,960 --> 00:14:57,473
+Thank you.
+
+265
+00:14:58,920 --> 00:15:00,478
+[TIRES SCREECl-I Tl-IEN CAR CRASl-IES]
+
+266
+00:15:00,639 --> 00:15:01,628
+Sorry.
+
+267
+00:15:01,800 --> 00:15:03,199
+Excuse me.
+
+268
+00:15:03,360 --> 00:15:04,509
+[TIRES S CREECl-IINGI
+
+269
+00:15:04,680 --> 00:15:06,238
+My bad.
+
+270
+00:15:06,400 --> 00:15:08,391
+[TIRES SCREECl-I Tl-IEN CAR CRASl-IES]
+
+271
+00:15:08,560 --> 00:15:10,596
+Student driver.
+
+272
+00:15:11,839 --> 00:15:15,673
+How did you manage to get on
+the second floor of the Glendale Galleria?
+
+273
+00:15:16,319 --> 00:15:17,718
+I don't know.
+
+274
+00:15:17,879 --> 00:15:19,995
+l was on the Pasadena Freeway.
+and missed my exit...
+
+275
+00:15:20,160 --> 00:15:23,470
+...flew off the overpass.
+and one thing led to another.
+
+276
+00:15:25,319 --> 00:15:27,674
+Maybe you wanna give it a rest
+and try again tomorrow.
+
+277
+00:15:27,839 --> 00:15:29,557
+No. I quit.
+
+278
+00:15:31,079 --> 00:15:32,751
+[CAR CRA Sl-IES]
+
+279
+00:15:32,920 --> 00:15:34,239
+[CRO WD SHOUT/N6]
+
+280
+00:15:34,399 --> 00:15:36,788
+[ANIMALS CHIRP/N6 AND Wl-IIMPERING]
+
+281
+00:15:37,680 --> 00:15:40,319
+Oh. The pet store.
+
+282
+00:15:41,519 --> 00:15:45,717
+Remind me to compliment Wolowitz
+on the software. lt's amazingly detailed.
+
+283
+00:15:47,040 --> 00:15:48,917
+So wait. You're just gonna give up?
+
+284
+00:15:49,079 --> 00:15:50,398
+No. I'm not giving up.
+
+285
+00:15:50,560 --> 00:15:52,516
+No. I never give up.
+
+286
+00:15:53,200 --> 00:15:54,918
+So. what is it you're doing?
+
+287
+00:15:55,439 --> 00:15:59,478
+I'm. uh. transcending the situation.
+
+288
+00:16:02,599 --> 00:16:06,877
+l'm clearly too evolved for driving.
+
+289
+00:16:09,120 --> 00:16:11,509
+-What does that mean?
+-Leonard...
+
+290
+00:16:11,680 --> 00:16:15,070
+...have you ever wondered
+why my little toes and lateral incisors...
+
+291
+00:16:15,240 --> 00:16:19,711
+...are significantly smaller than
+the average for someone of my size?
+
+292
+00:16:20,800 --> 00:16:24,395
+I wonder a lot of things about you.
+Sheldon. but not that.
+
+293
+00:16:24,959 --> 00:16:26,517
+Well. those are indicators...
+
+294
+00:16:26,680 --> 00:16:29,877
+...that I'm farther along the evolutionary
+scale than the average human.
+
+295
+00:16:30,040 --> 00:16:32,349
+-No kidding.
+-Yeah. wait. no. I'm not gonna so far...
+
+296
+00:16:32,519 --> 00:16:35,636
+...as to say that I represent
+a distinct new stage in humankind.
+
+297
+00:16:35,800 --> 00:16:38,268
+You know. a Humu nuvus, if you will.
+
+298
+00:16:39,520 --> 00:16:41,476
+No. that's for anthropologists to decide.
+
+299
+00:16:42,120 --> 00:16:45,271
+But I am convinced
+that the reason I cannot master...
+
+300
+00:16:45,439 --> 00:16:49,227
+...the plebeian task of driving
+is because I'm not meant to.
+
+301
+00:16:49,399 --> 00:16:51,390
+Yes. you are.
+You're meant to learn how to drive.
+
+302
+00:16:51,560 --> 00:16:54,074
+-Please learn how to drive.
+-No. no.
+
+303
+00:16:54,240 --> 00:16:55,559
+l'm meant for greater things...
+
+304
+00:16:55,720 --> 00:16:57,870
+...like unraveling the mysteries
+of the universe...
+
+305
+00:16:58,039 --> 00:17:02,590
+...not determining when it's safe to pass
+a stopped school bus on a country road.
+
+306
+00:17:04,320 --> 00:17:07,232
+-|t's never safe.
+-Yeah. well. I know that now.
+
+307
+00:17:08,799 --> 00:17:11,677
+Fine. Assuming
+that everything you say is true...
+
+308
+00:17:11,839 --> 00:17:14,637
+...how does the biologically superior
+Humu nuvus get to work...
+
+309
+00:17:14,799 --> 00:17:16,471
+...tomorrow morning?
+
+310
+00:17:16,959 --> 00:17:19,189
+Humu nuvus doesn't know.
+
+311
+00:17:20,119 --> 00:17:22,075
+Well. hang in there.
+
+312
+00:17:22,240 --> 00:17:24,629
+Maybe you'll evolve into something
+with wings.
+
+313
+00:17:35,679 --> 00:17:37,158
+SHELDON: Good morning. gentlemen.
+-Hey.
+
+314
+00:17:37,320 --> 00:17:39,197
+Good morning.
+
+315
+00:17:40,159 --> 00:17:43,356
+Is there some new kind of casual Friday
+I don't know about?
+
+316
+00:17:43,839 --> 00:17:45,477
+No. he lives here now.
+
+317
+00:17:46,360 --> 00:17:47,349
+Really? Why?
+
+318
+00:17:47,520 --> 00:17:50,432
+Well. since he won't take the bus
+and he's too evolved to drive...
+
+319
+00:17:50,599 --> 00:17:52,351
+...he decided to sleep in his office...
+
+320
+00:17:52,520 --> 00:17:55,830
+...and shower in the radiation lab
+until I'm finished with my experiment.
+
+321
+00:17:56,799 --> 00:17:59,677
+But you finished your experiment
+a week ago.
+
+322
+00:18:03,199 --> 00:18:04,473
+Yep.
+
+323
+00:18:14,720 --> 00:18:17,518
+[IN SPANISH]
+
+324
+00:18:26,840 --> 00:18:28,034
+[LOUD BANGING]
+
+325
+00:18:32,760 --> 00:18:34,557
+[SPEAKS lN SPANISH]
+
+326
+00:18:34,719 --> 00:18:37,711
+You saw nothing.
+
+327
+00:19:08,400 --> 00:19:10,391
+[ENGLISH SDH]
+

@@ -1,0 +1,1527 @@
+1
+00:00:03,439 --> 00:00:07,671
+Bonsoir,
+je suis le Dr. Sheldon Cooper.
+
+2
+00:00:11,999 --> 00:00:15,309
+Je m'attendais
+à des applaudissements.
+
+3
+00:00:15,559 --> 00:00:19,268
+Mais je suppose qu'un silence
+admiratif est opportun.
+
+4
+00:00:19,519 --> 00:00:22,317
+J'ai accepté de vous parler ce soir,
+
+5
+00:00:22,560 --> 00:00:25,233
+car on m'a dit que vous étiez
+les plus intelligents
+
+6
+00:00:25,479 --> 00:00:28,073
+de cette université.
+
+7
+00:00:28,320 --> 00:00:31,153
+Ce qui revient à dire que vous êtes
+l'électron primordial
+
+8
+00:00:31,400 --> 00:00:33,550
+d'un atome d'hydrogène.
+
+9
+00:00:36,760 --> 00:00:39,115
+Car, voyez—vous,
+il n‘y a qu‘un électron
+
+10
+00:00:39,359 --> 00:00:41,270
+dans un atome d'hydrogène.
+
+11
+00:00:44,280 --> 00:00:45,998
+Les plus intelligents,
+mon œil !
+
+12
+00:00:46,240 --> 00:00:48,310
+Bien. Commençons.
+Levez la main.
+
+13
+00:00:48,560 --> 00:00:52,348
+Qui est familiarisé avec le concept
+des isolants topologiques ?
+
+14
+00:00:53,560 --> 00:00:54,754
+Ne vous leurre: pas.
+
+15
+00:00:57,319 --> 00:00:59,674
+J'ai trouvé un autre tweet
+d'un des étudiants.
+
+16
+00:00:59,920 --> 00:01:02,275
+"Le Dr. Cooper a choisi
+un sujet plutôt ennuyeux,
+
+17
+00:01:02,519 --> 00:01:05,670
+qu‘il a réussi à rendre
+totalement insupportable.
+
+18
+00:01:06,400 --> 00:01:08,630
+Et il ressemble à un insecte géant."
+
+19
+00:01:09,680 --> 00:01:12,319
+Ecoutez celui—ci.
+"La théorie d'Einstein peut-elie
+
+20
+00:01:12,560 --> 00:01:15,120
+expliquer pourquoi le temps file
+lorsque l'on s'amuse,
+
+21
+00:01:15,360 --> 00:01:18,875
+alors que quand on écoute
+le Dr. Cooper, il n'en ﬁnit plus ?"
+
+22
+00:01:20,160 --> 00:01:23,709
+Quelqu‘un a pris une photo
+et l‘a mise sur son compte Flickr.
+
+23
+00:01:25,600 --> 00:01:29,275
+Comment peut-on se mettre à dos
+tout un auditoire en même temps ?
+
+24
+00:01:29,719 --> 00:01:33,268
+Apparemment, quand on est Sheldon,
+il suffit de tourner le dos.
+
+25
+00:01:33,960 --> 00:01:36,838
+Dis, Leonard, ta Wi-Fi marche ?
+Je ne peux pas me connecter.
+
+26
+00:01:37,079 --> 00:01:40,196
+Sheldon a changé le mot de passe.
+C‘est “Pennyestunparasite."
+
+27
+00:01:41,439 --> 00:01:42,588
+Sans espaces.
+
+28
+00:01:42,840 --> 00:01:44,592
+Merci. Qu‘est—ce que vous faites ?
+
+29
+00:01:44,840 --> 00:01:47,434
+Sheldon a fait une conférence.
+On lit les réactions.
+
+30
+00:01:47,680 --> 00:01:48,749
+Comment ça s‘est passé ?
+
+31
+00:01:49,000 --> 00:01:53,278
+Genre Hindenburg à Tchernobyl,
+plus Three Mile Island et Tran 2.
+
+32
+00:01:54,360 --> 00:01:55,349
+Si mauvais que ça ?
+
+33
+00:01:55,600 --> 00:01:57,591
+Lis le tweet d‘une femme.
+
+34
+00:01:58,759 --> 00:02:01,990
+"Le Dr. Cooper m‘a donné
+envie de me mutiler à nouveau."
+
+35
+00:02:05,479 --> 00:02:08,152
+Bonsoir à tous,
+Leonard, Howard, Ra].
+
+36
+00:02:08,400 --> 00:02:10,118
+Parasite.
+
+37
+00:02:11,359 --> 00:02:12,951
+Alors, ta conférence ?
+
+38
+00:02:13,200 --> 00:02:15,509
+En deux mots : "Un triomphe".
+
+39
+00:02:16,680 --> 00:02:19,274
+- Vraiment ? Un triomphe ?
+- Oh, oui.
+
+40
+00:02:19,520 --> 00:02:22,273
+Tu aurais dû voir ces jeunes.
+Ils avaient la soif du savoir
+
+41
+00:02:22,519 --> 00:02:23,747
+et ils buvaient mes paroles.
+
+42
+00:02:24,200 --> 00:02:26,714
+J'ai dû changer
+quelques Vies, ce soir.
+
+43
+00:02:27,840 --> 00:02:30,308
+S'il te plaît, laisse—moi lui dire.
+
+44
+00:02:30,559 --> 00:02:32,436
+Je ne peux pas.
+J'ai déjà promis à Howard.
+
+45
+00:02:33,360 --> 00:02:35,794
+- Me dire quoi ?
+- On devrait partager ce moment.
+
+46
+00:02:36,040 --> 00:02:37,075
+Ra], si tu veux bien.
+
+47
+00:02:40,480 --> 00:02:42,994
+Des tweets sur ma conférence.
+
+48
+00:02:47,840 --> 00:02:50,115
+C‘est plutôt injuste.
+
+49
+00:02:50,479 --> 00:02:52,117
+C‘est tout à fait cruel.
+
+50
+00:02:52,359 --> 00:02:54,554
+En outre,
+les insectes ont six pattes.
+
+51
+00:02:56,160 --> 00:02:58,594
+Je ne crois pas connaitre
+l'acronyme TMM.
+
+52
+00:02:58,840 --> 00:03:01,832
+Dans ce contexte, ça veut dire
+”tuez—moi maintenant."
+
+53
+00:03:05,040 --> 00:03:08,715
+Je suppose que chacun est libre
+d‘avoir sa propre opinion.
+
+54
+00:03:08,960 --> 00:03:10,188
+Je vais aller me coucher.
+
+55
+00:03:12,480 --> 00:03:15,153
+D'abord, je ne voulais pas faire
+cours à ces abrutis.
+
+56
+00:03:17,919 --> 00:03:20,274
+Je crois bien que c‘est
+ce qu‘a dit Dark Vador
+
+57
+00:03:20,519 --> 00:03:23,511
+avant de commencer
+à construire l'Etoile dela Mort.
+
+58
+00:03:48,480 --> 00:03:50,710
+- Sheldon broie toujours du noir ?
+- Oui, bizarre.
+
+59
+00:03:50,999 --> 00:03:54,992
+Même s'il ne voulait pas faire ça,
+le rejet des étudiants l‘a touché.
+
+60
+00:03:55,200 --> 00:03:58,078
+Je connais ça. C‘est comme
+quand tu rentres dans un bar gay
+
+61
+00:03:58,360 --> 00:04:00,555
+et que personne ne Vient te draguer.
+
+62
+00:04:07,159 --> 00:04:09,912
+C‘est arrivé à un de mes amis.
+
+63
+00:04:11,639 --> 00:04:14,107
+- Ça va ?
+- Leonard et moi, ça va,
+
+64
+00:04:14,400 --> 00:04:16,914
+mais Raja besoin
+de rencontrer une fille.
+
+65
+00:04:18,079 --> 00:04:20,115
+Ça devrait pouvoir se faire.
+Il est mignon.
+
+66
+00:04:20,319 --> 00:04:22,230
+Merci, mais mignon,
+c‘est pour les lapins.
+
+67
+00:04:22,439 --> 00:04:26,876
+Je veux un truc avec du sex—appeal,
+comme le labradoodle.
+
+68
+00:04:28,759 --> 00:04:29,748
+Un labradoodle ?
+
+69
+00:04:30,720 --> 00:04:33,473
+Il faudrait que tu fasses une analyse
+sur tes problèmes.
+
+70
+00:04:34,079 --> 00:04:36,798
+Ne les écoute pas.
+Tu es bourré de sex—appeal.
+
+71
+00:04:37,039 --> 00:04:39,155
+- Tu le penses vraiment ?
+- Oui, tu es hot.
+
+72
+00:04:39,919 --> 00:04:41,955
+Merci, Bernadette.
+
+73
+00:04:43,640 --> 00:04:45,949
+Pour info, le labradoodle
+est hypoallergénique,
+
+74
+00:04:46,240 --> 00:04:49,312
+ce qui est une qualité sexy
+si on craint les squames animales.
+
+75
+00:04:53,080 --> 00:04:54,069
+Alors, qu'en dis-tu ?
+
+76
+00:04:57,120 --> 00:04:59,998
+C‘est une illusion charmante,
+mais mon moral reste à zéro.
+
+77
+00:05:00,199 --> 00:05:02,667
+Même quandje fais ça ?
+
+78
+00:05:10,560 --> 00:05:14,030
+C'était la dernière ﬂèche
+que j‘avais dans mon carquois.
+
+79
+00:05:14,399 --> 00:05:17,471
+Tu réalises que c‘est la première
+chose à laquelle j‘échoue
+
+80
+00:05:17,759 --> 00:05:21,911
+depuis ma tentative funeste de faire
+des tractions, en mars 1989 ?
+
+81
+00:05:22,399 --> 00:05:26,358
+Si cette expérience le trouble,
+on peut y remédier.
+
+82
+00:05:26,560 --> 00:05:29,154
+- Par exemple ?
+- Ce & quoije pense,
+
+83
+00:05:29,440 --> 00:05:32,000
+serait d‘isoler la partie
+de ton cerveau où est la mémoire
+
+84
+00:05:32,239 --> 00:05:34,195
+et de la détruire au laser.
+
+85
+00:05:35,879 --> 00:05:39,918
+Non, une main qui glisse, me voilà
+au Département Ingénierie
+
+86
+00:05:40,160 --> 00:05:42,720
+à construire des bidules
+avec Wolowitz.
+
+87
+00:05:43,279 --> 00:05:46,715
+As-tu envisagé d‘améliorer
+tes talents de socialisation,
+
+88
+00:05:46,919 --> 00:05:49,308
+afin de mieux communiquer ?
+
+89
+00:05:49,599 --> 00:05:50,748
+C‘est à moi de le faire ?
+
+90
+00:05:51,039 --> 00:05:53,758
+C‘est pourtant moi qui ai
+des choses intéressantes à dire.
+
+91
+00:05:54,319 --> 00:05:57,550
+Oui. Mais, par essence, enseigner
+est un art de la performance.
+
+92
+00:05:57,759 --> 00:06:01,388
+Dans le paradigme de la classe,
+c‘est le professeur qui communique,
+
+93
+00:06:01,600 --> 00:06:03,636
+c‘est lui qui divertit,
+lui qui intéresse.
+
+94
+00:06:04,160 --> 00:06:06,549
+Je sens que tu m'amènes
+lentement à une révélation.
+
+95
+00:06:06,800 --> 00:06:08,756
+Ça te gênerait,
+d'être plus directe ?
+
+96
+00:06:09,599 --> 00:06:11,988
+Peut-être devrais-tu
+envisager des cours d‘acteur ?
+
+97
+00:06:12,440 --> 00:06:13,919
+Des cours d‘acteur.
+
+98
+00:06:14,119 --> 00:06:15,837
+C‘est intéressant.
+
+99
+00:06:16,040 --> 00:06:19,032
+Je pourrais faire comme
+si je m‘intéressais
+
+100
+00:06:19,280 --> 00:06:21,316
+à mes étudiants et à leurs résultats.
+
+101
+00:06:23,519 --> 00:06:24,668
+Penny.
+
+102
+00:06:28,960 --> 00:06:32,635
+- Quoi ?
+- Tu es "actrice," n'est-ce pas ?
+
+103
+00:06:33,440 --> 00:06:37,274
+Je ne suis pas "actrice."
+Je suis actrice.
+
+104
+00:06:38,079 --> 00:06:40,798
+D‘accord, tu es actrice.
+
+105
+00:06:42,120 --> 00:06:44,759
+- Je voudrais que tu m'apprennes.
+- Tu veux un cours ?
+
+106
+00:06:44,959 --> 00:06:47,837
+Peut—ètre deux.
+J'aimerais maîtriser le sujet.
+
+107
+00:06:48,920 --> 00:06:50,558
+Pourquoi tu me demandes ça ?
+
+108
+00:06:51,040 --> 00:06:55,352
+On a suggéré que cela pourrait
+m‘aider à améliorer mes cours.
+
+109
+00:06:55,559 --> 00:07:00,269
+Lesquels, si l'on en croit certains
+tweets et blogs, sont "chiants."
+
+110
+00:07:01,399 --> 00:07:05,631
+J'ai vu ça. J'en ai imprimé certains
+etje les ai collés sur mon frigo.
+
+111
+00:07:06,200 --> 00:07:07,394
+Quand peut-on commencer ?
+
+112
+00:07:07,679 --> 00:07:08,953
+Mettons les choses au clair.
+
+113
+00:07:09,239 --> 00:07:11,673
+Tu me demandes de t‘aider
+carje sais quelque chose
+
+114
+00:07:11,879 --> 00:07:14,188
+que le brillant Dr. Sheldon Cooper
+ignore.
+
+115
+00:07:15,240 --> 00:07:17,754
+Je suppose qu'on peut voir ça
+comme ça.
+
+116
+00:07:18,440 --> 00:07:20,476
+C‘est même la seule façon de le voir.
+
+117
+00:07:21,119 --> 00:07:24,475
+- Tu m'aides, ou non ?
+- Sans doute. Je m'amuse.
+
+118
+00:07:25,919 --> 00:07:28,035
+Ça veut dire que
+tu respectes ma carrière ?
+
+119
+00:07:28,279 --> 00:07:29,268
+Oh, je m‘excuse.
+
+120
+00:07:29,559 --> 00:07:32,517
+Je pensais que la transition
+d‘actrice à professeur de comédie
+
+121
+00:07:32,799 --> 00:07:35,996
+était l'indice que ta carrière
+était arrivée à son terme.
+
+122
+00:07:37,999 --> 00:07:40,388
+- Laisse tomber.
+- Je te paie 4!) dollars la leçon.
+
+123
+00:07:40,639 --> 00:07:42,675
+Samedi matin, 9 heures.
+Tu paies en liquide.
+
+124
+00:07:45,600 --> 00:07:47,397
+- Raj, j'ai une grande nouvelle.
+- Quoi ?
+
+125
+00:07:47,679 --> 00:07:51,035
+On Vient de m'offrir une bourse
+à l'Institut Weizmann, en Israël.
+
+126
+00:07:51,319 --> 00:07:52,798
+- C‘est fantastique.
+- Je sais.
+
+127
+00:07:53,000 --> 00:07:55,514
+Le problème, c‘est que
+je vais partir pour deux ans.
+
+128
+00:07:55,680 --> 00:07:57,238
+Oh, tu vas me manquer.
+
+129
+00:07:57,480 --> 00:07:59,869
+- Tu pars avec lui ?
+- Non, je dois rester ici.
+
+130
+00:08:00,120 --> 00:08:05,672
+C‘est pour ça qu'on Vient te voir.
+Vois—tu, Bernadette a des besoins.
+
+131
+00:08:07,840 --> 00:08:08,955
+Quel genre de besoins ?
+
+132
+00:08:09,480 --> 00:08:11,357
+Des besoins sexuels.
+
+133
+00:08:12,320 --> 00:08:16,029
+La plupart sont normaux,
+certains sont un peu plus délicats.
+
+134
+00:08:18,720 --> 00:08:22,633
+Donc, pendant mon absence,
+c‘est toi qui devras Ia satisfaire.
+
+135
+00:08:23,839 --> 00:08:25,272
+Qu'est-ce que tu en dis ?
+
+136
+00:08:26,680 --> 00:08:28,910
+Je dis dacodac.
+
+137
+00:08:34,920 --> 00:08:36,558
+A quoi est-ce que tu penses ?
+
+138
+00:08:37,279 --> 00:08:40,316
+Juste que je ne suis
+absolument pas gay.
+
+139
+00:08:48,040 --> 00:08:49,268
+Penny.
+
+140
+00:08:52,400 --> 00:08:55,472
+- Qu‘y a-t-il ?
+- Rien. Je jouais la comédie.
+
+141
+00:08:57,120 --> 00:08:58,235
+Tu jouais la comédie ?
+
+142
+00:08:58,480 --> 00:09:02,553
+En préparation, j'ai lu La Formation
+de l‘acteur, de Stanislavski,
+
+143
+00:09:02,839 --> 00:09:04,750
+Technique du jeu d‘acteur,
+de Stella Adler,
+
+144
+00:09:04,960 --> 00:09:09,511
+Respect dujeu, d'Uta Hagen,
+Je suis acteur, d‘Henry Winkler.
+
+145
+00:09:10,560 --> 00:09:13,233
+C‘est très bien. Entre donc.
+
+146
+00:09:13,439 --> 00:09:15,828
+- On commence par quoi ?
+- Je pensais démarrer
+
+147
+00:09:16,080 --> 00:09:18,036
+par quelques mouvements de base.
+
+148
+00:09:18,240 --> 00:09:20,037
+Tu sais, pour se chauffer le corps.
+
+149
+00:09:20,280 --> 00:09:22,077
+- D‘accord.
+- Il faut que tu sois relax,
+
+150
+00:09:22,360 --> 00:09:24,635
+que tu essaies de te déplacer
+dans l‘espace.
+
+151
+00:09:24,879 --> 00:09:27,712
+Fais ce qui te parait naturel.
+
+152
+00:09:34,400 --> 00:09:37,915
+- Sheldon.
+- Tu as dit, ce qui est naturel.
+
+153
+00:09:38,200 --> 00:09:39,394
+Ceci me parait naturel.
+
+154
+00:09:40,480 --> 00:09:43,199
+Sûrement bien plus naturel
+que ce tu Viens de faire.
+
+155
+00:09:43,479 --> 00:09:46,198
+Tu dois travailler avec moi.
+Te connecter avec ton corps.
+
+156
+00:09:46,400 --> 00:09:49,836
+Penny, mon corps et moi
+avons une relation optimale
+
+157
+00:09:50,079 --> 00:09:53,196
+quand nous maintenons
+une certaine distance entre nous.
+
+158
+00:09:55,719 --> 00:09:57,755
+D‘accord,
+on va dire qu'on s‘est échauffés.
+
+159
+00:09:58,079 --> 00:09:59,637
+C‘est toi la ”professeur."
+
+160
+00:10:01,360 --> 00:10:03,476
+Bon. Une chose
+qui pourrait sûrement t‘aider
+
+161
+00:10:03,679 --> 00:10:06,716
+à te connecter avec tes étudiants,
+c‘est d'être plus spontané.
+
+162
+00:10:06,999 --> 00:10:08,591
+On essaie
+un peu d‘improvisation ?
+
+163
+00:10:08,800 --> 00:10:12,509
+Pourquoi pas ? Tu improvises bien
+ton enseignement.
+
+164
+00:10:14,239 --> 00:10:17,709
+- Il s'agit d‘écouter et de répondre.
+- D‘accord.
+
+165
+00:10:17,920 --> 00:10:20,639
+Je vais créer un personnage,
+une situation, tu embrayes.
+
+166
+00:10:20,840 --> 00:10:22,034
+- D‘accord.
+- D‘accord.
+
+167
+00:10:26,120 --> 00:10:29,430
+Ce n‘est pas un film, c‘est
+de l'improve. On ne dit pas ”action."
+
+168
+00:10:29,679 --> 00:10:31,317
+Eh, tu m'as appris quelque chose.
+
+169
+00:10:32,319 --> 00:10:33,638
+Qui l'aurait cru ?
+
+170
+00:10:37,719 --> 00:10:40,153
+Non, je n'ai rien reçu,
+j'ai besoin de ces chaussures.
+
+171
+00:10:40,360 --> 00:10:43,193
+C‘est ma meilleure vente.
+Oui, femmes, tailles 34 à 39.
+
+172
+00:10:43,479 --> 00:10:46,835
+Merci. Désolée, je dois raccrocher.
+J'ai un client, au revoir.
+
+173
+00:10:47,039 --> 00:10:48,154
+Bonjour, vous désirez ?
+
+174
+00:10:48,639 --> 00:10:51,517
+Je voudrais un yaourt glacé,
+s'il vous plaît.
+
+175
+00:10:54,879 --> 00:10:56,471
+Un yaourt?
+
+176
+00:10:57,040 --> 00:11:01,431
+Oui, je... Heureusement, on vend
+des chaussures et des yaourts, ici.
+
+177
+00:11:02,879 --> 00:11:04,631
+Vraiment ?
+
+178
+00:11:05,439 --> 00:11:09,990
+Oui. Regarde l‘enseigne, et pense
+qu'en improve, on dit toujours oui.
+
+179
+00:11:10,560 --> 00:11:12,278
+D‘accord.
+
+180
+00:11:12,519 --> 00:11:14,316
+Oui.
+
+181
+00:11:15,360 --> 00:11:16,759
+Je vois une enseigne.
+
+182
+00:11:16,959 --> 00:11:20,588
+C‘est indiqué
+”Hôpital psychiatrique Camarillo."
+
+183
+00:11:22,239 --> 00:11:23,308
+Quoi ?
+
+184
+00:11:23,680 --> 00:11:25,557
+C‘est la seule explication
+qui me Vient
+
+185
+00:11:25,759 --> 00:11:28,956
+pour justifier ton idée de vendre
+des chaussures et des yaourts.
+
+186
+00:11:29,759 --> 00:11:32,068
+Bon, tu sais quoi ?
+On va essayer autre chose.
+
+187
+00:11:33,279 --> 00:11:36,954
+Cette fois, on est deux poivrots
+qui vivent sous un pont d'autoroute.
+
+188
+00:11:37,160 --> 00:11:38,878
+Et on va utiliser des accessoires ?
+
+189
+00:11:39,159 --> 00:11:40,751
+Et comment.
+
+190
+00:11:43,040 --> 00:11:45,395
+J‘avais des ambitions.
+Je voulais être célèbre.
+
+191
+00:11:45,920 --> 00:11:49,276
+Montrer à tous les miens que
+je pouvais réussir. Et regarde-moi.
+
+192
+00:11:50,560 --> 00:11:53,950
+- Tu en veux un peu ?
+- Tu n'aurais pas un yaourt ?
+
+193
+00:11:58,560 --> 00:12:01,950
+Je n'arrive pas à m'habituer
+àla nouvelle orthographe de Syfy.
+
+194
+00:12:02,239 --> 00:12:05,117
+S-Y-F-Y. C‘est nul.
+
+195
+00:12:14,720 --> 00:12:16,312
+Mon Dieu, est-ce qu'il va bien ?
+
+196
+00:12:16,599 --> 00:12:18,157
+- Qu'est-ce qu'il y a ?
+- Attends.
+
+197
+00:12:20,439 --> 00:12:21,428
+D‘accord, merci.
+
+198
+00:12:22,560 --> 00:12:24,790
+Howard a eu un accident
+avec un camion.
+
+199
+00:12:25,079 --> 00:12:26,558
+Il est dans un état grave.
+
+200
+00:12:26,839 --> 00:12:28,989
+Oh, non.
+
+201
+00:12:31,120 --> 00:12:33,429
+Vous êtes au courant ?
+C‘est vraiment horrible.
+
+202
+00:12:33,639 --> 00:12:35,709
+- Tu l'as vu ?
+- Ils n‘ont pas voulu.
+
+203
+00:12:37,120 --> 00:12:38,599
+Mon petit Howie.
+
+204
+00:12:39,040 --> 00:12:40,598
+Ça va s‘arranger.
+
+205
+00:12:40,800 --> 00:12:42,074
+Ça va s‘arranger.
+
+206
+00:12:42,360 --> 00:12:43,509
+Ça va s‘arranger.
+
+207
+00:12:43,720 --> 00:12:45,756
+Ça va s‘arranger.
+
+208
+00:12:48,640 --> 00:12:50,551
+C‘est Howard.
+
+209
+00:12:51,080 --> 00:12:52,308
+Howard, allo ?
+
+210
+00:12:52,520 --> 00:12:54,875
+Raj, c‘est bien toi ?
+
+211
+00:12:55,999 --> 00:12:57,512
+Oui, c‘est moi. Comment vas-tu ?
+
+212
+00:12:57,920 --> 00:13:00,480
+Ecoute-moi,
+je n'en ai plus pour longtemps.
+
+213
+00:13:00,759 --> 00:13:03,478
+Non, ne dis pas ça,
+tu vas bien te remettre.
+
+214
+00:13:03,680 --> 00:13:05,750
+Raj, je n'ai pas le temps.
+Ecoute-moi bien.
+
+215
+00:13:06,400 --> 00:13:10,393
+Mon dernier souhait est
+que tu t'occupes de Bernadette.
+
+216
+00:13:10,679 --> 00:13:12,954
+Bien sûr.
+
+217
+00:13:14,079 --> 00:13:16,718
+Quand tu dis "t'occuper,"
+tu veux dire...
+
+218
+00:13:17,079 --> 00:13:18,558
+Sexuellement.
+
+219
+00:13:18,839 --> 00:13:21,433
+Excuse-moi, Bernadette,
+mais je veux qu'il me le dise.
+
+220
+00:13:22,400 --> 00:13:24,391
+Sexuellement.
+
+221
+00:13:24,920 --> 00:13:25,955
+D‘accord.
+A bientôt.
+
+222
+00:13:28,039 --> 00:13:31,475
+Je n'ai donc pas d‘autre choix
+que de te faire l‘amour
+
+223
+00:13:31,680 --> 00:13:34,478
+- pour le reste de ma vie.
+- C‘est ce que j'ai compris.
+
+224
+00:13:40,919 --> 00:13:42,398
+Ou ça pourrait être "syfee."
+
+225
+00:13:42,920 --> 00:13:46,117
+- Quoi ?
+-S-Y-F-Y. "Syfee."
+
+226
+00:13:46,680 --> 00:13:48,033
+Oh, d‘accord.
+
+227
+00:13:48,319 --> 00:13:49,752
+Excellent.
+
+228
+00:13:52,319 --> 00:13:56,949
+- Tu as étudié la scène ?
+- Oui. Ça ne m‘a pas intéressé.
+
+229
+00:13:58,600 --> 00:14:01,910
+La chatte sur un toit brûlant
+est un grand classique américain.
+
+230
+00:14:02,199 --> 00:14:04,997
+Le sandwich McRib aussi.
+Mais je n'aime pas non plus.
+
+231
+00:14:07,840 --> 00:14:10,673
+D‘accord. Alors, quelle scène
+voudrais-tu étudier ?
+
+232
+00:14:10,960 --> 00:14:11,949
+Merci de le demander.
+
+233
+00:14:12,160 --> 00:14:16,278
+Je me suis permis d‘adapter
+un nouvau genre de Star Trek
+
+234
+00:14:16,480 --> 00:14:19,517
+que j'ai écrit à 10 ans,
+sous forme d‘une pièce en un acte.
+
+235
+00:14:20,800 --> 00:14:22,870
+Tu trouves ça mieux
+que Tennessee Williams ?
+
+236
+00:14:23,800 --> 00:14:26,792
+Si nous laissions
+les futures générations en décider ?
+
+237
+00:14:27,879 --> 00:14:30,518
+"Où aucun Sheldon
+n'est jamais allé. "
+
+238
+00:14:30,999 --> 00:14:34,071
+C‘est l'histoire d'un jeune garçon
+qui est transporté
+
+239
+00:14:34,360 --> 00:14:38,069
+d'un coin perdu de l‘est du Texas
+dans le 23e siècle,
+
+240
+00:14:38,359 --> 00:14:42,875
+où son génie est non seulement
+apprécié, mais aussi fêté.
+
+241
+00:14:43,319 --> 00:14:45,116
+TMM
+
+242
+00:14:46,280 --> 00:14:50,114
+Dans cette scène cruciale,
+la mère de Sheldon, jouée par toi,
+
+243
+00:14:50,400 --> 00:14:51,674
+discute avec un émissaire
+
+244
+00:14:51,879 --> 00:14:56,828
+dela Fédération Unie des Planètes,
+M. Spock, le rôle que je vais jouer.
+
+245
+00:14:57,800 --> 00:15:01,270
+D‘accord, mais si on essayait
+de te sortir de ta zone de confort.
+
+246
+00:15:01,759 --> 00:15:03,033
+Pourquoi ferait-on ça ?
+
+247
+00:15:03,319 --> 00:15:05,708
+On appelle ça la zone de confort
+pour une raison.
+
+248
+00:15:06,079 --> 00:15:08,434
+D‘accord, mais le but
+est de t‘assouplir un peu.
+
+249
+00:15:08,640 --> 00:15:13,111
+Et si tu jouais le rôle de ta mère
+etje joue celui de Spock ?
+
+250
+00:15:19,599 --> 00:15:21,794
+Excuse-moi, tu serais Spock ?
+
+251
+00:15:22,199 --> 00:15:24,633
+Cela me semble logique.
+
+252
+00:15:27,560 --> 00:15:28,788
+Trés bien.
+
+253
+00:15:29,079 --> 00:15:31,115
+- Je situe la scène.
+- D‘accord.
+
+254
+00:15:31,839 --> 00:15:34,876
+Est du Texas.
+Par une chaude nuit d'été.
+
+255
+00:15:35,159 --> 00:15:38,071
+Une femme, Mary, se tient
+dans une véranda.
+
+256
+00:15:38,319 --> 00:15:42,278
+Dans le lointain,
+on entend le sifflement d'un train.
+
+257
+00:15:42,560 --> 00:15:46,519
+Le doux bourdonnement des cigales.
+
+258
+00:15:46,720 --> 00:15:48,995
+Un coyote hurle à la lune,
+
+259
+00:15:49,279 --> 00:15:52,715
+effrayant tous les petits enfants :
+
+260
+00:15:53,480 --> 00:15:57,758
+- Dans les bois, une chouette...
+- C‘est bon, tu as situé la scène.
+
+261
+00:16:00,960 --> 00:16:02,791
+Vas-y, lis la réplique de ta mère.
+
+262
+00:16:05,600 --> 00:16:09,434
+Shelly, Shelly,
+combien de fois t‘ai-je dit
+
+263
+00:16:09,639 --> 00:16:12,517
+de ne pas laisser ton matériel
+scientifique dans la Véranda ?
+
+264
+00:16:13,439 --> 00:16:16,636
+Seigneur Dieu. Jamais
+je ne comprendrai cet enfant.
+
+265
+00:16:16,920 --> 00:16:19,229
+Mais, bon, je suis
+une fanatique dela religion
+
+266
+00:16:19,519 --> 00:16:23,307
+et mon esprit est fermé
+a tellement de choses.
+
+267
+00:16:27,479 --> 00:16:30,073
+Spock à Enterprise.
+Télétransportation réussie.
+
+268
+00:16:30,359 --> 00:16:32,315
+Gloire soit rendue aux cieux.
+
+269
+00:16:32,599 --> 00:16:35,830
+Une sorte de créature
+Vient d‘émerger dans les airs.
+
+270
+00:16:36,120 --> 00:16:38,395
+George, pose cette cannette
+de Pepsi pleine de bourbon,
+
+271
+00:16:38,680 --> 00:16:41,319
+qui ne trompe personne,
+et va chercher ton fusil.
+
+272
+00:16:42,360 --> 00:16:46,114
+Salutations, Mary Cooper.
+je m‘appelle Spock.
+
+273
+00:16:48,920 --> 00:16:51,388
+Je suis désolé. Je n‘y crois pas.
+
+274
+00:16:51,840 --> 00:16:52,989
+Continue, s'il te plaît.
+
+275
+00:16:54,559 --> 00:16:58,234
+Oh, mon Dieu, votre apparition
+soudaine m'effraie.
+
+276
+00:16:58,519 --> 00:17:01,591
+Nous avons repéré votre fils,
+Sheldon, depuis le 23e siècle,
+
+277
+00:17:01,879 --> 00:17:04,109
+et nous estimons
+qu'il est prêt à nous rejoindre.
+
+278
+00:17:04,319 --> 00:17:07,038
+Son génie est notre seul espoir
+de ramener la paix
+
+279
+00:17:07,240 --> 00:17:09,231
+dans notre immense galaxie
+en détresse.
+
+280
+00:17:09,439 --> 00:17:10,554
+Je comprends.
+
+281
+00:17:11,640 --> 00:17:15,076
+Shelly, il y a la un monsieur qui
+Vient pour t'emmener dans le futur.
+
+282
+00:17:15,360 --> 00:17:17,920
+N‘oublie pas d'emporter
+des sous—vêtements propres.
+
+283
+00:17:18,559 --> 00:17:22,029
+Bon, on reprend cette réplique,
+cette fois, ta voix tremble un peu.
+
+284
+00:17:22,880 --> 00:17:24,996
+- Pourquoi ?
+- Eh bien, tu vas perdre ton fils.
+
+285
+00:17:25,279 --> 00:17:30,353
+Oui, mais il va aller dans
+dans un endroit où il sera reconnu.
+
+286
+00:17:30,559 --> 00:17:33,437
+Essaie de faire à ma façon.
+Tu es triste de le voir partir.
+
+287
+00:17:33,719 --> 00:17:35,198
+Je reprends juste avant.
+
+288
+00:17:35,959 --> 00:17:38,712
+Son génie est notre seul espoir
+de ramener la paix
+
+289
+00:17:38,999 --> 00:17:41,274
+dans notre immense galaxie
+en détresse.
+
+290
+00:17:42,880 --> 00:17:45,519
+- C‘est à toi.
+- Pardon, j‘adore cette réplique.
+
+291
+00:17:47,199 --> 00:17:49,235
+Même comme tu lajoues.
+
+292
+00:17:50,080 --> 00:17:52,799
+Allez, allez, mets—y de l'émotion.
+
+293
+00:17:53,000 --> 00:17:54,877
+Dans notre immense galaxie
+en détresse.
+
+294
+00:17:56,320 --> 00:18:00,996
+Shelly, il y a la un monsieur qui
+Vient pour t'emmener dans le futur.
+
+295
+00:18:04,160 --> 00:18:06,549
+N‘oublie pas d'emporter
+des sous—vêtements propres.
+
+296
+00:18:06,839 --> 00:18:08,636
+C‘est bien, c‘est très bien.
+
+297
+00:18:10,240 --> 00:18:12,151
+Maman, pourquoi pleures-tu ?
+
+298
+00:18:12,880 --> 00:18:14,916
+Parce que tu vas me manquer,
+mon Shelly,
+
+299
+00:18:15,199 --> 00:18:18,191
+même si tu me fous
+carrément la trouille, parfois.
+
+300
+00:18:18,559 --> 00:18:20,311
+Bon, je vois qu'on improvise, la.
+
+301
+00:18:20,599 --> 00:18:24,478
+Désolé, ce n‘est pas ma faute.
+Je suis juste trop intelligent
+
+302
+00:18:24,679 --> 00:18:27,830
+et tous les gens ici, sont
+bêtes comme des tas de pierres.
+
+303
+00:18:28,120 --> 00:18:30,839
+Non, ne te mets pas à pleurer.
+Tu montes dans ce vaisseau.
+
+304
+00:18:31,039 --> 00:18:33,599
+Maman est en retard
+pour sa partie de bingo.
+
+305
+00:18:36,200 --> 00:18:39,556
+Mme Cooper, bonsoir, c‘est Penny.
+Oui, je crois que j'ai eu votre fils.
+
+306
+00:18:40,039 --> 00:18:41,916
+Une seconde. Parle à ta mère.
+
+307
+00:18:42,679 --> 00:18:44,829
+Maman, je t‘aime.
+
+308
+00:18:45,119 --> 00:18:48,156
+Ne laisse pas Spock
+m‘emmener dans le futur.
+
+309
+00:18:54,880 --> 00:18:57,075
+Raj, je sais que tu nous évites,
+Howard et moi,
+
+310
+00:18:57,400 --> 00:19:00,870
+etje ne pars pas tant que
+tu ne m'as pas expliqué pourquoi.
+
+311
+00:19:10,080 --> 00:19:13,993
+Comme un éléphant sauvage
+Je barris mon amour pour toi
+
+312
+00:19:14,279 --> 00:19:18,352
+Comme une fleur cachée
+Mon doux parfum met en émoi
+
+313
+00:19:27,240 --> 00:19:30,949
+Mon cœur brûle pour toi
+Et le soleil est à l‘unisson
+
+314
+00:19:31,199 --> 00:19:35,238
+Mon désert t‘accueille
+Comme la pluvieuse mousson
+
+315
+00:19:35,480 --> 00:19:37,118
+Tu es mon cœur
+
+316
+00:19:37,360 --> 00:19:39,351
+Mon univers
+
+317
+00:19:39,599 --> 00:19:41,157
+Tu es mon cœur
+
+318
+00:19:41,360 --> 00:19:43,635
+Mon univers
+
+319
+00:19:43,880 --> 00:19:45,871
+- Mon univers
+- Mon univers
+
+320
+00:19:46,119 --> 00:19:47,598
+- Tu es mon cœur
+- Tu es mon cœur
+
+321
+00:19:47,879 --> 00:19:50,074
+- Mon univers
+- Mon univers
+
+322
+00:19:50,319 --> 00:19:51,957
+- Tu es mon cœur
+- Tu es mon cœur
+
+323
+00:19:52,200 --> 00:19:54,236
+- Mon univers
+- Mon univers
+
+324
+00:19:54,479 --> 00:19:56,037
+- Tu es mon cœur
+- Tu es mon cœur
+
+325
+00:19:56,240 --> 00:19:58,470
+- Mon univers
+- Mon univers
+
+326
+00:19:58,719 --> 00:20:02,029
+- Mon univers
+- Mon univers
+
+327
+00:20:09,360 --> 00:20:12,989
+Numéro de danse à part,
+je ne suis pas du tout gay.
+
+328
+00:20:38,159 --> 00:20:40,150
+[French]
+

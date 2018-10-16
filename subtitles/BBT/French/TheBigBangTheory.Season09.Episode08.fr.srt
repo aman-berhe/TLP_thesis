@@ -1,0 +1,1904 @@
+1
+00:00:15,760 --> 00:00:17,876
+Bon. Faisons entrer nos conférenciers.
+
+2
+00:00:18,040 --> 00:00:22,113
+Applaudissez notre consultant
+scientifique, le Dr David Saltzberg.
+
+3
+00:00:22,279 --> 00:00:24,235
+Tous les scénaristes de la série,
+
+4
+00:00:24,440 --> 00:00:29,639
+et les producteurs délégués Chuck Lorre,
+Steve Molaro et Bill Prady.
+
+5
+00:00:39,240 --> 00:00:42,676
+Et voici notre modérateur.
+
+6
+00:00:42,840 --> 00:00:46,549
+Vous le connaissez mieux
+sous le nom de "Dr Rajesh Koothrappali",
+
+7
+00:00:46,720 --> 00:00:48,915
+veuillez applaudir Kunal Nayyar.
+
+8
+00:00:54,639 --> 00:00:55,628
+Salut.
+
+9
+00:00:58,440 --> 00:01:00,874
+Surprise !
+
+10
+00:01:07,560 --> 00:01:09,551
+Comment ça va, San Diego ?
+
+11
+00:01:12,760 --> 00:01:14,239
+Bienvenue à Comic Con.
+
+12
+00:01:15,440 --> 00:01:18,796
+Bien que... Non.
+Bienvenue à Comic Con.
+
+13
+00:01:19,520 --> 00:01:22,671
+Nous sommes super contents d'être ici.
+
+14
+00:01:22,839 --> 00:01:24,591
+Nous adorons nos fans.
+
+15
+00:01:24,760 --> 00:01:28,435
+Notre série ne serait rien sans vous.
+Merci beaucoup.
+
+16
+00:01:28,600 --> 00:01:32,149
+Merci infiniment d'être venus.
+Ça nous touche énormément. Merci.
+
+17
+00:01:36,759 --> 00:01:38,192
+On va s'amuser aujourd'hui.
+
+18
+00:01:38,399 --> 00:01:42,472
+Je voulais commencer parleur poser
+quelques questions gênantes,
+
+19
+00:01:42,639 --> 00:01:46,632
+ensuite, vous aurez le micro, d'accord ?
+
+20
+00:01:48,680 --> 00:01:51,478
+Bon. Laissez—moi enlever ma veste.
+
+21
+00:01:54,440 --> 00:01:57,352
+C‘est tout ce que j'enlèverai. Du calme.
+
+22
+00:01:57,599 --> 00:02:01,877
+David Saltzberg,
+notre consultant scientifique star
+
+23
+00:02:02,039 --> 00:02:04,155
+qui s'assure que tout est exact,
+
+24
+00:02:04,360 --> 00:02:08,751
+mais qui reçoit quand-même
+des milliers d'e-mails haineux de fans.
+
+25
+00:02:09,879 --> 00:02:14,077
+Tu avais peur pour le sujet de l‘article
+de Léonard et Sheldon ?
+
+26
+00:02:14,919 --> 00:02:17,991
+- Oui.
+- Peux-tu nous dire pourquoi ?
+
+27
+00:02:18,160 --> 00:02:22,073
+Les scénaristes m‘ont demandé
+de leur trouver une découverte,
+
+28
+00:02:22,239 --> 00:02:24,230
+et il fallait qu'elle soit importante.
+
+29
+00:02:24,439 --> 00:02:26,589
+J'y ai beaucoup réfléchi,
+
+30
+00:02:26,760 --> 00:02:31,072
+et on a choisi quelque chose
+sur la théorie du Vide superfluide
+
+31
+00:02:31,239 --> 00:02:33,070
+et l‘espace-temps.
+
+32
+00:02:33,240 --> 00:02:37,392
+Il était aussi question de tension
+de surface, c‘était plutôt cool,
+
+33
+00:02:37,559 --> 00:02:39,436
+ça n‘avait pas encore été exploité.
+
+34
+00:02:39,600 --> 00:02:43,559
+J‘étais content. Je leur ai proposé ça.
+
+35
+00:02:43,720 --> 00:02:47,349
+Je reçois le scénario en plusieurs fois,
+quelques pages à la fois,
+
+36
+00:02:47,520 --> 00:02:49,112
+et dans les pages
+qu'on m‘a envoyées,
+
+37
+00:02:49,279 --> 00:02:53,431
+j'ai vu que l'un de ceux qui allaient
+lire le scénario n‘était autre
+
+38
+00:02:53,599 --> 00:02:55,271
+que M. Stephen Hawking.
+
+39
+00:02:57,760 --> 00:03:00,911
+À ce moment, j'ai fait
+une petite crise d‘angoisse.
+
+40
+00:03:02,239 --> 00:03:05,549
+J‘avais peur qu'il lise
+
+41
+00:03:05,719 --> 00:03:09,155
+et qu'il refuse de faire
+une apparition dans la série.
+
+42
+00:03:09,720 --> 00:03:11,039
+Ce qui n‘est pas arrivé.
+
+43
+00:03:11,200 --> 00:03:15,751
+J'espérais qu'il trouve que c‘était
+un bon sujet de recherche.
+
+44
+00:03:15,919 --> 00:03:17,432
+J‘attends toujours.
+
+45
+00:03:19,400 --> 00:03:21,197
+Une petite anecdote au sujet d'Hawking.
+
+46
+00:03:21,400 --> 00:03:24,198
+Quand il est venu pour la première fois,
+
+47
+00:03:24,399 --> 00:03:25,798
+c‘était pour répéter.
+
+48
+00:03:25,959 --> 00:03:30,510
+Simon Helberg Wolowitz
+a dû faire sa voix
+
+49
+00:03:30,680 --> 00:03:31,874
+devant lui.
+
+50
+00:03:33,440 --> 00:03:35,078
+Nous jouions la scène
+
+51
+00:03:35,239 --> 00:03:38,356
+tout en regardant
+Stephen Hawking du coin de l'œil
+
+52
+00:03:38,520 --> 00:03:42,149
+pour voir sa réaction.
+II souriait. II a adoré.
+
+53
+00:03:42,359 --> 00:03:43,917
+- C‘est vrai.
+- II a adoré.
+
+54
+00:03:44,079 --> 00:03:46,673
+J'ai dirigé la première scène
+
+55
+00:03:46,840 --> 00:03:49,035
+entre Stephen Hawking et Sheldon,
+
+56
+00:03:49,200 --> 00:03:52,715
+et il n‘y a rien de plus étrange
+
+57
+00:03:52,880 --> 00:03:55,440
+que de regarder M. Hawking
+et de lui dire ”action".
+
+58
+00:04:03,439 --> 00:04:05,430
+Stephen a de l‘humour.
+
+59
+00:04:05,600 --> 00:04:07,909
+On a dela chance qu'il en ait.
+
+60
+00:04:08,080 --> 00:04:12,392
+La dernière saison, on a entendu
+la fanfiction d'Amy. D'où est-ce venu ?
+
+61
+00:04:14,439 --> 00:04:16,828
+On a réalisé qu'in avait beaucoup
+
+62
+00:04:17,000 --> 00:04:20,231
+de fanfiction de The Big Bang Theory.
+
+63
+00:04:20,399 --> 00:04:24,187
+Un jour, avec les scénaristes,
+on en alu quelques—unes.
+
+64
+00:04:24,519 --> 00:04:25,747
+Est-ce qu'il va y avoir
+
+65
+00:04:25,920 --> 00:04:28,229
+une fanfiction pour Koothrappali ?
+
+66
+00:04:28,440 --> 00:04:29,998
+Ne serait-ce pas formidable ?
+
+67
+00:04:32,039 --> 00:04:36,237
+Je crois que c‘est une question
+pour celle qui joue Amy.
+
+68
+00:04:37,520 --> 00:04:39,556
+Tu veux le lui demander ?
+Mayim, tu veux
+
+69
+00:04:39,720 --> 00:04:41,233
+répondre à cette question ?
+
+70
+00:04:55,359 --> 00:04:57,350
+Mayim Bialik, mesdames et messieurs.
+
+71
+00:04:57,560 --> 00:04:58,879
+Surprise !
+
+72
+00:05:03,280 --> 00:05:07,956
+Puisque tu abordés
+le sujet de ta fanfiction,
+
+73
+00:05:08,120 --> 00:05:10,873
+les scénaristes et moi,
+on s‘est permis
+
+74
+00:05:11,039 --> 00:05:14,315
+d'en écrire une sur Koothrappali et Amy.
+
+75
+00:05:14,479 --> 00:05:16,276
+Et je l'ai apportée.
+
+76
+00:05:16,440 --> 00:05:19,796
+Si vous voulez bien la lire.
+
+77
+00:05:20,799 --> 00:05:21,948
+Partagez le micro.
+
+78
+00:05:22,120 --> 00:05:24,680
+- On le fait tous les deux debout ?
+- Oui.
+
+79
+00:05:26,199 --> 00:05:28,110
+- Vous entendez bien ?
+- Oui ?
+
+80
+00:05:28,280 --> 00:05:30,714
+- Vous entendez bien ?
+- Oui.
+
+81
+00:05:31,319 --> 00:05:32,593
+Parle dans le micro,
+
+82
+00:05:32,759 --> 00:05:34,954
+- il y a beaucoup de monde.
+- Oui.
+
+83
+00:05:37,279 --> 00:05:39,554
+Laissez—moi me préparer une seconde.
+
+84
+00:05:42,960 --> 00:05:47,715
+"Amy regarda Koothrappali qui observait
+les étoiles avec son télescope.
+
+85
+00:05:48,440 --> 00:05:53,594
+À ses yeux, il n‘avait toujours été qu'un
+ami, mais quelque chose avait changé.
+
+86
+00:05:55,200 --> 00:05:57,919
+Elle avait consacré sa vie
+à l‘étude du cerveau,
+
+87
+00:05:58,080 --> 00:06:02,312
+mais elle avait un pressentiment
+ce soir—là, ce gourou de l‘amour
+
+88
+00:06:04,280 --> 00:06:07,317
+allait lui donner une leçon
+sur un autre organe.
+
+89
+00:06:14,239 --> 00:06:19,267
+II leva les yeux vers elle,
+croisa son regard plein de désir et dit:
+
+90
+00:06:20,559 --> 00:06:22,993
+'As-tu déjà lu
+Cinquante nuances de Grey ?
+
+91
+00:06:24,759 --> 00:06:28,274
+Je vais te faire découvrir
+cinquante nuances de marron.‘
+
+92
+00:06:40,320 --> 00:06:43,630
+Amy répondit :
+'Ça n‘a pas de sens.
+
+93
+00:06:43,799 --> 00:06:46,108
+Grey est le nom du personnage principal.‘
+
+94
+00:06:47,959 --> 00:06:50,427
+Koothrappali Ia rapprocha
+de lui et dit :
+
+95
+00:06:51,639 --> 00:06:56,474
+'Ce pinaillage sémantique
+te vaudra une bonne fessée.‘
+
+96
+00:07:07,880 --> 00:07:09,916
+'Oh, mon Dieu.
+
+97
+00:07:11,760 --> 00:07:15,958
+Alors, je devrais te faire remarquer
+que 'sémantique' n‘est pas le bon mot,
+
+98
+00:07:16,120 --> 00:07:18,714
+espèce de sex—machine du tiers-monde.‘
+
+99
+00:07:21,119 --> 00:07:23,235
+II murmura dans son oreille:
+
+100
+00:07:24,200 --> 00:07:26,031
+‘Oublie Shamy.
+
+101
+00:07:26,200 --> 00:07:31,194
+Ce soir, nous serons une masse suante
+et enchevêtrée de Koothrapamy.‘
+
+102
+00:07:37,680 --> 00:07:42,310
+À ce moment, Amy se demanda
+ce qui lui avait plu en Koothrappali.
+
+103
+00:07:45,040 --> 00:07:47,508
+Elie savait avec qui elle devait être.
+
+104
+00:07:47,680 --> 00:07:51,912
+Le plus sexy de tous,
+les auteurs de sitcoms."
+
+105
+00:07:55,880 --> 00:07:57,677
+C‘est super.
+
+106
+00:08:03,559 --> 00:08:05,038
+Oh, la vache.
+
+107
+00:08:06,439 --> 00:08:09,715
+Il nous faut une question
+du public. Je transpire.
+
+108
+00:08:10,239 --> 00:08:14,357
+QUAND SHELDON COMPTE-T-IL DONNER
+À AMY SA BAGUE DE FIANÇAILLES ?
+
+109
+00:08:14,519 --> 00:08:18,671
+Je ne crois pas qu'on veuille
+vous répondre pour l'instant,
+
+110
+00:08:18,879 --> 00:08:24,397
+mais la réponse sera
+dans le premier épisode dela saison 9.
+
+111
+00:08:24,559 --> 00:08:25,674
+C‘est vrai ?
+
+112
+00:08:27,919 --> 00:08:30,069
+Une réponse partielle.
+
+113
+00:08:31,200 --> 00:08:33,794
+Honnêtement, nous les acteurs,
+
+114
+00:08:33,960 --> 00:08:37,191
+on ne reçoit les scénarios
+que la Vieille au soir.
+
+115
+00:08:37,359 --> 00:08:39,793
+Le mardi soir, on tourne
+devant un public,
+
+116
+00:08:39,960 --> 00:08:43,191
+et on reçoit le scénario
+qu'on commence à travailler le mercredi.
+
+117
+00:08:43,359 --> 00:08:45,589
+C‘est très excitant.
+Et pour être honnête,
+
+118
+00:08:45,799 --> 00:08:49,189
+même après neuf ans,
+le mardi soir, c‘est toujours Noël.
+
+119
+00:08:49,360 --> 00:08:51,237
+On ouvre le scénario,
+
+120
+00:08:51,399 --> 00:08:55,312
+et pour les premières saisons,
+je me demandais combien de scènes j'avais,
+
+121
+00:08:55,480 --> 00:08:59,234
+mais maintenant, je me demande
+ce qui va se passer dans l‘histoire.
+
+122
+00:08:59,400 --> 00:09:01,595
+Ça montre l‘évolution des personnages
+
+123
+00:09:01,800 --> 00:09:04,030
+- et le talent de ces auteurs.
+- Merci.
+
+124
+00:09:06,480 --> 00:09:09,472
+QUELLES SONT LES PLUS GRANDES
+DIFFICULTÉS DE L'ÉCRITURE ?
+
+125
+00:09:10,680 --> 00:09:14,036
+Parfois, le déjeuner est en retard.
+C‘est affreux.
+
+126
+00:09:15,399 --> 00:09:18,835
+Le plus difficile, ce sont les épisodes
+
+127
+00:09:18,999 --> 00:09:22,594
+qui comportent des moments
+dramatiques importants.
+
+128
+00:09:22,799 --> 00:09:26,394
+Comme quand Sheldon dit à Amy
+qu'il l'aime pour la première fois.
+
+129
+00:09:26,560 --> 00:09:30,678
+Ces personnages nous tiennent à cœur,
+
+130
+00:09:30,879 --> 00:09:34,349
+et c‘est très important pour nous
+de bien gérer ces moments—là.
+
+131
+00:09:38,160 --> 00:09:41,232
+C‘est ce genre de scènes
+
+132
+00:09:41,399 --> 00:09:44,038
+qui nous stresse le plus.
+
+133
+00:09:44,200 --> 00:09:46,191
+Les scènes comiques sont aussi difficiles.
+
+134
+00:09:46,360 --> 00:09:49,272
+On veut que nos personnages
+soient audacieux et drôles,
+
+135
+00:09:49,439 --> 00:09:52,351
+mais il faut qu'on reste raisonnable.
+
+136
+00:09:52,519 --> 00:09:56,956
+II faut montrer que le moment
+est logique dans la progression.
+
+137
+00:09:57,120 --> 00:09:58,712
+Ça peut être difficile.
+
+138
+00:09:58,919 --> 00:10:01,513
+Si c‘est mal fait,
+les personnages semblent juste fous.
+
+139
+00:10:01,680 --> 00:10:03,159
+J'ai une question pour vous.
+
+140
+00:10:03,319 --> 00:10:08,234
+Quand vous travaillez sur des blagues,
+vous imitez les personnages ?
+
+141
+00:10:08,400 --> 00:10:10,516
+- Comme ton accent ?
+- Oui.
+
+142
+00:10:10,680 --> 00:10:12,432
+- Juste pour toi.
+- C‘est vrai ?
+
+143
+00:10:12,600 --> 00:10:14,079
+C‘est vrai. Juste pour toi.
+
+144
+00:10:14,240 --> 00:10:16,435
+Bill le fait.
+Il fait bien l'accent indien.
+
+145
+00:10:16,600 --> 00:10:18,875
+- Vous imitez l‘accent, alors ?
+- Bien sûr.
+
+146
+00:10:19,040 --> 00:10:21,349
+Comme ça,
+nous "safons" comment ça sonne.
+
+147
+00:10:24,719 --> 00:10:27,358
+Merci, Arnold Schwarzenegger.
+
+148
+00:10:29,200 --> 00:10:30,189
+Pas mal.
+
+149
+00:10:30,480 --> 00:10:35,156
+AVEZ—VOUS DES ANECDOTES SUR LES STARS
+QUI ONT FAIT DES APPARITIONS ?
+
+150
+00:10:35,319 --> 00:10:38,709
+Kevin Smith est venu cette saison.
+
+151
+00:10:40,199 --> 00:10:43,669
+Il devait venir faire une répétition,
+
+152
+00:10:44,999 --> 00:10:47,832
+et ce matin—lè, mon assistante m‘a dit
+
+153
+00:10:47,999 --> 00:10:52,038
+que Kevin voulait savoir
+s'il pouvait venir avec un ami.
+
+154
+00:10:52,199 --> 00:10:53,632
+J'ai demandé qui c'était.
+
+155
+00:10:53,839 --> 00:10:56,637
+Elle m‘a dit
+que c‘était un certain Jay.
+
+156
+00:10:56,839 --> 00:11:00,036
+Je me suis précipité
+dans le couloir, etj'ai dit:
+
+157
+00:11:00,200 --> 00:11:03,556
+"Mon Dieu ! Bob Vient avec Jay !"
+
+158
+00:11:03,720 --> 00:11:05,119
+Soit tu savais
+
+159
+00:11:05,279 --> 00:11:08,669
+ce que ça signifiait, et tu pétais
+un plomb, soit tu t'en fichais.
+
+160
+00:11:08,879 --> 00:11:12,155
+- Toi, tu étais super excitée.
+-J'ai pété un plomb.
+
+161
+00:11:12,319 --> 00:11:14,514
+Je me souviens
+
+162
+00:11:14,680 --> 00:11:17,194
+quand Billy Bob est venu.
+
+163
+00:11:17,360 --> 00:11:19,351
+On était tous là,
+le premierjour des répétés,
+
+164
+00:11:19,519 --> 00:11:23,512
+et on était nerveux.
+Il était nerveux aussi.
+
+165
+00:11:23,679 --> 00:11:25,397
+II s‘est arrêté
+au milieu dela scéne.
+
+166
+00:11:25,560 --> 00:11:28,358
+II a dit :
+”Je n'en reviens pas d'être ici."
+
+167
+00:11:28,520 --> 00:11:30,431
+Sa mère adorait la série,
+
+168
+00:11:30,600 --> 00:11:32,909
+et elle l‘avait rendu accro.
+
+169
+00:11:33,080 --> 00:11:35,913
+II avait une scène avec Simon et moi.
+
+170
+00:11:36,080 --> 00:11:40,039
+Il n'en revenait pas, et nous non plus.
+
+171
+00:11:42,040 --> 00:11:44,793
+C‘était super sympa.
+
+172
+00:11:44,999 --> 00:11:48,878
+Billy Bob Thornton était
+l'un des plus sympas qu'on ait eus.
+
+173
+00:11:49,079 --> 00:11:50,831
+II a bossé très dur.
+
+174
+00:11:51,040 --> 00:11:53,110
+Après le tournage, le mardi soir,
+
+175
+00:11:53,279 --> 00:11:56,351
+on reste pour des pizzas
+et des bières en coulisses.
+
+176
+00:11:56,519 --> 00:11:59,192
+Les amis viennent,
+on rencontre des gens.
+
+177
+00:11:59,360 --> 00:12:03,433
+Billy Bob est resté jusqu‘à la fermeture.
+
+178
+00:12:03,600 --> 00:12:07,434
+Jusqu‘à ce qu‘ils rallument tout.
+
+179
+00:12:07,600 --> 00:12:11,229
+- On a eu Nathan Fillion aussi.
+- Ah, oui.
+
+180
+00:12:11,400 --> 00:12:12,674
+II est sexy.
+
+181
+00:12:14,120 --> 00:12:17,669
+J‘avais déjà rencontré Nathan Fillion
+à une soirée après les Golden Globes.
+
+182
+00:12:17,839 --> 00:12:21,627
+Il était tard,
+et je me sentais courageuse.
+
+183
+00:12:21,800 --> 00:12:23,836
+J‘étais tellement...
+
+184
+00:12:24,040 --> 00:12:27,237
+Je lui ai dit : ”Nathan Fillion !
+Firefly était génial.
+
+185
+00:12:28,879 --> 00:12:31,552
+Quand je serai millionnaire,
+je rachèterai la série,
+
+186
+00:12:31,719 --> 00:12:33,596
+et je réaliserai nos rêves.
+
+187
+00:12:40,439 --> 00:12:42,430
+II a été adorable.
+Mais il est venu sur la série,
+
+188
+00:12:42,600 --> 00:12:44,591
+et je suis allée le voir:
+”Bonjour.
+
+189
+00:12:44,759 --> 00:12:47,034
+Ravie de vous rencontrer
+pour la première fois."
+
+190
+00:12:50,040 --> 00:12:52,998
+Les Stars vous oublient
+après vous avoir rencontré.
+
+191
+00:12:53,160 --> 00:12:54,957
+Alors, ça n‘a pas d‘importance.
+
+192
+00:12:55,120 --> 00:12:56,473
+C‘est ce qu‘ils disent.
+
+193
+00:12:58,360 --> 00:13:01,033
+On a tourné un épisode
+
+194
+00:13:01,600 --> 00:13:05,513
+pour lequel il a fallu tourner
+une fin différente.
+
+195
+00:13:05,680 --> 00:13:07,238
+L‘épisode où Jim et Johnny
+
+196
+00:13:09,240 --> 00:13:12,835
+se retrouvent au Skywalker Ranch.
+
+197
+00:13:13,599 --> 00:13:17,148
+On a dû tourner une autre fin
+une semaine plus tard.
+
+198
+00:13:17,319 --> 00:13:19,674
+Vous voulez en parler ?
+C‘est intéressant.
+
+199
+00:13:19,840 --> 00:13:22,070
+- La fin qu'on n‘a pas diffusée ?
+- Oui.
+
+200
+00:13:22,240 --> 00:13:25,277
+Je ne fais que lire
+le papier que vous m'avez donné.
+
+201
+00:13:37,319 --> 00:13:38,388
+Désolé.
+
+202
+00:13:39,480 --> 00:13:42,677
+Si vous ne me voyez pas l‘année prochaine,
+vous saurez pourquoi.
+
+203
+00:13:46,240 --> 00:13:49,789
+Dans la première version,
+on découvre à la fin
+
+204
+00:13:49,959 --> 00:13:53,554
+que Sheldon a volé
+un sabre laser au ranch.
+
+205
+00:13:56,399 --> 00:13:58,310
+Ça me perturbait beaucoup.
+
+206
+00:13:58,480 --> 00:14:03,713
+Le personnage ne pouvait pas
+commettre ce qui constitue un crime.
+
+207
+00:14:03,879 --> 00:14:06,598
+II avait volé un objet de valeur.
+
+208
+00:14:06,760 --> 00:14:09,228
+On est revenus dessus
+une semaine plus tard.
+
+209
+00:14:09,399 --> 00:14:11,230
+Je ne me souviens plus de l‘autre fin.
+
+210
+00:14:11,400 --> 00:14:15,678
+Mais Sheldon ne pouvait pas
+devenir un criminel,
+
+211
+00:14:15,840 --> 00:14:19,753
+pas tant que je travaille sur la série.
+
+212
+00:14:19,920 --> 00:14:22,673
+II est inconcevable qu'il puisse
+commettre un tel crime.
+
+213
+00:14:22,840 --> 00:14:24,956
+C‘est comme ça
+qu'on a changé la fin.
+
+214
+00:14:25,160 --> 00:14:27,037
+Vous vous souvenez
+de l‘autre fin ?
+
+215
+00:14:27,240 --> 00:14:30,710
+II avait perdu l'odorat
+à cause du taser,
+
+216
+00:14:30,879 --> 00:14:34,758
+et Léonard lui faisait sentir
+des feutres pour voir s'il le retrouvait.
+
+217
+00:14:34,919 --> 00:14:36,910
+J'ai une question.
+
+218
+00:14:37,080 --> 00:14:42,074
+Quand Sheldon voie
+la pellicule d'lndiana Jones
+
+219
+00:14:42,280 --> 00:14:45,477
+dans un cinéma,
+ce n‘était pas un crime ?
+
+220
+00:14:45,639 --> 00:14:47,869
+Il va falloir réécrire ça aussi.
+
+221
+00:14:50,240 --> 00:14:54,233
+Mayim, j'ai une question perso,
+que tout le monde se pose.
+
+222
+00:14:55,200 --> 00:15:00,991
+Ça fait quoi d‘embrasser
+Jim Parsons sur The Big Bang Theory ?
+
+223
+00:15:04,399 --> 00:15:07,709
+C'est... Enfin...
+
+224
+00:15:08,239 --> 00:15:11,709
+Ça fait bizarre de l'évaluer, genre :
+”c‘était super."
+
+225
+00:15:13,720 --> 00:15:15,711
+- Ils veulent des détails.
+- Oui.
+
+226
+00:15:15,879 --> 00:15:17,437
+Des détails.
+
+227
+00:15:17,600 --> 00:15:20,433
+On ne veut pas
+une réponse philosophique.
+
+228
+00:15:20,999 --> 00:15:23,388
+Eh bien, c‘est ce que vous aurez.
+
+229
+00:15:23,560 --> 00:15:28,031
+Quand Sheldon et Amy ont un moment
+intime, c‘est très Spécifique.
+
+230
+00:15:31,879 --> 00:15:33,517
+C‘est très délicat.
+
+231
+00:15:33,680 --> 00:15:38,629
+Cette scène entre nous
+qui commence par un baiser,
+
+232
+00:15:38,800 --> 00:15:41,314
+même Jim et moi avions
+une drôle d‘impression,
+
+233
+00:15:41,479 --> 00:15:45,313
+car nos baisers n‘ont jamais été
+très passionnés.
+
+234
+00:15:45,480 --> 00:15:50,474
+On sait tous les deux embrasser
+différemment de nos personnages,
+
+235
+00:15:50,639 --> 00:15:54,029
+mais je me souviens qu'avec
+Mark Cendrowski, notre réalisateur,
+
+236
+00:15:54,240 --> 00:15:56,435
+on avait essayé différentes façons.
+
+237
+00:15:58,479 --> 00:16:00,231
+- Non, pas ça.
+- De rien, public.
+
+238
+00:16:00,399 --> 00:16:02,230
+Mon Dieu.
+
+239
+00:16:02,520 --> 00:16:05,398
+À un moment,
+j‘avais la main sur son épaule,
+
+240
+00:16:05,560 --> 00:16:07,869
+et Mark voulait que je bouge un peu,
+
+241
+00:16:08,040 --> 00:16:09,951
+mais plutôt maladroitement.
+
+242
+00:16:10,160 --> 00:16:13,914
+Pour Jim et moi,
+tous ces gestes intimes,
+
+243
+00:16:14,079 --> 00:16:16,832
+et aussi celui—cl, sont très réfléchis.
+
+244
+00:16:16,999 --> 00:16:18,955
+On ne prend pas ça à la légère.
+
+245
+00:16:19,160 --> 00:16:20,798
+Avec la langue ou sans ?
+
+246
+00:16:22,759 --> 00:16:25,034
+Pour des personnages
+qui ne se sont pas embrassés,
+
+247
+00:16:25,240 --> 00:16:26,832
+il te fessait beaucoup.
+
+248
+00:16:28,240 --> 00:16:32,199
+- C‘est sur ton papier, ça ?
+- Non. Là-dedans.
+
+249
+00:16:32,560 --> 00:16:36,394
+C‘est très sympa de pouvoir
+regarder les autres jouer leurs scènes,
+
+250
+00:16:36,560 --> 00:16:38,790
+parce qu'on est tellement fans
+les uns des autres.
+
+251
+00:16:38,959 --> 00:16:42,156
+En ce qui me concerne,
+Mayim et Jim sont
+
+252
+00:16:42,319 --> 00:16:45,311
+des amis très proches dans la Vie,
+
+253
+00:16:45,479 --> 00:16:47,435
+mais leurs scènes sont électriques.
+
+254
+00:16:47,599 --> 00:16:50,909
+Même en répétition,
+on regarde leurs scènes.
+
+255
+00:16:51,080 --> 00:16:53,833
+On devient fan.
+C‘est super de les regarder.
+
+256
+00:16:53,999 --> 00:16:56,593
+Mayim, Jim et toi...
+Ce n‘est pas une blague.
+
+257
+00:16:56,759 --> 00:17:00,434
+Vous avez un cheminement particulier
+qui est intéressant à regarder.
+
+258
+00:17:00,600 --> 00:17:03,512
+Tu peux nous parler de votre approché,
+
+259
+00:17:03,680 --> 00:17:05,716
+et de comment vous décidez
+de jouer une scène ?
+
+260
+00:17:05,880 --> 00:17:08,030
+Oui. Ce qui est intéressant,
+
+261
+00:17:08,240 --> 00:17:11,550
+c‘est que Jim a reçu une formation
+classique, mais pas moi.
+
+262
+00:17:11,719 --> 00:17:13,391
+Ce qui est sympa,
+
+263
+00:17:13,559 --> 00:17:15,868
+c‘est qu'on a une approche très Similaire
+
+264
+00:17:16,039 --> 00:17:18,348
+des scènes et du travail.
+
+265
+00:17:18,520 --> 00:17:21,876
+Nous travaillons bien ensemble,
+et c‘est très important,
+
+266
+00:17:22,039 --> 00:17:24,155
+surtout, comme l‘a dit Steve,
+
+267
+00:17:24,319 --> 00:17:27,675
+quand il s'agit de moments
+délicats pour Sheldon,
+
+268
+00:17:27,839 --> 00:17:30,990
+et Amy aussi, son alter ego.
+
+269
+00:17:31,199 --> 00:17:33,997
+Jim et moi sommes très méticuleux.
+
+270
+00:17:34,199 --> 00:17:35,234
+On parle beaucoup.
+
+271
+00:17:35,400 --> 00:17:38,551
+Certains acteurs communiquent peu,
+et c‘est leur approche,
+
+272
+00:17:38,719 --> 00:17:40,596
+mais Jim et moi parlons beaucoup.
+
+273
+00:17:40,759 --> 00:17:43,512
+On se pose des questions
+sur les choix des scénaristes.
+
+274
+00:17:43,679 --> 00:17:47,308
+On se demande si on est prêts
+pour telle ou telle chose,
+
+275
+00:17:47,479 --> 00:17:48,514
+si on s‘y attendait.
+
+276
+00:17:48,679 --> 00:17:51,318
+Quand Sheldon dit à Amy qu'il l‘aime,
+
+277
+00:17:51,480 --> 00:17:53,994
+on était très surpris d'en être là.
+
+278
+00:17:54,199 --> 00:17:56,235
+Pour la bague aussi.
+On parle de tout ça.
+
+279
+00:17:56,400 --> 00:18:00,234
+Ça ajoute de la complexité
+aux interactions entre les personnages,
+
+280
+00:18:00,400 --> 00:18:03,039
+quand je dois lui dire
+quej'ai besoin d‘une pause,
+
+281
+00:18:03,240 --> 00:18:05,708
+on prend en compte
+toutes les discussions
+
+282
+00:18:05,880 --> 00:18:07,472
+qu'on a eues avec Jim.
+
+283
+00:18:07,640 --> 00:18:09,437
+”Est-ce que c‘est juste ou non ?"
+
+284
+00:18:09,600 --> 00:18:11,033
+Je trouve que
+
+285
+00:18:11,239 --> 00:18:14,675
+ça participe de ce qui fait marcher
+notre communication.
+
+286
+00:18:14,839 --> 00:18:18,468
+On s‘intéresse aux mêmes choses
+par rapport à nos personnages.
+
+287
+00:18:18,720 --> 00:18:22,633
+CROYEZ-VOUS QUE THE BIG BANG THEORY
+EST L'UNE DES RAISONS
+
+288
+00:18:22,799 --> 00:18:26,235
+POUR LESQUELLES LES NERDS
+SONT DEVENUS COOLS ?
+
+289
+00:18:27,039 --> 00:18:31,112
+On en parlait comme des esprits brillants
+sans schizophrénie paranoi‘de.
+
+290
+00:18:31,560 --> 00:18:35,155
+Ce qui me frappe le plus
+après avoir fréquenté
+
+291
+00:18:35,319 --> 00:18:37,913
+des gens comme ça,
+et d'être comme ça mol-mémé,
+
+292
+00:18:38,120 --> 00:18:40,759
+c‘est la célébration de la différence.
+
+293
+00:18:41,119 --> 00:18:45,237
+Sa reconnaissance et sa célébration.
+
+294
+00:18:45,400 --> 00:18:50,952
+On en a parlé,
+ces personnages célèbrent ce qu‘ils sont.
+
+295
+00:18:51,159 --> 00:18:54,276
+On me parle souvent de ça.
+
+296
+00:18:55,760 --> 00:18:58,752
+II y a l'idée de ”geek chic",
+
+297
+00:18:58,919 --> 00:19:02,036
+que notre Série aurait
+quelque chose à voir avec ça.
+
+298
+00:19:02,200 --> 00:19:06,113
+On montre des gens très différents
+qui peuvent Vivre pleinement,
+
+299
+00:19:06,279 --> 00:19:07,678
+avoir des relations, des amis,
+
+300
+00:19:07,839 --> 00:19:10,717
+et qu'on n‘a pas besoin
+de pathologiser qui que ce soit.
+
+301
+00:19:10,880 --> 00:19:14,589
+Mais on montre aussi qu'on peut
+se sentir seul quand on est différent.
+
+302
+00:19:14,760 --> 00:19:16,478
+Certains de mes moments préférés
+
+303
+00:19:16,640 --> 00:19:20,269
+sont ces moments de solitude
+que traverse Sheldon.
+
+304
+00:19:20,439 --> 00:19:23,749
+On me dit qu'on rend les nerds cools,
+
+305
+00:19:23,919 --> 00:19:26,752
+mais c‘est difficile d'être différent,
+surtout pour les jeunes.
+
+306
+00:19:26,919 --> 00:19:30,594
+Quand on n‘est pas en phase avec
+la culture populaire, on se sent seul.
+
+307
+00:19:30,760 --> 00:19:32,716
+J‘adore quand Sheldon exprime ça.
+
+308
+00:19:32,880 --> 00:19:36,429
+II ne comprend pas certaines
+interactions, et il en souffre.
+
+309
+00:19:36,599 --> 00:19:39,671
+C‘est la beauté
+de ce que font nos auteurs.
+
+310
+00:19:39,840 --> 00:19:41,558
+Ils montrent tous ces aspects.
+
+311
+00:19:44,760 --> 00:19:45,829
+Bien dit.
+
+312
+00:19:46,159 --> 00:19:50,437
+COMMENT SHELDON RÉAGIRAlT-IL
+À CETTE AFFIRMATION :
+
+313
+00:19:50,600 --> 00:19:51,999
+"SUPERMAN QUI SE BAT CONTRE THOR,
+
+314
+00:19:52,159 --> 00:19:54,514
+C‘EST COMME ET.
+QUI SE BAT CONTRE JESUS" ?
+
+315
+00:19:55,800 --> 00:19:57,791
+- Quoi ?
+- Mon Dieu !
+
+316
+00:19:57,960 --> 00:19:59,029
+Laissons parler Mayim.
+
+317
+00:19:59,199 --> 00:20:02,157
+- Je ne la prends pas, celle—lè.
+- Donnez-Ia à Mayim.
+
+318
+00:20:02,320 --> 00:20:04,914
+Pourquoi E.T. et Jésus se battraient-ils ?
+
+319
+00:20:06,600 --> 00:20:09,956
+Ne seraient—lis pas
+sur la même longueur d'onde ?
+
+320
+00:20:12,360 --> 00:20:15,716
+La magie peut vaincre Superman.
+
+321
+00:20:15,880 --> 00:20:20,590
+Les pouvoirs divins ne sont—ils pas
+dans la catégorie ”magie" ?
+
+322
+00:20:22,600 --> 00:20:23,919
+Si.
+
+323
+00:20:24,120 --> 00:20:25,269
+On vous rappellera.
+
+324
+00:20:25,439 --> 00:20:26,713
+Et quand Thor...
+
+325
+00:20:26,880 --> 00:20:29,633
+Historiquement,
+quand Thor s‘est battu contre Jésus...
+
+326
+00:20:31,600 --> 00:20:32,919
+II a perdu.
+
+327
+00:20:33,120 --> 00:20:37,193
+L'Europe du nord s‘est convertie
+au christianisme.
+
+328
+00:20:38,359 --> 00:20:39,394
+C‘est ça.
+
+329
+00:20:39,640 --> 00:20:42,837
+POURQUOI SHELDON DÉTESTE-T-IL
+LES INGENIEURS ?
+
+330
+00:20:45,360 --> 00:20:47,430
+Laisse répondre Saladin.
+
+331
+00:20:47,599 --> 00:20:49,635
+Saladin est notre ingénieur.
+
+332
+00:20:49,800 --> 00:20:51,313
+Pourquoi les ingénieurs
+sont les méchants ?
+
+333
+00:20:51,479 --> 00:20:52,468
+Oui.
+
+334
+00:20:52,640 --> 00:20:55,154
+Il déteste ce qu'il ne comprend pas.
+
+335
+00:20:59,679 --> 00:21:02,557
+Je croyais que c‘était
+parce que Sheldon aime la science.
+
+336
+00:21:05,600 --> 00:21:07,113
+Baston !
+
+337
+00:21:08,919 --> 00:21:11,433
+J'ai une question...
+Ce n‘est même pas une question.
+
+338
+00:21:11,600 --> 00:21:15,388
+Ce serait sympa d‘évoquer ce qu'on fait
+avec l'Université de Californie (UCLA).
+
+339
+00:21:15,559 --> 00:21:18,437
+Chuck, si tu voulais bien en parler,
+ce serait sympa.
+
+340
+00:21:18,600 --> 00:21:20,750
+On a lancé une bourse
+
+341
+00:21:20,919 --> 00:21:26,312
+pour les jeunes qui étudient
+les STEM à UCLA.
+
+342
+00:21:26,480 --> 00:21:28,277
+Tu veux bien dire
+ce que sont les STEM ?
+
+343
+00:21:28,440 --> 00:21:31,159
+Science, technologie,
+ingénierie et maths.
+
+344
+00:21:31,320 --> 00:21:34,756
+On a lancé ça il y a deux ans.
+
+345
+00:21:34,919 --> 00:21:40,869
+On avait remarqué
+qu‘aux États-Unis et en Angleterre
+
+346
+00:21:41,079 --> 00:21:44,276
+plus de jeunes s‘orientaient
+vers les sciences,
+
+347
+00:21:44,440 --> 00:21:48,069
+et c‘était en partie
+parce qu‘ils regardaient la série.
+
+348
+00:21:48,839 --> 00:21:50,750
+C‘était incroyable.
+
+349
+00:21:51,520 --> 00:21:54,592
+II y a 10 ans, quand j'ai commencé
+à écrire dans ma cuisine,
+
+350
+00:21:55,759 --> 00:21:59,752
+je n'aurais jamais imaginé
+qu'on influencerait des choix de Vie.
+
+351
+00:22:00,680 --> 00:22:05,515
+C‘est la suite logique de les aider.
+
+352
+00:22:06,719 --> 00:22:10,234
+On a un fond d'un peu plus
+
+353
+00:22:10,400 --> 00:22:11,799
+- de 4 millions.
+-Oui.
+
+354
+00:22:13,120 --> 00:22:14,235
+Combien...
+
+355
+00:22:14,400 --> 00:22:16,038
+Pour cette rentrée à UCLA,
+
+356
+00:22:16,240 --> 00:22:21,268
+il y a 20 boursiers
+dans notre programme.
+
+357
+00:22:21,439 --> 00:22:24,272
+On a passé un peu de temps avec eux.
+
+358
+00:22:24,440 --> 00:22:29,434
+Si on fait bien les choses,
+ça devrait continuer très longtemps.
+
+359
+00:22:29,600 --> 00:22:31,113
+- Alors, on continue.
+- Oui.
+
+360
+00:22:34,359 --> 00:22:39,513
+POURQUOI AMY A-T-ELLE ÉVOLUÉ PLUS
+V|TE QUE SHELDON ÉMOTIONNELLEMENT ?
+
+361
+00:22:39,679 --> 00:22:44,389
+C‘était quelque chose
+qu‘Amy désirait vraiment.
+
+362
+00:22:44,560 --> 00:22:47,632
+Elle n‘avait pas d‘amis,
+pas de Penny, pas de Bernadette.
+
+363
+00:22:47,799 --> 00:22:52,395
+Et après une vie de solitude
+et de manque affectif,
+
+364
+00:22:52,560 --> 00:22:56,758
+elle avait enfin accès à quelqu'un
+qui pouvait la sortir delà.
+
+365
+00:22:56,919 --> 00:22:59,479
+D'où le désir d‘avoir un compagnon,
+
+366
+00:22:59,640 --> 00:23:01,517
+et le reste a suivi.
+
+367
+00:23:01,680 --> 00:23:03,671
+Tous les personnages dela Série
+
+368
+00:23:03,840 --> 00:23:07,628
+ont évolué,
+tout comme Sheldon et Amy.
+
+369
+00:23:10,039 --> 00:23:12,314
+Je crois que Sheldon avait
+vraiment besoin
+
+370
+00:23:12,479 --> 00:23:16,267
+d‘une raison, une personne
+spécifique ou un événement,
+
+371
+00:23:16,439 --> 00:23:21,069
+pour donner lieu à une réaction
+catalytique dans son existence.
+
+372
+00:23:21,279 --> 00:23:23,110
+Mais, oui.
+C‘est exactement ça.
+
+373
+00:23:23,319 --> 00:23:28,518
+Amy voulait quelque chose
+de plus qu‘elle-même dans sa Vie.
+
+374
+00:23:28,679 --> 00:23:31,113
+- Et ça lui est venu vite.
+- Oui.
+
+375
+00:23:31,319 --> 00:23:33,674
+Ça a pris beaucoup plus
+de temps pour Sheldon.
+
+376
+00:23:33,960 --> 00:23:38,795
+SAVIEZ-VOUS DÈS LE DÉBUT COMMENT
+LES PERSONNAGES ÉVOLUERAIENT ?
+
+377
+00:23:38,959 --> 00:23:41,393
+On ne savait pas du tout
+où on allait.
+
+378
+00:23:41,560 --> 00:23:45,314
+On n'en avait aucune idée, et je crois
+que c‘est de notoriété publique
+
+379
+00:23:45,480 --> 00:23:50,679
+que notre premier essai
+était complètement raté.
+
+380
+00:23:51,919 --> 00:23:55,707
+On a eu dela chance
+de pouvoir le refaire.
+
+381
+00:23:55,880 --> 00:23:58,474
+La majorité ici sait
+à quoi Chuck fait allusion.
+
+382
+00:23:58,640 --> 00:24:03,077
+Il parle du premier pilote dela Série
+qui n‘ajamais été diffusé,
+
+383
+00:24:03,280 --> 00:24:06,955
+mais ils ont eu une seconde chance.
+
+384
+00:24:07,120 --> 00:24:08,439
+D‘après toi, Kunal,
+
+385
+00:24:08,600 --> 00:24:11,353
+quel était le plus gros problème
+dela première version ?
+
+386
+00:24:11,520 --> 00:24:14,751
+Simon, Kaley et moi n'étions pas dedans.
+
+387
+00:24:16,840 --> 00:24:17,955
+II a raison.
+
+388
+00:24:18,880 --> 00:24:23,032
+COMMENT LE JEU "PIERRE, PAPIER, CISEAUX,
+LÉZARD, SPOCK" VOUS EST-IL VENU ?
+
+389
+00:24:23,240 --> 00:24:26,073
+C‘était l‘invention géniale
+d'un homme nommé Sam Kass,
+
+390
+00:24:26,279 --> 00:24:29,316
+un programmeur qui l‘avait mis en ligne.
+
+391
+00:24:29,480 --> 00:24:33,837
+Quand on l‘a utilisé la première fois,
+
+392
+00:24:34,000 --> 00:24:37,117
+l‘hommage à Sam avait été coupé.
+
+393
+00:24:37,319 --> 00:24:39,628
+On a fait en sorte
+de le citer une autre fois
+
+394
+00:24:39,800 --> 00:24:41,552
+en faisant dire au personnage :
+
+395
+00:24:41,719 --> 00:24:43,277
+- "Saluons Sam Kass"...
+- Oui.
+
+396
+00:24:43,439 --> 00:24:49,036
+afin de le remercier
+pour ce super cadeau trouvé sur le net.
+
+397
+00:24:49,240 --> 00:24:52,550
+- Et Jim l‘a appris.
+- J‘étais dans la scène avec Jim.
+
+398
+00:24:52,720 --> 00:24:54,073
+J‘étais dans cette scène.
+
+399
+00:24:54,559 --> 00:24:57,790
+On n‘a pas fait plus de quatre prises.
+
+400
+00:24:57,960 --> 00:24:59,359
+Jim est un génie.
+
+401
+00:25:00,560 --> 00:25:03,313
+Jim est très bon pour mémoriser
+ces choses-là
+
+402
+00:25:03,480 --> 00:25:06,631
+par un processus
+un peu étrange et surnaturel.
+
+403
+00:25:08,119 --> 00:25:12,795
+POURQUOI UN CHAT
+DANS LA CHANSON "DOUX CHATON" ?
+
+404
+00:25:14,000 --> 00:25:16,833
+Vous voyez pourquoi
+ce n‘est pas "Douce tortue" ?
+
+405
+00:25:16,999 --> 00:25:18,034
+Y a-t-il un animal
+
+406
+00:25:18,240 --> 00:25:20,356
+- que vous auriez préféré ?
+- ”Doux porc-épic".
+
+407
+00:25:20,519 --> 00:25:23,113
+- Finissons sur cette chanson.
+- Ça devrait marcher.
+
+408
+00:25:23,320 --> 00:25:24,912
+- Qu'en pensez-vous ?
+- Oui.
+
+409
+00:25:25,080 --> 00:25:26,911
+Vous voulez chanter ”Doux chaton" ?
+
+410
+00:25:27,080 --> 00:25:28,718
+Oui!
+
+411
+00:25:28,879 --> 00:25:31,916
+- Je ne connais pas les paroles. Allez-y.
+- On les connaît.
+
+412
+00:25:32,920 --> 00:25:39,917
+Châton tout doux, minou tout chaud
+Petite boule de poils
+
+413
+00:25:40,080 --> 00:25:45,598
+Chaton farceur, chaton bonheur
+Purr, purr, purr
+
+414
+00:25:45,759 --> 00:25:48,034
+On vous adore.
+
+415
+00:25:49,000 --> 00:25:51,719
+On vous aime énormément.
+Merci.
+
+416
+00:25:53,360 --> 00:25:54,793
+Merci d'être venus.
+
+417
+00:25:54,960 --> 00:25:57,315
+Un beau week—end à tous.
+On vous aime.
+
+418
+00:26:01,720 --> 00:26:02,755
+Adaptation: Nadege Traoré
+

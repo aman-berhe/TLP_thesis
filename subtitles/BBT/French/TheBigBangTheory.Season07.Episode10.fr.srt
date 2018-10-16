@@ -1,0 +1,1449 @@
+1
+00:00:02,320 --> 00:00:04,197
+Précédemment...
+
+2
+00:00:04,400 --> 00:00:06,231
+Tu as trouvé un moyen
+
+3
+00:00:06,480 --> 00:00:09,153
+de synthétiser un nouvel élément
+super-luurd stable ?
+
+4
+00:00:09,359 --> 00:00:10,587
+Tu crois ?
+
+5
+00:00:10,999 --> 00:00:13,433
+C‘est impossible.
+Personne ne l'ajamais fait.
+
+6
+00:00:13,840 --> 00:00:15,432
+Sauf moi, carje Viens de le faire!
+
+7
+00:00:19,599 --> 00:00:21,430
+J'ai fait une terrible erreur.
+
+8
+00:00:21,679 --> 00:00:23,635
+- Que racontes—tu ?
+- Cette table.
+
+9
+00:00:23,880 --> 00:00:26,758
+Elle est en cm2.
+J'ai cru que c'était des m2.
+
+10
+00:00:26,999 --> 00:00:28,398
+Tu sais ce que ça veut dire ?
+
+11
+00:00:28,639 --> 00:00:30,595
+Le système métrique craint ?
+
+12
+00:00:33,160 --> 00:00:36,072
+Amy, j'ai fait une erreur
+avec un facteur de 10 000.
+
+13
+00:00:36,319 --> 00:00:38,275
+Mais les Chinois
+ont trouvé l'élément.
+
+14
+00:00:38,479 --> 00:00:40,947
+Ils n'auraient pas dû.
+Mes calculs étaient faux.
+
+15
+00:00:41,200 --> 00:00:44,510
+Ma plus grande découverte
+scientifique est due a une boulette.
+
+16
+00:00:44,760 --> 00:00:47,399
+Je ne suis pas un génie.
+Je suis un imposteur.
+
+17
+00:00:48,559 --> 00:00:51,756
+En neuroscience, on trouve toujours
+un truc dans une partie du cerveau,
+
+18
+00:00:52,199 --> 00:00:56,511
+- qu‘on pensait être ailleurs.
+- Super. Pire qu‘un imposteur.
+
+19
+00:00:56,720 --> 00:00:58,312
+Je suis pratiquement un biologiste.
+
+20
+00:00:59,319 --> 00:01:00,513
+et maintenant...
+
+21
+00:01:01,039 --> 00:01:02,836
+Les vendredis de la science,
+lra Flatow.
+
+22
+00:01:03,080 --> 00:01:07,949
+Mon invité a découvert le premier
+élément super—lourd stable.
+
+23
+00:01:08,200 --> 00:01:10,031
+Bonjour, Dr Sheldon Cooper.
+
+24
+00:01:10,480 --> 00:01:11,674
+Merci.
+
+25
+00:01:11,920 --> 00:01:14,514
+L'université m‘a obligé à venir.
+Je ne voulais pas.
+
+26
+00:01:16,199 --> 00:01:18,349
+Je suis un fan de l‘émission.
+
+27
+00:01:19,480 --> 00:01:23,268
+Vous avez découvert cet élément
+par erreur, je crois.
+
+28
+00:01:25,360 --> 00:01:26,998
+Oui.
+
+29
+00:01:27,439 --> 00:01:31,717
+Et certaines personnes l'appellent
+Ia "prodigieuse boulette."
+
+30
+00:01:31,960 --> 00:01:35,077
+Qui ? Donnez—moi des noms.
+Je parle que c‘est Wolowitz.
+
+31
+00:01:35,960 --> 00:01:37,632
+Cette histoire est fascinante.
+
+32
+00:01:37,879 --> 00:01:41,269
+Vos calculs sont complètement faux,
+mais ils trouvent l‘élément.
+
+33
+00:01:41,519 --> 00:01:45,637
+C‘est comme lire une carte a l'envers
+et trouver le trésor quand même.
+
+34
+00:01:46,079 --> 00:01:48,035
+Pourrait-on parler d‘autre chose ?
+
+35
+00:01:48,240 --> 00:01:49,958
+Je pousse aussi la tyrolienne.
+
+36
+00:01:52,719 --> 00:01:56,189
+Intéressant, mais cette découverte
+peut vous mener au prix Nobel.
+
+37
+00:01:56,599 --> 00:01:58,430
+Et en chimie.
+
+38
+00:01:58,640 --> 00:02:01,950
+Ce qui serait inhabituel,
+car vous êtes un physicien.
+
+39
+00:02:02,360 --> 00:02:06,148
+Je serai un physicien avec un prix
+Nobel en chimie. La risée de tous.
+
+40
+00:02:07,680 --> 00:02:09,989
+J'en ai assez de vos insinuations,
+Flatow !
+
+41
+00:02:10,960 --> 00:02:12,154
+A cause de gens comme vous,
+
+42
+00:02:12,400 --> 00:02:16,029
+chaquejour, plus d'Américains
+se tournent vers la télé.
+
+43
+00:02:41,639 --> 00:02:43,914
+Président Seibert,
+pourquoi étes-vous en colère ?
+
+44
+00:02:44,200 --> 00:02:46,270
+C‘est vous
+qui m'avez forcé à y aller.
+
+45
+00:02:46,559 --> 00:02:49,027
+Je m‘attendais
+à une interview professionnelle,
+
+46
+00:02:49,319 --> 00:02:52,436
+pas a être attaqué
+par un bouffon provocateur.
+
+47
+00:02:54,240 --> 00:02:58,358
+Si l'université a besoin d'argent,
+commencez une tirelire a gros mots.
+
+48
+00:03:00,159 --> 00:03:02,514
+Celui-ci vaut un dollar!
+
+49
+00:03:04,120 --> 00:03:08,398
+Quand tu fais une interview cela
+améliore l‘image de l'université
+
+50
+00:03:08,679 --> 00:03:09,998
+et les dons augmentent.
+
+51
+00:03:10,279 --> 00:03:13,749
+Je ne suis pas un singe
+qui danse pour faire la charité.
+
+52
+00:03:14,919 --> 00:03:17,558
+Bien sûr que non. Les gens
+aiment les singes qui dansent.
+
+53
+00:03:19,519 --> 00:03:22,158
+Tu devrais être heureux.
+Tu es grand, mince et célèbre.
+
+54
+00:03:23,040 --> 00:03:25,349
+Oh, non. Je suis jalouse de Sheldon.
+
+55
+00:03:26,680 --> 00:03:30,434
+Tu vas devoir en faire,
+il faut t'y habituer.
+
+56
+00:03:30,719 --> 00:03:32,152
+Vous ne pouvez pas comprendre.
+
+57
+00:03:32,440 --> 00:03:35,238
+Etre célèbre pour un truc
+qu'on voudrait n‘avoirjamais fait.
+
+58
+00:03:35,919 --> 00:03:38,114
+Tu ne m'as pas vue a Mardi Gras.
+
+59
+00:03:42,040 --> 00:03:43,792
+Tu veux m‘aider à nettoyer ?
+
+60
+00:03:44,159 --> 00:03:47,515
+Je nettoie, regarde le bazar
+que le Joker a mis dans Gotham City.
+
+61
+00:03:48,719 --> 00:03:50,994
+Allez, c‘est ton ami
+qui Vient dormir ici.
+
+62
+00:03:51,239 --> 00:03:54,436
+Raja grandi en Inde.
+II a vu pire que ça.
+
+63
+00:03:55,439 --> 00:03:58,636
+- Howie.
+- Promis, j‘aiderai toute la semaine.
+
+64
+00:03:58,919 --> 00:04:01,149
+Tu as dit qu'il ne restait
+qu‘une nuit ou deux!
+
+65
+00:04:01,440 --> 00:04:03,749
+- Tu aurais dit oui pour la semaine ?
+- Non !
+
+66
+00:04:04,040 --> 00:04:05,712
+Tu ne m'as pas laissé le choix.
+
+67
+00:04:07,600 --> 00:04:10,273
+J‘adore Raj, mais c‘est long une semaine.
+
+68
+00:04:10,559 --> 00:04:14,108
+Ils fumigent son immeuble et
+les hôtels ne veulent pas de chiens.
+
+69
+00:04:14,600 --> 00:04:16,511
+- Cinnamon aussi ?
+- Pour une semaine!
+
+70
+00:04:16,800 --> 00:04:18,438
+line manque pas d'air.
+
+71
+00:04:21,919 --> 00:04:25,229
+Voilà !' Express Embarras.
+
+72
+00:04:26,079 --> 00:04:28,388
+Et il s'arrête à Imposteur...
+
+73
+00:04:28,599 --> 00:04:30,555
+...Prodigieuse Boulette...
+
+74
+00:04:30,840 --> 00:04:32,831
+...et Kansas City,
+
+75
+00:04:33,560 --> 00:04:35,118
+car c‘est une plateforme.
+
+76
+00:04:37,120 --> 00:04:38,394
+Sheldon, je peux entrer ?
+
+77
+00:04:38,679 --> 00:04:39,873
+- Tu as des cookies ?
+- Non.
+
+78
+00:04:40,160 --> 00:04:42,116
+Bien, carje n'en mérite pas. Entré.
+
+79
+00:04:44,399 --> 00:04:46,754
+- Wii !
+- Salut Sheldon, ça fait un bail.
+
+80
+00:04:47,200 --> 00:04:48,155
+Que faites-vous ici ?
+
+81
+00:04:48,440 --> 00:04:51,955
+Amy a dit que vous n'alliez pas bien,
+j'ai pensé qu'on pourrait parier.
+
+82
+00:04:52,239 --> 00:04:55,436
+Certainement. Bien que maintenant
+je ne me sens pas bien,
+
+83
+00:04:55,720 --> 00:04:57,551
+car on est trois dans ma chambre.
+
+84
+00:04:57,840 --> 00:04:59,876
+On se croirait dans une discothèque.
+
+85
+00:05:01,560 --> 00:05:05,712
+Ça te gêne d'étre célèbre pour un
+truc que tu n'aurais pas voulu faire.
+
+86
+00:05:06,000 --> 00:05:07,479
+Je connais.
+
+87
+00:05:08,039 --> 00:05:12,157
+Non, vos interminables tweets
+ne sont pas si terribles.
+
+88
+00:05:14,000 --> 00:05:15,638
+Je sais pourquoi ça fait un bail.
+
+89
+00:05:16,720 --> 00:05:19,280
+Je parle de quand j‘étais gamin,
+dans Star Trek.
+
+90
+00:05:20,320 --> 00:05:22,959
+Comment pouvez-vous regretter
+avoir joué Wesley Crusher ?
+
+91
+00:05:23,239 --> 00:05:24,957
+Vous étiez formidable.
+
+92
+00:05:25,240 --> 00:05:28,312
+Un génie je-sais-tout
+avec une mémoire photographique.
+
+93
+00:05:28,599 --> 00:05:30,271
+Tout le monde s'identifie.
+
+94
+00:05:31,680 --> 00:05:34,513
+Certains ne sont pas d‘accord.
+Beaucoup Ie détestaient.
+
+95
+00:05:34,799 --> 00:05:36,790
+Et ils me détestaient
+a cause de ça.
+
+96
+00:05:37,079 --> 00:05:39,388
+Les gens étaient méchants avec moi
+en interview.
+
+97
+00:05:39,840 --> 00:05:41,558
+Ça Vient de m'arriver.
+
+98
+00:05:41,839 --> 00:05:46,435
+Quand vous bloquerez sur un tweet,
+dites-leur que Flatow est un crétin.
+
+99
+00:05:46,960 --> 00:05:50,396
+L'important, c‘est que Wii a appris
+a accepter cette période de sa vie,
+
+100
+00:05:50,679 --> 00:05:52,909
+et il est passé
+a des choses meilleures.
+
+101
+00:05:53,199 --> 00:05:55,190
+J‘écris maintenant,
+je fais des conférences,
+
+102
+00:05:55,480 --> 00:05:57,948
+et j'ai ma série sur internet
+sur les jeux de sociétés.
+
+103
+00:05:59,080 --> 00:06:00,798
+On essaie de lui remonter le moral.
+
+104
+00:06:06,040 --> 00:06:09,635
+Je pensais ne jamais pouvoir
+m‘émanciper de Wesley Crusher.
+
+105
+00:06:09,919 --> 00:06:13,389
+Mais aujourd'hui, c‘est juste
+un moment dans une vie réussie.
+
+106
+00:06:13,680 --> 00:06:15,398
+Et je suis content de l‘avoir vécu.
+
+107
+00:06:16,040 --> 00:06:17,871
+Je vois ce que vous voulez dire.
+
+108
+00:06:18,160 --> 00:06:20,071
+- Ça m‘aide.
+- Bien.
+
+109
+00:06:20,639 --> 00:06:22,391
+Vous voulez jouer au train avec moi ?
+
+110
+00:06:22,680 --> 00:06:24,955
+-Oui.
+-Super!
+
+111
+00:06:25,239 --> 00:06:26,388
+Bien...
+
+112
+00:06:27,680 --> 00:06:32,435
+Je gère les manettes, je dis:
+”En voiture," et vous observez.
+
+113
+00:06:33,519 --> 00:06:34,793
+Je peux faire le sifflet ?
+
+114
+00:06:36,720 --> 00:06:38,119
+Vous devriez y aller.
+
+115
+00:06:45,439 --> 00:06:47,031
+Tu vas te laver les dents
+sur le canapé ?
+
+116
+00:06:47,320 --> 00:06:49,959
+Non, je vais laver les dents
+de Cinnamon.
+
+117
+00:06:50,359 --> 00:06:53,476
+Aquoi bon ? Elle passe la moitié
+du temps a se lécher le cul.
+
+118
+00:06:54,639 --> 00:06:57,790
+Et l‘autre moitié a me lécher
+la ﬁgure. D'où l'intérêt.
+
+119
+00:06:59,919 --> 00:07:01,591
+Salut, désolée d‘arriver si tard.
+
+120
+00:07:01,879 --> 00:07:04,029
+- Vous avez mangé ?
+- Non, on t‘attendait.
+
+121
+00:07:04,320 --> 00:07:08,074
+- C‘est adorable.
+- Oui. Qu‘est—ce que tu veux faire ?
+
+122
+00:07:09,200 --> 00:07:11,634
+Howard !
+La pauvre petite arrive du travail.
+
+123
+00:07:11,919 --> 00:07:14,638
+Je te sers un verre de vin.
+Je m'occupe du dîner.
+
+124
+00:07:14,919 --> 00:07:16,477
+- Tu es notre invité.
+- Mais non.
+
+125
+00:07:16,760 --> 00:07:18,432
+Je vois
+que tu as eu une dure journée.
+
+126
+00:07:18,839 --> 00:07:21,353
+Non, elle a toujours l‘air comme ça.
+
+127
+00:07:23,880 --> 00:07:26,633
+Car elle a épousé un idiot.
+
+128
+00:07:28,480 --> 00:07:32,473
+- Merci, Raj.
+- C‘est ma façon de te remercier,
+
+129
+00:07:32,760 --> 00:07:34,876
+pour m‘accueillir.
+
+130
+00:07:35,160 --> 00:07:36,718
+Raconte-nous ta journée.
+
+131
+00:07:37,119 --> 00:07:40,634
+Je suis arrivée en retard,
+a cause des embouteillages.
+
+132
+00:07:40,919 --> 00:07:43,479
+Je t'ai dit de télécharger
+l‘application Trafic.
+
+133
+00:07:43,760 --> 00:07:46,718
+Quand tu avais mal au ventre
+après avoir mangé trop de Tagada,
+
+134
+00:07:46,999 --> 00:07:48,671
+je t'ai dit comment l'éviter ? Non.
+
+135
+00:07:50,159 --> 00:07:54,118
+J'ai dit : "Ça doit faire mal,"
+et je t'ai massé le ventre.
+
+136
+00:07:57,680 --> 00:07:59,511
+J'ai pensé a toi tout le temps.
+
+137
+00:08:02,440 --> 00:08:04,670
+II y a un moment
+où il faut savoir écouter.
+
+138
+00:08:04,959 --> 00:08:07,757
+- Merci.
+- Et un moment où il faut arrêter
+
+139
+00:08:08,040 --> 00:08:09,712
+les Tagadas,
+c‘est quand on a 10 ans.
+
+140
+00:08:12,760 --> 00:08:15,513
+Bonjour, président Seibert,
+merci de bien vouloir me parler.
+
+141
+00:08:15,799 --> 00:08:17,357
+Je voulais vous dire
+
+142
+00:08:17,639 --> 00:08:22,110
+que désormais je défendrai
+ma découverte avec enthousiasme.
+
+143
+00:08:22,399 --> 00:08:24,355
+Non, ne me remerciez pas.
+
+144
+00:08:24,639 --> 00:08:26,834
+Remerciez mon ami, Wii Wheaton.
+
+145
+00:08:27,639 --> 00:08:29,994
+Sachez que j'ai neuf amis.
+
+146
+00:08:31,879 --> 00:08:33,756
+Dix, si nous vous incluons.
+
+147
+00:08:34,879 --> 00:08:36,358
+Ce sera neuf.
+
+148
+00:08:40,560 --> 00:08:42,471
+Dix, je vais compter Wolowitz.
+
+149
+00:08:43,759 --> 00:08:46,478
+- Bonjour, mon ami Leonard.
+- Tu es de bonne humeur.
+
+150
+00:08:46,759 --> 00:08:50,149
+- D'excellente humeur.
+- Et elle va être encore meilleure.
+
+151
+00:08:50,439 --> 00:08:52,634
+Je ne voulais rien dire
+avant d'être sûr,
+
+152
+00:08:52,920 --> 00:08:55,718
+mais j'ai refait les tests
+sur ton élément au labo,
+
+153
+00:08:56,000 --> 00:08:58,468
+et je l'ai réfuté.
+Ton élément n'existe pas.
+
+154
+00:08:59,759 --> 00:09:02,273
+Et l'équipe de recherche chinoise ?
+Ils l‘ont trouvé.
+
+155
+00:09:02,560 --> 00:09:05,916
+Quelqu'un a ajouté
+des signaux simulés aux données.
+
+156
+00:09:06,199 --> 00:09:07,678
+Ils ont bidonné les résultats.
+
+157
+00:09:07,959 --> 00:09:09,278
+- Vraiment ?
+- Oui.
+
+158
+00:09:09,560 --> 00:09:13,155
+Ça veut dire
+qu'on ne va plus te solliciter.
+
+159
+00:09:13,439 --> 00:09:15,350
+- Plus d'interviews ?
+- Non, c‘est fini.
+
+160
+00:09:15,639 --> 00:09:17,277
+- Je n‘y crois pas.
+- De rien.
+
+161
+00:09:17,560 --> 00:09:19,915
+Tu m'as volé
+ma plus grande découverte!
+
+162
+00:09:21,639 --> 00:09:24,676
+- Quoi ?
+- Je retombe a neuf amis!
+
+163
+00:09:25,480 --> 00:09:27,914
+Huit. Wolowitz me fatigué.
+
+164
+00:09:28,799 --> 00:09:30,198
+Je ne comprends pas.
+
+165
+00:09:30,480 --> 00:09:34,553
+Tu ne faisais que te plaindre.
+Je voulais que tu sois content.
+
+166
+00:09:34,840 --> 00:09:37,149
+En me retirant
+mon droit a la célébrité ?
+
+167
+00:09:37,439 --> 00:09:39,999
+Si tu veux que je sois content,
+raconte—moi une blague,
+
+168
+00:09:40,279 --> 00:09:44,670
+ou montre—moi un koala et une loutre
+devenant des amis improbables.
+
+169
+00:09:45,999 --> 00:09:50,231
+T'es jamais content ! Et les koalas
+et les loutres ne se croisent jamais.
+
+170
+00:09:50,519 --> 00:09:53,033
+C‘est pour ça
+que c‘est une improbable amitié.
+
+171
+00:09:53,999 --> 00:09:55,830
+Pourquoi tous ces cris ?
+
+172
+00:09:56,120 --> 00:09:57,917
+Léonard a réfuté mon élément.
+
+173
+00:09:58,199 --> 00:10:00,155
+Plus personne
+ne va s'intéresser à moi.
+
+174
+00:10:00,439 --> 00:10:04,830
+- Parfait. Tu dois être content.
+- O.K. Plus que sept amis.
+
+175
+00:10:06,160 --> 00:10:08,435
+Il compte les Hobbits
+et les super-héros, non ?
+
+176
+00:10:09,199 --> 00:10:11,508
+Quand je croyais qu'il existait,
+je n'en voulais pas.
+
+177
+00:10:11,800 --> 00:10:15,588
+Maintenant que Léonard l‘a réfuté
+je le veux plus que tout au monde.
+
+178
+00:10:15,879 --> 00:10:18,188
+!! n'existait pas.
+Je ne l'ai pas fait disparaître.
+
+179
+00:10:18,480 --> 00:10:19,993
+La science l‘a pris. Pas moi.
+
+180
+00:10:20,279 --> 00:10:22,793
+Comment oses-tu te servir
+dela science contre moi ?
+
+181
+00:10:23,520 --> 00:10:26,478
+La science est ma meilleure amie.
+Parfait, je remonte à huit.
+
+182
+00:10:28,400 --> 00:10:30,072
+Dis—lui qu'il est taré.
+
+183
+00:10:30,360 --> 00:10:33,477
+- En fait, je le comprends.
+- Oui, neuf ! Content de t'avoir.
+
+184
+00:10:36,240 --> 00:10:37,878
+C‘est comme
+quand on n'aime pas son copain,
+
+185
+00:10:38,160 --> 00:10:40,799
+et qu'il vous quitte
+et on le veut plus que jamais.
+
+186
+00:10:41,080 --> 00:10:45,039
+Je ne sais pas de quoi elle parle,
+mais on est contre toi, alors oui.
+
+187
+00:10:45,919 --> 00:10:48,149
+Que veux-tu que je fasse ?
+
+188
+00:10:48,439 --> 00:10:52,352
+Si je ne publie pas,
+quelqu'un le fera à ma place.
+
+189
+00:10:52,639 --> 00:10:55,870
+Bien sûr que tu dois publier.
+Tu en as l‘obligation.
+
+190
+00:10:56,160 --> 00:10:58,674
+Ne pas le faire serait
+contraire à l'éthique.
+
+191
+00:10:59,719 --> 00:11:01,869
+- D‘accord, je publie.
+- Tu le crois ?
+
+192
+00:11:08,199 --> 00:11:11,396
+- Raj a fait la vaisselle.
+- Ce pourrait être moi.
+
+193
+00:11:11,680 --> 00:11:15,593
+Non, quand tous les couteaux sont
+sales, tu coupes avec tes clés.
+
+194
+00:11:17,319 --> 00:11:19,071
+Bonjour tout le monde.
+
+195
+00:11:19,360 --> 00:11:21,032
+J'ai ramené du café.
+
+196
+00:11:21,319 --> 00:11:24,277
+Bernadette, ton café au lait de soja
+et a la menthe.
+
+197
+00:11:24,560 --> 00:11:27,711
+- II ne fallait pas.
+- Et ne t‘en fais pas,
+
+198
+00:11:27,999 --> 00:11:30,911
+- ta présentation se passera bien.
+- Tu vas les éblouir.
+
+199
+00:11:31,199 --> 00:11:32,871
+Quelle est le sujet aujourd‘hui ?
+
+200
+00:11:34,599 --> 00:11:35,827
+Vas-y.
+
+201
+00:11:39,840 --> 00:11:41,239
+!! t'aime!
+
+202
+00:11:41,520 --> 00:11:43,590
+Qu'est-ce que tu fais ?
+Tu veux me griller ?
+
+203
+00:11:43,879 --> 00:11:46,473
+-Je suis un bon invité.
+- Non, tu es un meilleur mari.
+
+204
+00:11:46,759 --> 00:11:51,196
+Tu fais la vaisselle, ramène du café,
+tu connais sajournée. Qui fait ça ?
+
+205
+00:11:52,280 --> 00:11:55,317
+- Je t‘en ai ramené aussi.
+- Je ne veux pas de café.
+
+206
+00:11:55,599 --> 00:11:58,113
+- Je sais. C‘est un chocolat.
+- Donne—moi ça.
+
+207
+00:11:59,040 --> 00:12:02,715
+-Arréte de me rabaisser.
+- Écoute-mol.
+
+208
+00:12:02,999 --> 00:12:06,912
+Tu es un bon mari.
+Tu pourrais écouter plus,
+
+209
+00:12:07,199 --> 00:12:10,589
+mais c‘est incroyable les progrès
+que tu as fait, quand on pense
+
+210
+00:12:10,879 --> 00:12:13,791
+que tu es un fils unique,
+élevé par une mère-poule.
+
+211
+00:12:14,079 --> 00:12:16,388
+- C‘est pas un peu bizarre ?
+-Attends.
+
+212
+00:12:21,400 --> 00:12:23,356
+Oh, oui.
+
+213
+00:12:26,040 --> 00:12:29,032
+Je voulais te dire que j'ai publié
+mon article sur internet.
+
+214
+00:12:29,600 --> 00:12:33,559
+J'ai vu. Etj'ai mis la rétractation
+de mon article.
+
+215
+00:12:33,840 --> 00:12:36,354
+Toute la communauté scientifique
+sait que j‘avais tort.
+
+216
+00:12:36,639 --> 00:12:40,109
+- Ca arrive tout le temps.
+- Pas à moi.
+
+217
+00:12:40,399 --> 00:12:43,277
+La seule rétractation que j'ai eue
+a faire, j‘avais sept ans.
+
+218
+00:12:43,560 --> 00:12:47,030
+J'ai concédé que mon frére était
+le plus grand Ninja du Texas.
+
+219
+00:12:48,599 --> 00:12:51,750
+C‘était un stratagème pour libérer
+ma tête de son aisselle.
+
+220
+00:12:52,600 --> 00:12:53,919
+Le voilà.
+
+221
+00:12:55,319 --> 00:12:59,198
+Mon super—héros préféré,
+le Rétractor !
+
+222
+00:13:00,680 --> 00:13:02,989
+Allez, ne sois pas méchant.
+
+223
+00:13:03,279 --> 00:13:06,157
+Pardon, Cooper, je le rétracte.
+
+224
+00:13:07,399 --> 00:13:11,392
+Hofstadter, bon boulot pour avoir
+prouvé la fraude des chinois.
+
+225
+00:13:11,679 --> 00:13:14,113
+- Ce n‘est pas grand-chose.
+- C‘est énorme.
+
+226
+00:13:14,399 --> 00:13:16,708
+Cooper, peut-être que la physique
+n‘est pas ton truc.
+
+227
+00:13:17,360 --> 00:13:19,476
+As-tu pensé ate reconvertir
+dans la vente ?
+
+228
+00:13:19,760 --> 00:13:22,638
+Comme ça tu pourras gagner ta vie
+en reprenant des articles.
+
+229
+00:13:23,920 --> 00:13:26,434
+- D‘accord, Barry, ça suffit.
+- Non, c‘est bon.
+
+230
+00:13:26,720 --> 00:13:28,517
+Je peux me défendre.
+
+231
+00:13:28,799 --> 00:13:31,188
+N'est-ce pas, Barry ?
+
+232
+00:13:35,319 --> 00:13:37,514
+Est-ce une allusion
+à mon défaut de prononciation ?
+
+233
+00:13:38,999 --> 00:13:40,398
+Tu me blessés.
+
+234
+00:13:42,959 --> 00:13:44,153
+Je n‘y peux rien.
+
+235
+00:13:46,199 --> 00:13:48,474
+Tu as raison. C‘était déplacé.
+
+236
+00:13:49,359 --> 00:13:52,795
+- Je le retiré.
+- Bien sûr, car tu es le Rétractor.
+
+237
+00:13:57,639 --> 00:13:59,152
+Raj, le dîner était incroyable.
+
+238
+00:13:59,439 --> 00:14:02,192
+Si tu restes, je devrai changer
+de taille de vêtements.
+
+239
+00:14:02,479 --> 00:14:06,154
+Sottises. Ça ne te ferait pas de mal,
+tu es un peu maigrelette.
+
+240
+00:14:07,639 --> 00:14:09,869
+Pourquoi tu ne me disjamais
+des trucs gentils ?
+
+241
+00:14:10,159 --> 00:14:13,231
+Je t'ai demandé si tu portais
+une gaine, et tu n'en portais pas.
+
+242
+00:14:13,519 --> 00:14:15,350
+Quelle est la différence ?
+
+243
+00:14:17,079 --> 00:14:19,957
+Tu pourrais essayer d'être
+plus prévenant, comme Raj.
+
+244
+00:14:20,239 --> 00:14:22,355
+C‘est toi qui devrais essayer
+d'être comme Raj.
+
+245
+00:14:22,639 --> 00:14:25,472
+- Vraiment ?
+- Il m‘a fait un sandwich ce matin,
+
+246
+00:14:25,760 --> 00:14:28,797
+avec un mot qui disait:
+" Vas-y, tu les auras !"
+
+247
+00:14:30,040 --> 00:14:32,429
+Je n'en fais pas assez ?
+Je dois te faire ton déjeuner ?
+
+248
+00:14:32,720 --> 00:14:36,554
+Et tu as besoin d'un mot ? Tu es
+un adulte, pas besoin de te le dire.
+
+249
+00:14:38,119 --> 00:14:42,749
+Je sais comment me battre, mais
+c‘est mieux de se sentir soutenu.
+
+250
+00:14:43,040 --> 00:14:45,156
+Vous vous entendez ?
+
+251
+00:14:45,439 --> 00:14:48,317
+Calmons-nous et prenons du recul.
+
+252
+00:14:49,920 --> 00:14:51,478
+Pourquoi on se dispute ?
+
+253
+00:14:51,759 --> 00:14:55,547
+Je ne sais pas. J‘avais l'impression
+d'être un mari nui.
+
+254
+00:14:55,840 --> 00:14:58,354
+Tu n'es pas un mari nui.
+Tu es un mari formidable.
+
+255
+00:14:58,639 --> 00:15:00,436
+C‘est moi
+qui suis une épouse huile.
+
+256
+00:15:00,720 --> 00:15:02,676
+Tu rigoles ? Tu es la meilleure.
+
+257
+00:15:02,959 --> 00:15:05,598
+Je sais quel est le problème.
+C‘est lui.
+
+258
+00:15:07,800 --> 00:15:10,109
+- Qu'est-ce que j'ai fait ?
+- Tu nous rabaisses.
+
+259
+00:15:10,400 --> 00:15:14,313
+On avait un bon mariage foireux
+avant que tu arrives.
+
+260
+00:15:15,199 --> 00:15:17,793
+Je suis désolé que vous m'en vouliez,
+
+261
+00:15:18,079 --> 00:15:20,388
+mais au moins,
+pour une fois, vous êtes d‘accord.
+
+262
+00:15:20,959 --> 00:15:23,075
+Oui, c‘est agréable d'être soutenu
+pour une fois.
+
+263
+00:15:23,359 --> 00:15:25,111
+- Je te soutiens tout le temps!
+. Je…
+
+264
+00:15:25,399 --> 00:15:27,355
+- !! recommence !
+- Qu'est-ce que tu as ?
+
+265
+00:15:29,560 --> 00:15:33,030
+- Dire qu‘ils t'ont viré.
+- Dire qu‘ils sont encore mariés.
+
+266
+00:15:34,439 --> 00:15:37,909
+Oh, non, j'ai oublié la brosse à dent
+de Cinnamon chez Howard.
+
+267
+00:15:38,199 --> 00:15:40,076
+Tu vas encore prendre
+celle de papa.
+
+268
+00:15:45,480 --> 00:15:47,835
+Aboie une fois
+si tu veux que j‘appelle la SPA.
+
+269
+00:15:50,879 --> 00:15:54,792
+- Que fait cet animal ici ?
+- Du calme, elle est dans sa cage.
+
+270
+00:15:55,080 --> 00:15:58,470
+Je vais te répondre deux mots:
+Jurassic Park.
+
+271
+00:15:59,399 --> 00:16:01,594
+Cette journée est de pire en pire.
+
+272
+00:16:01,879 --> 00:16:03,949
+- Si ça peut te consoler—-
+- Je ne pense pas.
+
+273
+00:16:04,239 --> 00:16:05,513
+Tu as sans doute raison.
+
+274
+00:16:06,519 --> 00:16:10,512
+C‘est une belle soirée.
+Si on allait se promener ?
+
+275
+00:16:10,799 --> 00:16:12,790
+Toi, tu ne penses qu'au sexe.
+
+276
+00:16:14,600 --> 00:16:17,592
+Sheldon, tu trouverais le soutien
+que tu cherches
+
+277
+00:16:17,880 --> 00:16:20,440
+si tu réalisais qu‘une relation,
+c‘est donnant, donnant.
+
+278
+00:16:20,719 --> 00:16:23,677
+Elle ne peut être là pour toi,
+que si tu es là pour elle.
+
+279
+00:16:24,600 --> 00:16:27,797
+- Merci, Rajesh.
+- Et, Amy, sois patiente avec lui,
+
+280
+00:16:28,079 --> 00:16:31,037
+au lieu de le pousser à accepter
+une relation sensuelle.
+
+281
+00:16:32,759 --> 00:16:34,158
+Tu devrais y aller.
+
+282
+00:16:39,999 --> 00:16:44,072
+Les vendredis de la science,
+je reçois a nouveau le Dr Cooper,
+
+283
+00:16:44,360 --> 00:16:47,193
+qui pensait avoir découvert
+un nouvel élément super-lourd,
+
+284
+00:16:47,479 --> 00:16:51,188
+mais qui a été réfuté par mon autre
+invité, le Dr Hofstadter.
+
+285
+00:16:51,480 --> 00:16:53,471
+- Bienvenue, messieurs.
+- Merci.
+
+286
+00:16:53,760 --> 00:16:57,992
+Ira, je voudrais m‘excuser
+pour la semaine dernière.
+
+287
+00:16:58,279 --> 00:17:02,670
+- Ce n‘était rien.
+- Vous n'avez rien a me dire ?
+
+288
+00:17:04,799 --> 00:17:05,948
+Non.
+
+289
+00:17:07,120 --> 00:17:11,113
+Comment avez-vous découvert
+que cette théorie était fausse ?
+
+290
+00:17:11,400 --> 00:17:13,550
+- Eh bien...
+- Je peux répondre a ça.
+
+291
+00:17:13,840 --> 00:17:15,432
+Il m‘a demandé a moi.
+
+292
+00:17:15,719 --> 00:17:16,993
+Trés bien.
+
+293
+00:17:17,279 --> 00:17:19,235
+- Comme je disais...
+- Ce n‘est pas ça.
+
+294
+00:17:20,479 --> 00:17:22,629
+Pour comprendre,
+il faut commencer du début,
+
+295
+00:17:22,919 --> 00:17:26,150
+- au Texas, où un génie...
+- Sheldon.
+
+296
+00:17:26,439 --> 00:17:28,157
+En effet, Sheldon Cooper.
+
+297
+00:17:28,440 --> 00:17:32,433
+Le chien de son voisin l‘ayant mordu,
+il fit une découverte capitale :
+
+298
+00:17:32,720 --> 00:17:34,438
+le rayon dela mort pour Toutous.
+
+299
+00:17:35,039 --> 00:17:39,476
+Qu'il ne put fabriquer,
+faute d'uranium enrichi.
+
+300
+00:17:40,319 --> 00:17:43,391
+Je voudrais entendre
+le Dr Hofstadter, s'il vous plaît.
+
+301
+00:17:44,039 --> 00:17:47,827
+Quelle surprise.
+Vous m'avez invité pour m‘ignorer ?
+
+302
+00:17:48,120 --> 00:17:50,873
+Je ne vous ai pas invité,
+vous êtes arrivé sans prévenir,
+
+303
+00:17:51,159 --> 00:17:53,798
+et je n'aime pas la confrontation.
+
+304
+00:17:55,759 --> 00:17:57,989
+Sheldon, c‘est moi qu‘on interviewe.
+
+305
+00:17:58,279 --> 00:18:01,476
+C‘est barbant.
+Même pour la radio publique.
+
+306
+00:18:03,240 --> 00:18:05,913
+Si on buvait un verre a chaque fois
+qu‘ils se ridiculisent,
+
+307
+00:18:06,200 --> 00:18:09,749
+- ce serait un bon jeu pour boire.
+- C‘est un peu tôt pour ça.
+
+308
+00:18:10,039 --> 00:18:13,509
+Je ne dis pas que des choses
+brillantes. Je chante la tyrolienne.
+
+309
+00:18:19,240 --> 00:18:20,355
+Je vais chercher la vodka.
+
+310
+00:18:42,039 --> 00:18:43,916
+Traduction: Valérie Reynolds
+
+311
+00:18:43,959 --> 00:18:45,836
+(French European)
+

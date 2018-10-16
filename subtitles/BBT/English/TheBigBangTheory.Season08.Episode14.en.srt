@@ -1,0 +1,1550 @@
+1
+00:00:03,439 --> 00:00:06,875
+So tell me about your day.
+How's it going with the particle detector?
+
+2
+00:00:07,039 --> 00:00:08,472
+Wow, you remember that?
+
+3
+00:00:08,680 --> 00:00:10,033
+Yeah, I listen to what you say.
+
+4
+00:00:10,239 --> 00:00:13,595
+You're building a particle detector
+using superfluid helium.
+
+5
+00:00:13,800 --> 00:00:17,315
+You know, when you talk like that
+I want to take you right here on this table.
+
+6
+00:00:18,279 --> 00:00:21,237
+You know from experience
+this table cannot support both our weight.
+
+7
+00:00:22,720 --> 00:00:24,756
+So how's the detector going?
+
+8
+00:00:24,959 --> 00:00:26,790
+It's tricky working with superfluids.
+
+9
+00:00:26,999 --> 00:00:30,912
+Whatever container you put them in, they
+creep up the sides and crawl out.
+
+10
+00:00:31,119 --> 00:00:33,314
+Kind of like Sheldon's ant farm.
+
+11
+00:00:33,519 --> 00:00:36,317
+Exactly. Except you don't have
+a lunatic running around yelling:
+
+12
+00:00:36,520 --> 00:00:38,909
+"I fed you sugar water.
+Why are you biting me?"
+
+13
+00:00:39,159 --> 00:00:40,148
+Ha.
+
+14
+00:00:40,920 --> 00:00:42,558
+You really want to talk about this?
+
+15
+00:00:42,760 --> 00:00:46,389
+I do. I didn't write "superfluid helium"
+on this napkin for nothing.
+
+16
+00:00:47,440 --> 00:00:51,956
+Okay, well, this is cool. There's a thing
+called superfluid vacuum theory...
+
+17
+00:00:52,160 --> 00:00:55,630
+...where empty space is imagined
+as a superfluid with all of its qualities:
+
+18
+00:00:55,839 --> 00:00:58,512
+Viscosity, density, surface tension....
+
+19
+00:01:00,519 --> 00:01:04,228
+If you're pausing for dramatic effect,
+I'd keep it moving.
+
+20
+00:01:04,880 --> 00:01:06,598
+
+
+21
+00:01:07,120 --> 00:01:08,109
+[SIGHS]
+
+22
+00:01:08,280 --> 00:01:10,032
+People don't talk about surface tension.
+
+23
+00:01:11,200 --> 00:01:13,430
+If you imagine our three-space...
+
+24
+00:01:13,640 --> 00:01:16,677
+...as the surface of an N-dimensional
+superfluid bubble....
+
+25
+00:01:16,880 --> 00:01:19,758
+This is exciting.
+
+26
+00:01:19,960 --> 00:01:22,713
+This is really exciting.
+I have to go find Sheldon.
+
+27
+00:01:22,919 --> 00:01:25,831
+Okay, well, if you find him,
+use the kitchen island.
+
+28
+00:01:26,040 --> 00:01:28,554
+That coffee table
+will not support both of you.
+
+29
+00:01:31,160 --> 00:01:33,628
+Which means a spherical
+multidimensional superfluid...
+
+30
+00:01:33,840 --> 00:01:35,910
+...shows the same
+negative energy density as space-time.
+
+31
+00:01:36,119 --> 00:01:38,349
+What do you think? So, what do you think?
+
+32
+00:01:41,840 --> 00:01:43,239
+Hmmm.
+
+33
+00:01:44,080 --> 00:01:46,310
+What? Is it wrong?
+Have you seen it somewhere else?
+
+34
+00:01:49,200 --> 00:01:50,679
+Hmmm.
+
+35
+00:01:51,680 --> 00:01:54,638
+I know this isn't my area,
+and I could never do math like you can...
+
+36
+00:01:54,839 --> 00:01:56,511
+...but could this be something?
+
+37
+00:01:57,799 --> 00:01:59,391
+[SHELDON SIGHS]
+
+38
+00:01:59,560 --> 00:02:03,189
+Well, you could've set
+Newton's gravitational constant to one.
+
+39
+00:02:03,399 --> 00:02:08,075
+And the whole thing reeks of blueberry.
+You know I can't stand scented markers.
+
+40
+00:02:09,079 --> 00:02:11,229
+No one told you to taste them.
+
+41
+00:02:12,279 --> 00:02:14,235
+Come on, is this good or not?
+
+42
+00:02:16,600 --> 00:02:18,033
+-lt's good.
+-Really?
+
+43
+00:02:18,239 --> 00:02:20,275
+I like it. I think you're onto something.
+
+44
+00:02:20,480 --> 00:02:22,550
+-You do? Not messing with me?
+-Not at all.
+
+45
+00:02:22,760 --> 00:02:25,957
+In fact, I have got something
+forjust such an occasion.
+
+46
+00:02:26,160 --> 00:02:29,232
+l was starting to think I might never
+get a chance to give it to you.
+
+47
+00:02:29,959 --> 00:02:31,551
+Good job.
+
+48
+00:02:35,720 --> 00:02:37,790
+You're giving me a sticker.
+
+49
+00:02:38,000 --> 00:02:39,592
+Notjust a sticker.
+
+50
+00:02:39,799 --> 00:02:43,758
+It's a sticker of a kitty saying "mee-wow."
+
+51
+00:02:45,880 --> 00:02:47,598
+I'm not a preschooler.
+
+52
+00:02:47,800 --> 00:02:51,110
+-Fine, I'll take it back.
+-I earned this. Back off.
+
+53
+00:03:17,240 --> 00:03:18,719
+You're still awake?
+
+54
+00:03:19,240 --> 00:03:21,470
+For a man whose last observation...
+
+55
+00:03:21,680 --> 00:03:25,275
+...was our universe may be the surface of
+a multidimensional supercooled liquid...
+
+56
+00:03:25,480 --> 00:03:28,278
+..."you're still awake" seems
+like quite the sophomore slump.
+
+57
+00:03:30,079 --> 00:03:31,671
+You worked out all the math.
+
+58
+00:03:31,880 --> 00:03:34,269
+Oh, I did more than work out all the math.
+
+59
+00:03:34,479 --> 00:03:36,071
+I wrote a paper.
+
+60
+00:03:37,680 --> 00:03:39,432
+You wrote a paper on my idea?
+
+61
+00:03:39,639 --> 00:03:42,437
+I wrote a paper on our idea.
+
+62
+00:03:42,640 --> 00:03:44,790
+When did my idea become our idea?
+
+63
+00:03:44,999 --> 00:03:47,559
+When I mixed it with Sheldony goodness...
+
+64
+00:03:47,759 --> 00:03:50,398
+...and cooked it
+in the Easy-Bake Oven of my mind.
+
+65
+00:03:52,800 --> 00:03:54,392
+This is good.
+
+66
+00:03:54,600 --> 00:03:55,999
+Our idea's really good.
+
+67
+00:03:56,200 --> 00:03:59,954
+Well, the light bulb in this oven
+is ridiculously bright.
+
+68
+00:04:01,399 --> 00:04:04,596
+You know, if no one's thought of this yet,
+this could be a big deal.
+
+69
+00:04:04,800 --> 00:04:08,236
+Only way we'll know for sure
+is if we post it online to the pre-print server.
+
+70
+00:04:08,440 --> 00:04:11,512
+l have it ready to go,
+but I wasn't gonna do it without you.
+
+71
+00:04:14,040 --> 00:04:15,553
+It's all happening so fast.
+
+72
+00:04:17,120 --> 00:04:18,189
+Should we sleep on it?
+
+73
+00:04:18,640 --> 00:04:22,474
+We could, but we always run the risk
+of someone else beating us to the punch.
+
+74
+00:04:23,879 --> 00:04:24,994
+You're sure it's good?
+
+75
+00:04:25,199 --> 00:04:27,508
+My name is right on there with yours.
+
+76
+00:04:27,720 --> 00:04:30,757
+That is a surefire mark of quality.
+
+77
+00:04:32,519 --> 00:04:35,272
+That might as well say,
+"Directed by Joss Whedon."
+
+78
+00:04:37,879 --> 00:04:39,710
+Okay, partner, let's do it.
+
+79
+00:04:41,840 --> 00:04:43,273
+Come on.
+
+80
+00:04:43,479 --> 00:04:45,276
+Click the mouse with me.
+
+81
+00:04:48,679 --> 00:04:53,070
+One, two, three...
+
+82
+00:04:53,280 --> 00:04:54,599
+-...click.
+-Click.
+
+83
+00:04:58,000 --> 00:04:59,115
+Uh, we did it.
+
+84
+00:04:59,720 --> 00:05:00,994
+Yes, we did, my friend.
+
+85
+00:05:01,199 --> 00:05:03,508
+-Is your tongue blue?
+-I don't want to talk about it.
+
+86
+00:05:06,239 --> 00:05:09,629
+-Movie night. What do you wanna watch?
+-What happened to that movie you were in?
+
+87
+00:05:09,839 --> 00:05:11,636
+Oh, God, probably nothing.
+
+88
+00:05:11,840 --> 00:05:15,674
+I think I saw the director
+twirling a sign outside the Verizon store.
+
+89
+00:05:16,559 --> 00:05:18,675
+-Search for it.
+-What--? No, why?
+
+90
+00:05:18,879 --> 00:05:21,677
+-Because it would be fun to watch.
+-It would be humiliating.
+
+91
+00:05:21,879 --> 00:05:23,995
+Well, now we have two reasons.
+
+92
+00:05:25,400 --> 00:05:26,719
+They have it.
+
+93
+00:05:26,920 --> 00:05:28,876
+-Please, can we watch it?
+-Please.
+
+94
+00:05:29,079 --> 00:05:31,195
+Fine. But I'm telling you, it's terrible.
+
+95
+00:05:31,400 --> 00:05:33,470
+-Have you even seen it?
+-No.
+
+96
+00:05:33,680 --> 00:05:35,432
+Maybe it turned out better than you think.
+
+97
+00:05:35,599 --> 00:05:37,669
+MAN [OVER TV]:
+Bananas. Get your fresh bananas.
+
+98
+00:05:38,960 --> 00:05:40,393
+Ho, ho, it really didn't.
+
+99
+00:05:45,120 --> 00:05:48,954
+Sheldon, this is superfluid helium.
+
+100
+00:05:49,160 --> 00:05:52,277
+Put this in your mouth,
+your tongue will freeze and break off.
+
+101
+00:05:53,599 --> 00:05:55,669
+Does it smell like blueberries?
+
+102
+00:05:56,599 --> 00:05:59,067
+-No.
+-Then we're probably okay.
+
+103
+00:05:59,280 --> 00:06:02,431
+Hey, your paper got mentioned
+on the Quantum Diaries physics blog.
+
+104
+00:06:03,000 --> 00:06:06,595
+-Really? What did they say?
+-lt's basically a summary of the theory...
+
+105
+00:06:06,799 --> 00:06:10,075
+-...but there's a bunch of positive comments.
+-Let me see. Let me see.
+
+106
+00:06:10,840 --> 00:06:13,832
+One calls it "Insightful and innovative."
+
+107
+00:06:14,040 --> 00:06:15,598
+We're insightful and innovative.
+
+108
+00:06:15,799 --> 00:06:19,917
+-Ooh, nice to meet you, Mr. Insightful.
+-Oh, the pleasure is mine, Mr. Innovative.
+
+109
+00:06:21,919 --> 00:06:25,798
+Another one says, "The concept shows
+some real out-of-the-box thinking."
+
+110
+00:06:26,000 --> 00:06:27,956
+Do you hear that Mr. Out-Of-The?
+
+111
+00:06:28,160 --> 00:06:30,674
+I do indeed, Mr. Box-Thinking.
+
+112
+00:06:31,239 --> 00:06:34,993
+How are you today,
+Mr. Can-You-Believe-These-Jackasses?
+
+113
+00:06:35,200 --> 00:06:40,069
+Just dandy,
+Mr. l-Wish-l-Was-Better-At-lmprov.
+
+114
+00:06:40,959 --> 00:06:42,870
+-Read another one.
+-Okay, okay. Um....
+
+115
+00:06:43,719 --> 00:06:46,233
+"The analogy between space-time
+and a supercooled fluid...
+
+116
+00:06:46,440 --> 00:06:48,476
+...is either meaningless or false.
+
+117
+00:06:49,600 --> 00:06:52,160
+lwish this blog
+would devote itself to real science...
+
+118
+00:06:52,639 --> 00:06:57,190
+...instead of wasting our time with crackpot,
+wannabe theoreticians in a rush to publish."
+
+119
+00:06:57,399 --> 00:06:59,594
+-Who wrote that?
+-lt's anonymous.
+
+120
+00:06:59,799 --> 00:07:02,267
+Username, "General Relativity."
+
+121
+00:07:02,480 --> 00:07:04,710
+Well, I'm responding to it.
+
+122
+00:07:04,919 --> 00:07:06,671
+Uh, don't lower yourself to their level.
+
+123
+00:07:06,879 --> 00:07:10,394
+Look, I am simply going to defend our work,
+scientist to scientist.
+
+124
+00:07:10,600 --> 00:07:16,232
+Failing that, suggest that his mother enjoys
+a string of human and non-human lovers.
+
+125
+00:07:16,919 --> 00:07:18,989
+Sheldon, my name's on that paper too.
+
+126
+00:07:19,200 --> 00:07:20,758
+There's no upside to doing this.
+
+127
+00:07:20,959 --> 00:07:23,871
+-He just left another comment.
+-What does it say?
+
+128
+00:07:24,079 --> 00:07:28,357
+"Upon review, I've changed my mind
+about the Cooper-Hofstadter hypothesis...
+
+129
+00:07:28,559 --> 00:07:31,551
+...that space-time is like a superfluid.
+In fact, it's inspired me...
+
+130
+00:07:31,760 --> 00:07:33,432
+...to come up with my own theory:
+
+131
+00:07:33,639 --> 00:07:36,676
+Maybe space-time is like two clowns
+with their heads in a bucket...
+
+132
+00:07:36,879 --> 00:07:39,552
+...much like Cooper and Hofstadter."
+
+133
+00:07:41,039 --> 00:07:42,267
+Can I respond now?
+
+134
+00:07:42,880 --> 00:07:43,869
+Do it.
+
+135
+00:07:44,079 --> 00:07:46,957
+You mess with the bull, you get the horns.
+
+136
+00:07:47,560 --> 00:07:51,439
+I'm about to show this guy
+just how horny I can be.
+
+137
+00:07:54,959 --> 00:07:56,711
+Somebody else do it.
+
+138
+00:07:59,040 --> 00:08:00,712
+PENNY [OVER TV]:
+Doctor, please help me.
+
+139
+00:08:00,919 --> 00:08:03,638
+I think I might be turning into a killer gorilla.
+
+140
+00:08:04,839 --> 00:08:06,955
+MAN [OVER TV]: Why do you think
+you're turning into a killer gorilla...
+
+141
+00:08:07,119 --> 00:08:08,950
+...and not just a regular gorilla?
+
+142
+00:08:09,999 --> 00:08:12,513
+PENNY [OVER TV]:
+Because regular gorillas are vegetarians...
+
+143
+00:08:12,679 --> 00:08:15,830
+...and I just bit the ﬁngers
+017' your receptionist.
+
+144
+00:08:16,040 --> 00:08:18,190
+Okay, we've seen plenty.
+
+145
+00:08:18,400 --> 00:08:21,836
+-No, give me the remote.
+-Careful, she'll bite your fingers off.
+
+146
+00:08:22,639 --> 00:08:24,436
+I've been poking around the Internet...
+
+147
+00:08:24,639 --> 00:08:27,312
+...and I found something
+we'll enjoy watching even more.
+
+148
+00:08:27,519 --> 00:08:31,194
+-What is it?
+-Just Bernadette in a beauty pageant.
+
+149
+00:08:31,400 --> 00:08:33,516
+-What?
+-Okay, I learned my lesson.
+
+150
+00:08:33,720 --> 00:08:35,836
+Making fun of people is wrong.
+
+151
+00:08:36,999 --> 00:08:40,071
+I haven't learned my lesson. Play it. Play it.
+
+152
+00:08:45,719 --> 00:08:48,756
+Hi, I'm Bernadette Maryann Rostenkowski...
+
+153
+00:08:48,959 --> 00:08:53,555
+...from Yorba Linda, California.
+
+154
+00:08:53,719 --> 00:08:56,711
+Ha! You look like a talking cupcake.
+
+155
+00:08:57,800 --> 00:09:01,429
+And you should pick me for Miss California
+Ouiznos 1999, because I want to:
+
+156
+00:09:01,639 --> 00:09:03,675
+Tell you what] want
+What I really, really want
+
+157
+00:09:03,879 --> 00:09:04,948
+I'll tell you what] want
+
+158
+00:09:05,159 --> 00:09:07,798
+What I really, really want
+I wanna, I wanna, I wanna
+
+159
+00:09:07,999 --> 00:09:12,914
+Really, really, really be
+Miss California Ouiznos 1999
+
+160
+00:09:17,639 --> 00:09:19,755
+Play it again. Play it again.
+
+161
+00:09:24,600 --> 00:09:26,431
+Did he respond yet?
+
+162
+00:09:27,079 --> 00:09:28,194
+No, not yet.
+
+163
+00:09:28,359 --> 00:09:30,748
+Hmm. Maybe we shouldn't
+have sunk to his level.
+
+164
+00:09:31,199 --> 00:09:32,314
+It wasn't that bad.
+
+165
+00:09:32,520 --> 00:09:33,919
+Read it back one more time.
+
+166
+00:09:34,840 --> 00:09:38,799
+"My good sir, we are neither
+crackpots nor wannabes.
+
+167
+00:09:38,999 --> 00:09:41,638
+In fact, we are experts in our fields.
+
+168
+00:09:41,840 --> 00:09:45,594
+And while you hide behind your anonymity,
+we stand behind our paper.
+
+169
+00:09:45,800 --> 00:09:47,836
+And later tonight, your mother."
+
+170
+00:09:51,880 --> 00:09:55,998
+-And you don't think that's too rough?
+-We'rejust standing behind her.
+
+171
+00:09:56,480 --> 00:09:59,438
+It's not like we're gonna say
+"boo" and scare her.
+
+172
+00:10:01,439 --> 00:10:03,953
+How could you not tell us
+you were in beauty pageants?
+
+173
+00:10:04,160 --> 00:10:05,639
+Because it's embarrassing.
+
+174
+00:10:05,840 --> 00:10:07,956
+Ha! It is. It truly is.
+
+175
+00:10:10,439 --> 00:10:13,636
+Yeah, well, Amy writes
+Little House on the Prairie fan fiction...
+
+176
+00:10:13,840 --> 00:10:16,434
+...about herself and posts it on the Internet.
+
+177
+00:10:18,719 --> 00:10:20,038
+
+
+178
+00:10:20,240 --> 00:10:23,198
+Why? What did I do?
+
+179
+00:10:23,400 --> 00:10:25,231
+Sorry. I had to get the spotlight off me.
+
+180
+00:10:25,439 --> 00:10:27,953
+And tearing down women
+is part of my pageant training.
+
+181
+00:10:28,520 --> 00:10:30,511
+Okay, we are reading that right now.
+
+182
+00:10:30,720 --> 00:10:33,632
+-Please don't.
+-We got embarrassed tonight, come on.
+
+183
+00:10:33,840 --> 00:10:36,434
+-But it's personal.
+-Why? Is it about you and Sheldon?
+
+184
+00:10:36,959 --> 00:10:38,358
+
+
+185
+00:10:39,120 --> 00:10:42,271
+-Oh, my God, it's about her and Sheldon.
+-lt's not about me and Sheldon.
+
+186
+00:10:42,480 --> 00:10:46,553
+It's about a young woman
+in the 18005 named Amelia...
+
+187
+00:10:46,759 --> 00:10:50,513
+...and the time-traveling physicist
+named Cooper she falls in love with.
+
+188
+00:10:50,720 --> 00:10:52,472
+-Oh, please show us?
+-Please.
+
+189
+00:10:52,680 --> 00:10:54,989
+-No.
+-Uh! You know I'm gonna read it either way.
+
+190
+00:10:55,200 --> 00:10:56,189
+Good luck finding it.
+
+191
+00:10:56,360 --> 00:10:57,349
+[SCOFFS]
+
+192
+00:10:57,519 --> 00:11:02,434
+"Amelia and the time-trav--"
+Found it. Ha, ha.
+
+193
+00:11:03,960 --> 00:11:06,713
+"It was just past dawn on the prairie
+and like every morning...
+
+194
+00:11:06,920 --> 00:11:08,751
+...Amelia prepared to do her chores.
+
+195
+00:11:08,960 --> 00:11:11,520
+Except something about this morning
+felt different."
+
+196
+00:11:11,720 --> 00:11:13,153
+Why?
+
+197
+00:11:15,000 --> 00:11:17,434
+Why did it feel different?
+
+198
+00:11:19,080 --> 00:11:21,548
+"Maybe it was the first whisper
+of winter in the air.
+
+199
+00:11:21,759 --> 00:11:24,876
+Or maybe it was the unconscious
+handsome man with porcelain skin...
+
+200
+00:11:25,079 --> 00:11:28,389
+...and curious clothing
+she was about to discover lying in the field.
+
+201
+00:11:28,600 --> 00:11:31,194
+A man who would open
+her mind to new possibilities...
+
+202
+00:11:31,399 --> 00:11:34,197
+...and her body to new feelings."
+
+203
+00:11:40,720 --> 00:11:43,996
+You know, there was a time
+when l was alone and had no friends.
+
+204
+00:11:44,199 --> 00:11:45,518
+I'm starting to miss that.
+
+205
+00:11:48,640 --> 00:11:51,473
+He still hasn't responded.
+What's taking him so long?
+
+206
+00:11:51,680 --> 00:11:54,035
+-Do you really want him to write back?
+-Yeah, I do.
+
+207
+00:11:54,240 --> 00:11:57,312
+No matter how he responds,
+I'm going to destroy him...
+
+208
+00:11:57,519 --> 00:12:02,149
+...with a picture of a bored cat,
+saying "Oh, really?"
+
+209
+00:12:07,120 --> 00:12:08,155
+Mee-wow.
+
+210
+00:12:10,680 --> 00:12:11,669
+What are you doing?
+
+211
+00:12:11,879 --> 00:12:16,714
+I've created other user accounts so I can
+post positive comments about their paper.
+
+212
+00:12:16,920 --> 00:12:21,436
+"This wee little bairn of a theory
+nearly blew my kilt off"?
+
+213
+00:12:21,639 --> 00:12:24,517
+No. You have to read it
+how Dr. Angus McDoogal...
+
+214
+00:12:24,720 --> 00:12:27,029
+...of the University of Edinburgh would.
+
+215
+00:12:27,240 --> 00:12:29,276
+[SCOTTISH ACCENT]
+"This wee little bairn of a theory...
+
+216
+00:12:29,439 --> 00:12:31,350
+...nearly blew me kilt off."
+
+217
+00:12:33,680 --> 00:12:35,238
+Oh! He wrote back.
+
+218
+00:12:35,439 --> 00:12:38,988
+"Cooper and Hofstadter resorting
+to juvenile attempts at humor...
+
+219
+00:12:39,199 --> 00:12:42,157
+...is proof they have nothing
+to back up their ridiculous paper.
+
+220
+00:12:42,360 --> 00:12:45,477
+It should come as no surprise
+given they work at Caltech...
+
+221
+00:12:45,680 --> 00:12:51,038
+...essentially a technical school where
+even the physicists are basically engineers."
+
+222
+00:12:51,240 --> 00:12:53,117
+Engineers?
+
+223
+00:12:54,560 --> 00:12:57,279
+Do you know how insulting that is?
+
+224
+00:12:57,880 --> 00:12:59,279
+Yes.
+
+225
+00:13:00,079 --> 00:13:03,515
+Guys, this person's just going
+out of their way to get a rise out of you.
+
+226
+00:13:03,720 --> 00:13:05,597
+Yeah, but it's still so aggravating.
+
+227
+00:13:05,800 --> 00:13:08,234
+All the other comments said nice things.
+Focus on those.
+
+228
+00:13:08,439 --> 00:13:13,832
+Yeah. Dr. Dmitri Plancovik
+of Moscow University said:
+
+229
+00:13:14,040 --> 00:13:17,715
+[RUSSIAN ACCENT] "This paper great.
+I love it more than vodka."
+
+230
+00:13:19,439 --> 00:13:21,873
+See? Better with the accent.
+
+231
+00:13:22,840 --> 00:13:25,274
+-And send.
+-What did you write?
+
+232
+00:13:25,480 --> 00:13:28,517
+I'm done hiding from bullies.
+I am taking this into the real world.
+
+233
+00:13:28,720 --> 00:13:31,234
+-What does that mean?
+-I told him we'll meet face-to-face.
+
+234
+00:13:31,439 --> 00:13:32,508
+Anytime, anywhere.
+
+235
+00:13:32,720 --> 00:13:35,359
+You crazy? You don't know
+who this person is. Delete that.
+
+236
+00:13:35,560 --> 00:13:38,358
+-Yeah, come on, Sheldon.
+-Okay, okay, calm down.
+
+237
+00:13:38,520 --> 00:13:40,795
+[COMPUTER CHIMES]
+
+238
+00:13:40,959 --> 00:13:42,233
+It's him.
+
+239
+00:13:42,439 --> 00:13:44,077
+He's trying to video chat.
+
+240
+00:13:48,159 --> 00:13:50,957
+Perhaps I shouldn't have taken this
+into the real world.
+
+241
+00:13:51,600 --> 00:13:53,033
+Oh, really?
+
+242
+00:13:56,040 --> 00:13:58,508
+"'Time travel, I don't understand,'
+said Amelia.
+
+243
+00:13:58,720 --> 00:14:01,188
+Cooper stared at her,
+'Which word don't you understand...
+
+244
+00:14:01,400 --> 00:14:03,277
+...time or travel?"'
+
+245
+00:14:03,759 --> 00:14:07,638
+Wow, even in your fantasies
+Sheldon's kind of exhausting.
+
+246
+00:14:08,719 --> 00:14:11,438
+He's like that in the beginning
+so she can change him.
+
+247
+00:14:11,639 --> 00:14:12,913
+It's called good writing.
+
+248
+00:14:14,160 --> 00:14:15,957
+And wishful thinking.
+
+249
+00:14:17,040 --> 00:14:19,110
+"It stung Amelia
+when he spoke to her this way.
+
+250
+00:14:19,319 --> 00:14:22,277
+In her one-room schoolhouse
+she was always the smartest student...
+
+251
+00:14:22,480 --> 00:14:25,916
+...regularly besting the boys in her class.
+But this was no boy in front of her.
+
+252
+00:14:26,120 --> 00:14:27,109
+This was a man."
+
+253
+00:14:27,319 --> 00:14:28,957
+Here we go.
+
+254
+00:14:29,160 --> 00:14:32,550
+"Cooper told Amelia about all the
+incredible things the future would hold...
+
+255
+00:14:32,759 --> 00:14:35,432
+...like computers and living past 30.
+
+256
+00:14:35,639 --> 00:14:37,357
+He asked her if she had any questions.
+
+257
+00:14:37,560 --> 00:14:40,711
+All she longed to ask was if his heart
+was beating as fast as hers...
+
+258
+00:14:40,920 --> 00:14:43,150
+...but she was too afraid
+to hear the answer."
+
+259
+00:14:43,360 --> 00:14:44,588
+Oh, Amelia.
+
+260
+00:14:44,800 --> 00:14:49,078
+"So instead she asked if in the future
+Montana ever became a state."
+
+261
+00:14:52,879 --> 00:14:55,996
+Hey, in the 1800s,
+that was considered flirting.
+
+262
+00:14:57,960 --> 00:15:00,918
+I'm so sick of people
+being mean on the Internet.
+
+263
+00:15:01,120 --> 00:15:04,396
+I think the anonymity makes everyone
+feel like they can say things...
+
+264
+00:15:04,600 --> 00:15:06,113
+...they'd never say to your face.
+
+265
+00:15:07,040 --> 00:15:08,473
+Interesting.
+
+266
+00:15:08,680 --> 00:15:12,434
+I can't think of a single thing
+I wouldn't say to someone's face.
+
+267
+00:15:13,800 --> 00:15:15,597
+I never noticed that about you.
+
+268
+00:15:17,199 --> 00:15:20,316
+You know what,
+at least you guys did something.
+
+269
+00:15:20,519 --> 00:15:25,229
+You know, you had a theory, you wrote
+a paper, you made an actual contribution.
+
+270
+00:15:25,439 --> 00:15:28,590
+All guys like this do is just tear down
+other people's work.
+
+271
+00:15:29,919 --> 00:15:31,352
+He's right.
+
+272
+00:15:32,199 --> 00:15:35,271
+You know, I say we call this person back.
+
+273
+00:15:35,480 --> 00:15:37,675
+We've got no reason to hide.
+
+274
+00:15:39,240 --> 00:15:41,071
+All right, do it. Call him.
+
+275
+00:15:41,280 --> 00:15:44,113
+Let's find out what this loser's
+ever accomplished.
+
+276
+00:15:47,160 --> 00:15:48,752
+Click it with me.
+
+277
+00:15:50,079 --> 00:15:52,798
+-One, two, three, click.
+-Click.
+
+278
+00:15:52,959 --> 00:15:54,711
+[COMPUTER DIALING]
+
+279
+00:15:55,279 --> 00:15:57,395
+HAWKING [OVER COMPUTER]:
+Well, hello, there.
+
+280
+00:15:58,320 --> 00:15:59,912
+Professor Hawking?
+
+281
+00:16:00,120 --> 00:16:03,430
+Oh, brother, you should see
+the look on your faces.
+
+282
+00:16:05,639 --> 00:16:07,675
+You really didn't like our paper?
+
+283
+00:16:07,879 --> 00:16:10,154
+I like your paper very much.
+
+284
+00:16:10,360 --> 00:16:12,476
+The premise is intriguing.
+
+285
+00:16:13,040 --> 00:16:14,996
+Then why are you attacking us?
+
+286
+00:16:15,200 --> 00:16:20,149
+If you were sitting in a chair for 40 years,
+you'd get bored too.
+
+287
+00:16:22,480 --> 00:16:24,232
+Anyway, gotta go.
+
+288
+00:16:24,439 --> 00:16:28,318
+I promised to help the neighbor kid
+with his math homework.
+
+289
+00:16:29,840 --> 00:16:30,955
+Ciao.
+
+290
+00:16:34,360 --> 00:16:36,590
+Stephen Hawking liked our paper. Heh.
+
+291
+00:16:37,840 --> 00:16:40,559
+He said the premise is intriguing.
+
+292
+00:16:41,079 --> 00:16:45,277
+Good to see you again,
+Mr. Stephen-Hawking-Liked-Our-Paper.
+
+293
+00:16:46,959 --> 00:16:50,315
+And you as well,
+Mr. Our-Premise-ls-lntriguing.
+
+294
+00:16:51,160 --> 00:16:54,709
+How do you do,
+Mr. I'll-Admit-That's-Pretty-Cool?
+
+295
+00:16:55,959 --> 00:16:58,473
+Yeah, you keep setting me up for failure.
+
+296
+00:17:01,319 --> 00:17:04,550
+"With a heavy heart, Amelia stood
+before the newly-repaired time machine.
+
+297
+00:17:04,760 --> 00:17:07,228
+She regretted giving Cooper
+the part he needed."
+
+298
+00:17:07,439 --> 00:17:10,351
+Because she wanted him
+to give her the part she needed.
+
+299
+00:17:12,400 --> 00:17:15,949
+-Okay, that's enough.
+-No, I really wanna know what happens.
+
+300
+00:17:16,160 --> 00:17:18,879
+And Bernadette really, really,
+wants to know what happens.
+
+301
+00:17:20,839 --> 00:17:22,238
+You're just making fun of me.
+
+302
+00:17:22,439 --> 00:17:25,237
+No, l was just kidding, I'm sorry.
+And the story's really good.
+
+303
+00:17:25,439 --> 00:17:27,157
+No, it is. Does he stay?
+
+304
+00:17:27,360 --> 00:17:30,796
+Do they kiss?
+Does she find out about Montana?
+
+305
+00:17:32,039 --> 00:17:33,472
+Please?
+
+306
+00:17:33,759 --> 00:17:35,112
+Fine.
+
+307
+00:17:36,799 --> 00:17:41,589
+"As Cooper prepared to depart,
+tears filled Amelia's eyes.
+
+308
+00:17:41,799 --> 00:17:46,668
+He took her hand in his and said,
+'I can't stay, but I will never forget you.'
+
+309
+00:17:47,480 --> 00:17:52,235
+He brushed his fingers against her cheek,
+then quickly stepped into the machine.
+
+310
+00:17:52,439 --> 00:17:56,114
+'Please don't go,' she whispered,
+but it was too late.
+
+311
+00:17:56,319 --> 00:17:58,071
+The engine hummed to life."
+
+312
+00:17:58,279 --> 00:18:00,190
+But they didn't even kiss.
+
+313
+00:18:00,919 --> 00:18:04,798
+"She turned away, wiping her eyes.
+She couldn't bear to watch...
+
+314
+00:18:04,999 --> 00:18:07,991
+...her one chance at true love
+disappear forever.
+
+315
+00:18:08,199 --> 00:18:12,477
+Then she felt a strong hand
+on her shoulder spin her around.
+
+316
+00:18:12,720 --> 00:18:13,709
+It was Cooper."
+
+317
+00:18:13,959 --> 00:18:14,914
+[INHALES]
+
+318
+00:18:15,079 --> 00:18:16,068
+Yes.
+
+319
+00:18:18,159 --> 00:18:20,593
+"'What about the future?' asked Amelia.
+
+320
+00:18:20,799 --> 00:18:23,393
+He looked deeply into her eyes
+and whispered:
+
+321
+00:18:23,599 --> 00:18:25,715
+'There is no future without you.'
+
+322
+00:18:26,480 --> 00:18:27,993
+He pulled her in close.
+
+323
+00:18:28,520 --> 00:18:30,636
+She began to tremble all over.
+
+324
+00:18:31,400 --> 00:18:32,913
+She felt his warm breath--"
+
+325
+00:18:33,120 --> 00:18:36,157
+-You won't believe what Stephen Hawking--
+-Get out!
+
+326
+00:18:46,999 --> 00:18:49,194
+Is the water warm enough?
+
+327
+00:18:49,679 --> 00:18:53,035
+Given the fact that you took the time
+to build a wood fire...
+
+328
+00:18:53,240 --> 00:18:56,949
+...draw the water from the well and heat it,
+it would be rude to complain.
+
+329
+00:18:59,240 --> 00:19:01,708
+But since you asked, it's a little nippy.
+
+330
+00:19:02,920 --> 00:19:04,592
+I can fix that.
+
+331
+00:19:09,640 --> 00:19:13,872
+I couldn't help but notice
+your unusual undergarments.
+
+332
+00:19:14,080 --> 00:19:17,356
+They're not undergarments.
+They're Underoos.
+
+333
+00:19:19,640 --> 00:19:23,553
+Where I come from, they're known
+as "Underwear that's fun to wear."
+
+334
+00:19:25,359 --> 00:19:28,157
+And what's the significance of the spider?
+
+335
+00:19:28,360 --> 00:19:30,954
+Oh, that represents Spider-Man.
+
+336
+00:19:31,160 --> 00:19:33,628
+He does whatever a spider can.
+
+337
+00:19:36,160 --> 00:19:38,720
+There's a lot of rhyming in the future,
+isn't there?
+
+338
+00:19:39,360 --> 00:19:42,557
+You're right.
+This is even weirder than I thought.
+
+339
+00:19:43,400 --> 00:19:45,994
+-You want me to stop reading?
+-Are you kidding? No, no.
+
+340
+00:19:47,799 --> 00:19:50,836
+"As he stood for Amelia to dry him...."
+
+341
+00:19:55,359 --> 00:19:57,270
+So tell me, Cooper...
+
+342
+00:19:57,839 --> 00:20:01,832
+...are the ways of physical love
+different in the future?
+
+343
+00:20:02,039 --> 00:20:03,358
+Yeah, okay, I'm good.
+
+344
+00:20:30,879 --> 00:20:32,870
+[English - us - an]
+

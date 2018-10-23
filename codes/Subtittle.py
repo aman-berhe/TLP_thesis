@@ -12,8 +12,13 @@ functions--> get subtitlext (start,end)
 
 outputs-->
 """
-import pysub
-import nlpPreprocessing
+import pysrt
+#import nlpPreprocessing
+
+Got='/TLP_thesis/subtitles/GoT/English'
+BBT='/TLP_thesis/subtitles/BBT/English'
+HP='/TLP_thesis/subtitles/HarryPotter/English'
+
 class Subtitle:
 
     def __init__(self,subFile):
@@ -23,18 +28,19 @@ class Subtitle:
         self.end=[]
 
     def readSub(self):
-        self.subs=pysub.read(self.subFile)
+        self.subs=pysub.open(self.subFile)
         for i in self.subs:
-            self.start.append(()(i.start.hours*60)+i.start.seconds+(i.start.milliseconds/1000)))
-            self.end.append(()(i.end.hours*60)+i.end.seconds+(i.end.milliseconds/1000)))
+            self.start.append(((i.start.hours*60)+i.start.seconds+(i.start.milliseconds/1000)))
+            self.end.append(((i.end.hours*60)+i.end.seconds+(i.end.milliseconds/1000)))
             self.subtitleTexts.append(i.texts)
         return self.start,self.end,self.subtitleTexts
 
     def getsubSentences(self, startTime,endTime):
-        #self.subs=pysub.read(self.subFile)
-        texts=self.subs.slice(starts_after={'minutes':(int(startTime/60)),'seconds':(startTime%60)},
-        end_before={'minutes':(int(endTime/60)),'seconds':(endTime%60))
+        self.subs=pysrt.open(self.subFile)
+        texts=self.subs.slice(starts_after={'minutes':(int(startTime/60)),'seconds':(startTime%60)},ends_before={'minutes':(int(endTime/60)),'seconds':(endTime%60)})
 
-        self.sentences=nlpPreprocessing.sentenceSplit(texts.text)
-
-        return self.sentences
+        #self.sentences=nlpPreprocessing.sentenceSplit(texts.text)
+        if (len(texts.text)==0):
+            return 'The Segment Does not have a Text/Dialogue'
+        else:
+            return texts.text

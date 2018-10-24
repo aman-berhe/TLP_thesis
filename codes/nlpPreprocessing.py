@@ -12,6 +12,8 @@ from nltk import *
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
 from textblob import TextBlob
+from datetime import date, datetime, time, timedelta
+
 
 
 class preProcessing:
@@ -21,18 +23,21 @@ class preProcessing:
         self.delta=2
         self.text=""
 
-    """
-    gets a text as inpus and returns sequence of sentences using
-    textblob library
-    """
     def getSentences(self, text):
+        """
+        gets a text as inpus and returns sequence of sentences using
+        textblob library
+        """
         blob=TextBlob(text)
         sentences=[]
         for i in blob.sentences:
             sentences.append(i)
-
         return sentences
+
     def correctSpelling(sentences):
+        """
+        Gets a text ot sequence of sentences and returns corrected spellings of the sentences
+        """
         corrected=[]
         for s in sentences:
             spell=TextBlob(s)
@@ -41,10 +46,10 @@ class preProcessing:
                 corrected.append(sp)
         return corrected
 
-
-
-
     def removeStopwords(self,text):
+        """
+        Removes stop words of an input text using the standard English stop words in nltk tool kit.
+        """
         self.text=text
         stopWords = set(stopwords.words('english'))
         words = word_tokenize(text)
@@ -54,17 +59,23 @@ class preProcessing:
                 wordsFiltered.append(w)
         return wordsFiltered
 
-"""
-Compute part or whole subtitle sentiment analysis using interval delta=2
-"""
+    def create_intervals(self,start, end, delta):
+        current=start
+        while current<=end:
+            current=(datetime.combine(date.today(),current)+delta).time()
+            yield current
+
     def sentiment_anal(self,subs,delta=2):
-        #subs=pysrt.open(file,encoding='iso-8859-1')
+        """
+        Compute part or whole subtitle sentiment analysis using interval delta=2
+        subs=pysrt.open(file,encoding='iso-8859-1')"""
         n=len(subs)
         intervals=[]
         start=time(0,0,0)
         end=subs[-1].end.to_time()
         delta=timedelta(minutes=delta)
-        for results in create_intervals(start, end, delta):
+        intv=self.create_intervals(start, end, delta)
+        for results in intv:
             intervals.append(results)
         sentiments=[]
         index=0
@@ -85,4 +96,4 @@ Compute part or whole subtitle sentiment analysis using interval delta=2
         #for k in range(0,n):
             #print(intervals[k])
             #print(subs[k].text)
-        return (intervals, sentiments,text)
+        return intervals, sentiments,text

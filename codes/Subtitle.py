@@ -28,6 +28,9 @@ class Subtitle:
         self.end=[]
 
     def readSub(self):
+        """
+            Reads the subtitle file (.srt) and returns all the texts and their starting and endind time as lists
+        """
         self.subs=pysub.open(self.subFile)
         for i in self.subs:
             self.start.append(((i.start.hours*60)+i.start.seconds+(i.start.milliseconds/1000)))
@@ -36,11 +39,14 @@ class Subtitle:
         return self.start,self.end,self.subtitleTexts
 
     def getsubSentences(self, startTime,endTime):
+        """
+        Takes the subtitle file with a starting and ending time (in seconds) and returns part of the title text in the interval
+        """
         self.subs=pysrt.open(self.subFile)
         texts=self.subs.slice(starts_after={'minutes':(int(startTime/60)),'seconds':(startTime%60)},ends_before={'minutes':(int(endTime/60)),'seconds':(endTime%60)})
 
         #self.sentences=nlpPreprocessing.sentenceSplit(texts.text)
         if (len(texts.text)==0):
-            return 'The Segment Does not have a Text/Dialogue'
+            return 'The Segment Does not have a Text/Dialogue!'
         else:
-            return texts.text
+            return texts.text, texts

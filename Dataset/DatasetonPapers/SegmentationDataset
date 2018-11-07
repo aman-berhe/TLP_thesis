@@ -1,0 +1,11 @@
+Title:Video Scene Segmentation with a Semantic Similarity
+Data:Movies 
+Details: “A beautiful Mind”,  “The Fellowship of the ring”  “Gladiator”
+Result: Recall=0.889, Precision=0.696, F-score=0.78
+
+
+Title:A Deep Siamese Network for Scene Detection in Broad-
+cast Videos
+Data:BBC educational TV-series 11 episodes (each 50 min long) of Planet Earth
+Details: 4900 shots and 670 scenes
+Result: M_iou=0.51, F_co=0.62

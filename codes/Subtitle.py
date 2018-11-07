@@ -26,6 +26,7 @@ class Subtitle:
         self.subtitleTexts=[]
         self.start=[]
         self.end=[]
+        self.subDir=""
 
     def readSub(self):
         """

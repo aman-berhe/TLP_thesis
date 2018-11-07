@@ -1,0 +1,28 @@
+Title: Pairwise Word Interaction Modeling with Deep Neu-
+ral Networks for Semantic Similarity Measurement
+Data: Three recent SemEval competitions and two answer selection
+tasks
+Detail: 9,927 sentence pairs, 4,500 for training, 500 development set, and 4,927 testing
+Result: results: MSE=0.2329 p=0.8199 r=0.8784
+
+
+Tilte: Learning Text Similarity with Siamese Recurrent Net-
+works
+Data: job title taxonomy
+Detail:19,927 job titles into 4,431 groups
+Result: accuracy ((3) + extra words) Typos=1.00 Composition=0.84 Extra Words=0.76 Annotations=0.87
+
+
+Tilte:Document Similarity for Texts of Varying Lengths via
+Hidden Topics
+Data:537 pairs of projects and concepts involving 53 unique con-
+cepts from NGSS and 230 unique projects from Science Buddies
+Detail:
+Result: Precision=0.758±0.012, recall=0.885±0.071, fscore=
+
+
+Tilte:Short Text Similarity with Word Embeddings
+Data: Microsoft Research Paragraph Corpus
+Detail:5801 sentence pairs, 4076 training set and 1725 test set
+Result: Accuracy=0.766 Precision=0.781 recall=0.906 F-measure=0.839
+

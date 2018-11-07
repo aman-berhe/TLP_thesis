@@ -1,0 +1,4 @@
+Title:Storia: Towards Automatic Characters Identification in Unannotated Narrative Text
+Data:Russian folk tales translated into English
+Details: tales are either analyzed by Vladimir Propp (1973) or available in the Proppian Fairy Tale Markup Language collection.
+Result: accuracy=93.49 Precision=0.93 recall=0.91

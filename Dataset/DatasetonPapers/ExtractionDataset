@@ -1,0 +1,33 @@
+Tilte: Multimodal embedding fusion for robust speaker role
+recognition in video broadcast
+Data: REPERE corpus
+Detail:70 hours of video broadcast from 9 French speaking channels
+Result: Accuracy of 70.07, DER-man=26.65 and DER-Auto of 28.42
+
+Title:Unsupervised Text Recap Extraction for TV-Series
+Data:TVRecap 
+Details:106 episodes of 'Lost'
+Result: R-1=0.411 R-2=0.219 R-3=0.154
+
+
+Title:Towards Automatically Extracting Story Graphs from
+Natural Language Stories
+Data:21 Russian folk stories
+Details:
+Result: Mention extraction: recall=1.0,precision=0.893 Entity Classification: precision=0.567, recall=0.507
+
+Title:Naming TV Characters by Watching and Analyzing
+Dialogues
+Data: TV-series
+Details:The Big Bang Theory(BBT), Buffy the Vampire Slayer (Buffy), Lost
+Result: (S S+T: Accuracy) 62.2 79.1 34.0 80.5 35.1 70.9
+
+Title:Story Generation from Sequence of Independent Short Description
+Data:Visual Storytelling Dataset(VIST)
+Details:41300 image sequences aligned with caption and story pairs
+Result: BLEU-4=1.98 METEOR=0.07 TER=89.23 ROUGE-L=0.166
+
+Title:
+Data:
+Details:
+Result: 

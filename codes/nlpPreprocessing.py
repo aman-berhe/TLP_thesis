@@ -65,10 +65,15 @@ class preProcessing:
             current=(datetime.combine(date.today(),current)+delta).time()
             yield current
 
+    def average(self,y):
+        avg = float(sum(y))/len(y)
+        return avg
+
     def sentiment_anal(self,subs,delta=2):
         """
-        Compute part or whole subtitle sentiment analysis using interval delta=2
-        subs=pysrt.open(file,encoding='iso-8859-1')"""
+        Compute part or whole subtitle's sentiment analysis using interval delta=2
+        subs=pysrt.open(file,encoding='iso-8859-1')
+        """
         n=len(subs)
         intervals=[]
         start=time(0,0,0)
@@ -96,4 +101,4 @@ class preProcessing:
         #for k in range(0,n):
             #print(intervals[k])
             #print(subs[k].text)
-        return intervals, sentiments,text
+        return (intervals, sentiments)

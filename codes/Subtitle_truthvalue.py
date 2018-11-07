@@ -19,7 +19,7 @@ from nltk import sent_tokenize
 
 scenes_dir='/home/berhe/Desktop/LIMSI/TLP_thesis/Scenes/'
 subtitle_dir='/home/berhe/Desktop/LIMSI/TLP_thesis/subtitles/'
-def __init():
+def __init__():
     scenes_dir='/home/berhe/Desktop/LIMSI/TLP_thesis/Scenes/'
     subtitle_dir='/home/berhe/Desktop/LIMSI/TLP_thesis/subtitles/'
 

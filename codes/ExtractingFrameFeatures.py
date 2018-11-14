@@ -6,7 +6,9 @@ import numpy as np
 import cv2
 import sys
 import math
-
+from sklearn.metrics import pairwise_distances
+from scipy.spatial.distance import cosine,euclidean
+from sklearn import cluster
 
 """
 We can choose diffrent models pretrained networks in Keras using the GetModel(name)
@@ -29,7 +31,7 @@ def getModel(modelName='VGG16'):
 
 
 """
-get the VGG16 model weights to learn features
+get the VGG16 model weights to learn features for the time being
 """
 model=VGG16(weights='imagenet',include_top=False)
 """
@@ -54,8 +56,7 @@ def saveFrames(videoFile,model):
             sys.stdout.write('Extracting frame number %i'%frameId)
             sys.stdout.flush()
     cap.release()
-    print()
-    print('Extracting frames Finshed!!')
+
 
 
 def getFeatures(frame,model):
@@ -65,10 +66,12 @@ def getFeatures(frame,model):
     frame=image.load_img(path+frame,target_size(224,224))
     """
     frame_img=cv2.resize(frame,(224,224))
-    frame_img=frame_img.reshape(3,224,224)
+    #frame_img=frame_img.reshape(3,224,224)
     frame_img=image.img_to_array(frame_img)
     frame_data=np.expand_dims(frame_img,axis=0)
     frame_data=preprocess_input(frame_data)
+    sys.stdout.write('.')
+    sys.stdout.flush()
     frame_features=model.predict(frame_data)[0]
     frame_features=np.array(frame_features)
     frame_features=frame_features.flatten()
@@ -98,3 +101,28 @@ def getFrameFeatures(videoFile,model):
     print()
     print('Extracting Features of frames Finshed!!')
     return featuresList
+
+"""
+similairy matrix: takes the array of features and compute pairwise similairt of the features
+the features of the same frame has similarity score 1. So the diagonal of the return array is always 1
+"""
+def getSimilarityMatrix(featuresArr,distance):
+        return np.matrix((1-pairwise_distances(featuresArr,metric=distance)))
+
+
+"""
+Clustering the frames using the similarity matrix
+inputs: n_clusters-->number of clusters
+        clusterAlgo-->clustering algorithm to try
+        simMatrix-->The similairt matrix computed
+output: Cluster labels of each frame
+"""
+def getClusters(n_Clusters,clusterAlgo,simMatrix):
+    if clusterAlgo=="specteral" or clusterAlgo=="sp":
+        return cluster.SpectralClustering(n_Clusters,affinity='precomputed').fit_predict(simMatrix)
+    if clusterAlgo=="affinity" or clusterAlgo=="af":
+        return cluster.AffinityPropagation(affinity='precomputed').fit_predict(simMatrix)
+    if clusterAlgo=='KMeans' or clusterAlgo=='km':
+        return cluster.KMeans(n_clusters=n_Clusters, init='k-means++', max_iter=100, n_init=1).fit_predict(simMatrix)
+
+    return "No cluster Labels"

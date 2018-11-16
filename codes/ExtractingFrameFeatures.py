@@ -9,6 +9,7 @@ import math
 from sklearn.metrics import pairwise_distances
 from scipy.spatial.distance import cosine,euclidean
 from sklearn import cluster
+import time
 
 """
 We can choose diffrent models pretrained networks in Keras using the GetModel(name)
@@ -85,11 +86,14 @@ Frame featuress can be used to construct similarity matrix example using cosine 
 """
 def getFrameFeatures(videoFile,model):
     cap.cv2.VideoCapture(videoFile)
+    fps=cap.get(cv2.CAP_PROP_FPS)
     frameRate=cap.get(5)
+    timeStamp=[cap.get(cv2.CAP_PROP_POS_MSEC)]
     featuresList=[]
     while (cap.isOpened()):
         frameId=cap.get(1)
         ret,frame=cap.read()
+        timeStamp.append(cap.get(cv2.CAP_PROP_POS_MSEC))
         if ret!=True:
             break
         else:
@@ -100,7 +104,7 @@ def getFrameFeatures(videoFile,model):
     cap.release()
     print()
     print('Extracting Features of frames Finshed!!')
-    return featuresList
+    return featuresList,timeStamp
 
 """
 similairy matrix: takes the array of features and compute pairwise similairt of the features

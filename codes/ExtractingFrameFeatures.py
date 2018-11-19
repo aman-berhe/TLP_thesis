@@ -10,6 +10,7 @@ from sklearn.metrics import pairwise_distances
 from scipy.spatial.distance import cosine,euclidean
 from sklearn import cluster
 import time
+import pandas as pd
 
 """
 We can choose diffrent models pretrained networks in Keras using the GetModel(name)
@@ -130,3 +131,29 @@ def getClusters(n_Clusters,clusterAlgo,simMatrix):
         return cluster.KMeans(n_clusters=n_Clusters, init='k-means++', max_iter=100, n_init=1).fit_predict(simMatrix)
 
     return "No cluster Labels"
+
+"""
+Takes the time stamp of each frame and the manually segmented scene boundries of an episode
+It returns the cluster labels as sequence of frame cluster labels.
+For evaluation puposes of the frame segmentation based on clustering neighbouring frames
+"""
+def frameGroundClusters(episodeNumber=1,frameTimeStamp):
+    referencecluster=[]
+    idx=0
+    Df=pd.read_csv('/home/berhe/Desktop/Thesis_git/TLP_thesis/Scenes/all_scenes.csv')
+    episodeTime=Df.query('Episode==1')['end_time']
+    episodeTime=[i for i in episodeTime]
+    for i in frameTimeStamp:
+        try:
+            if i<=episodeTime[idx]:
+                referencecluster.append(idx)
+            else:
+                idx=idx+1
+                referencecluster.append(idx)
+        except IndexError:
+            idx=idx+1
+            leng=len(frameTimeStamp)-len(referencecluster)
+            for j in range(1,leng):
+                referencecluster.append(idx)
+            break
+    return referencecluster

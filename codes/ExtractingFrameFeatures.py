@@ -11,10 +11,13 @@ from scipy.spatial.distance import cosine,euclidean
 from sklearn import cluster
 import time
 import pandas as pd
+import Segmantation_lib as sg
+from tqdm import tqdm_notebook as tqdm
 
 """
 We can choose diffrent models pretrained networks in Keras using the GetModel(name)
 """
+videoFile='/people/berhe/Bureau/video/GameOfThrones.Season01.Episode01.mkv'
 
 def getModel(modelName='VGG16'):
     if modelName=='VGG16':
@@ -59,6 +62,56 @@ def saveFrames(videoFile,model):
             sys.stdout.flush()
     cap.release()
 
+def getMean(tempFeatures):
+    print(len(tempFeatures))
+    meanFeature=np.mean(tempFeatures,axis=0)
+    #print(tempFeatures[0].shape)
+    return meanFeature
+
+def getframes(frameNumber,videoFile='/people/berhe/Bureau/video/GameOfThrones.Season01.Episode01.mkv'):
+    frames=[]
+    cap=cv2.VideoCapture(videoFile)
+    frameRate=cap.get(5)
+    fps=cap.get(cv2.CAP_PROP_FPS)
+    timeStamp=[cap.get(cv2.CAP_PROP_POS_MSEC)]
+    frameIds=[]
+    while(cap.isOpened()):
+        frameId=cap.get(1)
+        ret,frame=cap.read()
+        if ret!=True:
+            break
+        if(frameId%math.floor(frameNumber)==0):
+            timeStamp.append(cap.get(cv2.CAP_PROP_POS_MSEC))
+            frames.append(frame)
+            frameIds.append(frameId)
+            sys.stdout.write('\r%i'%frameId)
+            sys.stdout.flush()
+    cap.release()
+    print('\n Done!')
+    return frames,timeStamp,frameIds
+
+def getFrames_byTimeStamp(shotStart,ShotEnd,videoFile):
+    frames=[]
+    cap=cv2.VideoCapture(videoFile)
+    #frameRate=cap.get(5)
+    #fps=cap.get(cv2.CAP_PROP_FPS)
+    timeStamp=cap.get(cv2.CAP_PROP_POS_MSEC)
+    frameIds=[]
+    while(cap.isOpened()):
+        frameId=cap.get(1)
+        ret,frame=cap.read()
+        if ret!=True:
+            break
+        if(shotStart <= timeStamp and timeStamp < ShotEnd):
+            timeStamp=cap.get(cv2.CAP_PROP_POS_MSEC)
+            frames.append(frame)
+            #frameIds.append(frameId)
+            sys.stdout.write('\r%i'%frameId)
+            sys.stdout.flush()
+    cap.release()
+    print('\n Done!')
+    return frames
+
 
 
 def getFeatures(frame,model):
@@ -72,8 +125,8 @@ def getFeatures(frame,model):
     frame_img=image.img_to_array(frame_img)
     frame_data=np.expand_dims(frame_img,axis=0)
     frame_data=preprocess_input(frame_data)
-    sys.stdout.write('.')
-    sys.stdout.flush()
+    #sys.stdout.write('.')
+    #sys.stdout.flush()
     frame_features=model.predict(frame_data)[0]
     frame_features=np.array(frame_features)
     frame_features=frame_features.flatten()
@@ -86,7 +139,7 @@ the VGG16 mode of imagenet data. we have a list of frame features.
 Frame featuress can be used to construct similarity matrix example using cosine similairy.
 """
 def getFrameFeatures(videoFile,model):
-    cap.cv2.VideoCapture(videoFile)
+    cap=cv2.VideoCapture(videoFile)
     fps=cap.get(cv2.CAP_PROP_FPS)
     frameRate=cap.get(5)
     timeStamp=[cap.get(cv2.CAP_PROP_POS_MSEC)]
@@ -98,7 +151,7 @@ def getFrameFeatures(videoFile,model):
         if ret!=True:
             break
         else:
-            sys.stdout.write('Extracting frame number %i'%frameId)
+            sys.stdout.write('\rExtracting frame number %i'%frameId)
             sys.stdout.flush()
             frame_features=getFeatures(frame,model)
             featuresList.append(frame_features)
@@ -106,6 +159,54 @@ def getFrameFeatures(videoFile,model):
     print()
     print('Extracting Features of frames Finshed!!')
     return featuresList,timeStamp
+"""
+Get the shot frame features
+"""
+def shotFeatures(videoFile,shotsFile):
+    shotStart,shotEnd=sg.getShots(shotFile=shotsFile)
+    shotFeaturesList=[]
+    tempFrames=[]
+    with tqdm(total=len(shotEnd),file=sys.stdout) as pbar:
+        for i in range(len(shotEnd)):
+            tempFrames=getFrames_byTimeStamp(shotStart[i],shotEnd[i],videoFile)
+            tempFrames=random.sample(xrange(len(tempFeatures)),3)
+            for frame in tempFrames:
+                shotFeaturesList.append(getFeatures(frame,model))
+            pbar.update(1)
+    return shotFeaturesList
+
+def frameFeatures_Shots(videoFile,shotsFile):
+    cap=cv2.VideoCapture(videoFile)
+    fps=cap.get(cv2.CAP_PROP_FPS)
+    timeStamp=[cap.get(cv2.CAP_PROP_POS_MSEC)]
+    frameRate=cap.get(5)
+    avgdFeatures=[]
+    tempFeatures=[]
+    shotStart,shotEnd=sg.getShots(shotFile=shotsFile)
+    idx=0
+    while (cap.isOpened()):
+        frameId=cap.get(1)
+        ret,frame=cap.read()
+        timeSt=cap.get(cv2.CAP_PROP_POS_MSEC)
+        if ret!=True:
+            break
+        else:
+            if (timeSt/1000)<shotEnd[idx]:
+                tempFeatures.append(getFeatures(frame,model))
+            else:
+                if len(tempFeatures)!=0:
+                    meanFeature=np.mean(tempFeatures,axis=0)
+                    avgdFeatures.append(meanFeature)
+                    idx=idx+1
+                if idx == len(shotEnd):
+                    tempFeatures=[]
+                    idx=idx+1
+                    break
+        sys.stdout.write('\r Extracting frame number %i'%frameId)
+        sys.stdout.flush()
+    cap.release()
+    print('\nDone!')
+    return avgdFeatures, shotEnd
 
 """
 similairy matrix: takes the array of features and compute pairwise similairt of the features
@@ -137,7 +238,8 @@ Takes the time stamp of each frame and the manually segmented scene boundries of
 It returns the cluster labels as sequence of frame cluster labels.
 For evaluation puposes of the frame segmentation based on clustering neighbouring frames
 """
-def frameGroundClusters(episodeNumber=1,frameTimeStamp):
+
+def frameGroundClusters(episodeNumber,frameTimeStamp):
     referencecluster=[]
     idx=0
     Df=pd.read_csv('/home/berhe/Desktop/Thesis_git/TLP_thesis/Scenes/all_scenes.csv')

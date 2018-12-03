@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 import networkx as nx
 from nltk import texttiling
 import nltk
-import uts
 from matplotlib import pylab
 from pyannote.core import Segment, Timeline
 from nltk.stem import PorterStemmer, WordNetLemmatizer
@@ -51,6 +50,20 @@ def preprocessingThreads (threads=threads):
             continue
 
     return  shotSeq, shotBondry, data1
+
+"""
+Get shot timing: start tile and end time from a json file of shots generated from pyannote
+"""
+
+def getShots(shotFile):
+    with open(shotFile,'r') as f:
+        data=json.load(f)
+    shotStart=[]
+    shotEnd=[]
+    for i in data['content']:
+        shotEnd.append(i['end'])
+        shotStart.append(i['start'])
+    return shotStart,shotEnd
 
 """
 Preprocess the manually annotated data of Estenders: or any file that have a sentence with its start time. The scene segmentation is done manually.

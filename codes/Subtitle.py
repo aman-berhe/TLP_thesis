@@ -13,6 +13,7 @@ functions--> get subtitlext (start,end)
 outputs-->
 """
 import pysrt
+from string import punctuation
 #import nlpPreprocessing
 
 Got='/TLP_thesis/subtitles/GoT/English'
@@ -50,4 +51,5 @@ class Subtitle:
         if (len(texts.text)==0):
             return 'The Segment Does not have a Text/Dialogue!'
         else:
-            return texts.text, texts
+            text=txt=texts.text.translate(str.maketrans('', '', punctuation))
+            return text

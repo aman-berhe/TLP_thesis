@@ -16,7 +16,7 @@ from datetime import date, datetime, time, timedelta
 
 
 
-class preProcessing:
+class Pre_Processing:
 
     def __init__(self, textInput):
         self.textInput=textInput

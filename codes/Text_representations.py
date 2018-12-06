@@ -5,6 +5,7 @@ from textblob import TextBlob
 import nlpPreprocessing as nlp
 import os
 import pysrt
+import numpy as np
 
 book1='/home/berhe/Desktop/Thesis_git/TLP_thesis/Descriptions/AClashOfKings.txt'
 book2='/home/berhe/Desktop/Thesis_git/TLP_thesis/Descriptions/AGameOfThrones.txt'
@@ -95,7 +96,7 @@ class TextEmbeddings:
     """
     Getting avaerage vectors of of sentences for sentence embedding puposes.
     """
-    def avg_feature_vector(sentence, model, num_features, index2word_set):
+    def avg_feature_vector(self,sentence, model, num_features, index2word_set):
         words = sentence.split()
         feature_vec = np.zeros((num_features, ), dtype='float32')
         n_words = 0

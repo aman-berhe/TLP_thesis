@@ -13,6 +13,7 @@ import time
 import pandas as pd
 import Segmantation_lib as sg
 from tqdm import tqdm_notebook as tqdm
+import random
 
 """
 We can choose diffrent models pretrained networks in Keras using the GetModel(name)
@@ -69,7 +70,7 @@ def getMean(tempFeatures):
     return meanFeature
 
 def getframes(frameNumber,videoFile='/people/berhe/Bureau/video/GameOfThrones.Season01.Episode01.mkv'):
-    frames=[]
+    framesFeatures=[]
     cap=cv2.VideoCapture(videoFile)
     frameRate=cap.get(5)
     fps=cap.get(cv2.CAP_PROP_FPS)
@@ -80,36 +81,41 @@ def getframes(frameNumber,videoFile='/people/berhe/Bureau/video/GameOfThrones.Se
         ret,frame=cap.read()
         if ret!=True:
             break
-        if(frameId%math.floor(frameNumber)==0):
-            timeStamp.append(cap.get(cv2.CAP_PROP_POS_MSEC))
-            frames.append(frame)
-            frameIds.append(frameId)
-            sys.stdout.write('\r%i'%frameId)
-            sys.stdout.flush()
+        #if(frameId%math.floor(frameNumber)==0):
+        timeStamp.append(cap.get(cv2.CAP_PROP_POS_MSEC))
+        framesFeatures.append(getFeatures(frame,model))
+        frameIds.append(frameId)
+        sys.stdout.write('\r%i'%frameId)
+        sys.stdout.flush()
     cap.release()
     print('\n Done!')
-    return frames,timeStamp,frameIds
+    return framesFeatures,timeStamp,frameIds
 
-def getFrames_byTimeStamp(shotStart,ShotEnd,videoFile):
+def getFrames_byTimeStamp(shotStart,shotEnd,videoFile):
     frames=[]
     cap=cv2.VideoCapture(videoFile)
     #frameRate=cap.get(5)
     #fps=cap.get(cv2.CAP_PROP_FPS)
     timeStamp=cap.get(cv2.CAP_PROP_POS_MSEC)
     frameIds=[]
+    shotStart=shotStart*1000
+    shotEnd=shotEnd*1000
     while(cap.isOpened()):
         frameId=cap.get(1)
         ret,frame=cap.read()
+        #print(frame.shape)
         if ret!=True:
             break
-        if(shotStart <= timeStamp and timeStamp < ShotEnd):
-            timeStamp=cap.get(cv2.CAP_PROP_POS_MSEC)
-            frames.append(frame)
-            #frameIds.append(frameId)
-            sys.stdout.write('\r%i'%frameId)
-            sys.stdout.flush()
+        timeStamp=cap.get(cv2.CAP_PROP_POS_MSEC)
+        if(timeStamp>=shotStart):
+            if (timeStamp<shotEnd):
+                frames.append(frame)
+                sys.stdout.write('\r%i'%timeStamp)
+                sys.stdout.flush()
+            else:
+                break
+        #frameIds.append(frameId)  
     cap.release()
-    print('\n Done!')
     return frames
 
 
@@ -120,6 +126,7 @@ def getFeatures(frame,model):
     if the first argument is a file of image add the following code and continue
     frame=image.load_img(path+frame,target_size(224,224))
     """
+    #print(frame.shape)
     frame_img=cv2.resize(frame,(224,224))
     #frame_img=frame_img.reshape(3,224,224)
     frame_img=image.img_to_array(frame_img)
@@ -142,6 +149,7 @@ def getFrameFeatures(videoFile,model):
     cap=cv2.VideoCapture(videoFile)
     fps=cap.get(cv2.CAP_PROP_FPS)
     frameRate=cap.get(5)
+    print(frameRate)
     timeStamp=[cap.get(cv2.CAP_PROP_POS_MSEC)]
     featuresList=[]
     while (cap.isOpened()):
@@ -169,10 +177,15 @@ def shotFeatures(videoFile,shotsFile):
     with tqdm(total=len(shotEnd),file=sys.stdout) as pbar:
         for i in range(len(shotEnd)):
             tempFrames=getFrames_byTimeStamp(shotStart[i],shotEnd[i],videoFile)
-            tempFrames=random.sample(xrange(len(tempFeatures)),3)
-            for frame in tempFrames:
-                shotFeaturesList.append(getFeatures(frame,model))
+            #print(shotStart[i],shotEnd[i],len(tempFrames))
+            if len(tempFrames)>3:
+                random.shuffle(tempFrames)
+                tempFrames=tempFrames[0:3]#random.sample(range(len(tempFrames)),3)
+            for f in range(len(tempFrames)):
+                shotFeaturesList.append(getFeatures(tempFrames[f],model))
+            #print(len(shotFeaturesList))
             pbar.update(1)
+        print('\n Done!')
     return shotFeaturesList
 
 def frameFeatures_Shots(videoFile,shotsFile):
@@ -188,6 +201,7 @@ def frameFeatures_Shots(videoFile,shotsFile):
         frameId=cap.get(1)
         ret,frame=cap.read()
         timeSt=cap.get(cv2.CAP_PROP_POS_MSEC)
+        timeStamp.append(timeSt)
         if ret!=True:
             break
         else:
@@ -206,7 +220,7 @@ def frameFeatures_Shots(videoFile,shotsFile):
         sys.stdout.flush()
     cap.release()
     print('\nDone!')
-    return avgdFeatures, shotEnd
+    return avgdFeatures, shotEnd,timeStamp
 
 """
 similairy matrix: takes the array of features and compute pairwise similairt of the features
@@ -242,12 +256,12 @@ For evaluation puposes of the frame segmentation based on clustering neighbourin
 def frameGroundClusters(episodeNumber,frameTimeStamp):
     referencecluster=[]
     idx=0
-    Df=pd.read_csv('/home/berhe/Desktop/Thesis_git/TLP_thesis/Scenes/all_scenes.csv')
+    Df=pd.read_csv('/people/berhe/Bureau/TLP_thesis/Scenes/all_scenes.csv')
     episodeTime=Df.query('Episode==1')['end_time']
     episodeTime=[i for i in episodeTime]
     for i in frameTimeStamp:
         try:
-            if i<=episodeTime[idx]:
+            if (i*1000)<=episodeTime[idx]:
                 referencecluster.append(idx)
             else:
                 idx=idx+1
@@ -259,3 +273,10 @@ def frameGroundClusters(episodeNumber,frameTimeStamp):
                 referencecluster.append(idx)
             break
     return referencecluster
+
+#if __name__=='__main__':
+#    
+#    framesFeatures,timeStamp,frameIds=getframes(1000,videoFile)
+#    framesFeatures=np.array(framesFeatures)
+#    SM=getSimilarityMatrix(framesFeatures,'cosine')
+      

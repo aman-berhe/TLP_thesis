@@ -1,4 +1,0 @@
-Exploring POS tagging
-
-
-2. On importance of word rewarding for adequate NMT(neural machine Translation)
